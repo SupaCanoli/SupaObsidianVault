@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Dr. Supa
+  - Dr. Octavio
 ---
 # History
 
