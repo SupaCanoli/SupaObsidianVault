@@ -1,0 +1,1 @@
+Head Department Manager of [[Strongarm Corporations|Strongarm Corp.]], and immediate higher-up to [[Supa|Dr. Supa]].
