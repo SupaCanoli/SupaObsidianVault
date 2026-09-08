@@ -1,1 +1,1 @@
-Head Department Manager of [[Strongarm Corporations|Strongarm Corp.]], and immediate higher-up to [[Supa|Dr. Supa]].
+Head Department Manager of [[Strongarm Corporations|Strongarm Corp.]], and immediate higher-up to [[Supa|Dr. Supa]]. He is also the person who decides whether or not certain projects or sectors are opened or closed at any point or time.
