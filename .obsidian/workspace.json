@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Strongarm Corporations Universe/Employees/Arden.md",
+                "file": "Strongarm Corporations Universe/Inventions/Project Nano-Symbiosis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arden"
+              "title": "Project Nano-Symbiosis"
             }
           },
           {
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Strongarm Corporations Universe/Employees/Arden.md",
+                "file": "Strongarm Corporations Universe/Inventions/Project Nano-Symbiosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Arden"
+              "title": "Backlinks for Project Nano-Symbiosis"
             }
           },
           {
@@ -143,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Strongarm Corporations Universe/Employees/Arden.md",
+                "file": "Strongarm Corporations Universe/Inventions/Project Nano-Symbiosis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Arden"
+              "title": "Outgoing links from Project Nano-Symbiosis"
             }
           },
           {
@@ -186,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Strongarm Corporations Universe/Employees/Arden.md",
+                "file": "Strongarm Corporations Universe/Inventions/Project Nano-Symbiosis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Arden"
+              "title": "Outline of Project Nano-Symbiosis"
             }
           },
           {
@@ -226,9 +226,9 @@
   },
   "active": "231f30ee3defb371",
   "lastOpenFiles": [
+    "Strongarm Corporations Universe/Inventions/B10 Biological System.md",
     "Supa.md",
     "Strongarm Corporations Universe/Employees/Arden.md",
-    "Strongarm Corporations Universe/Inventions/B10 Biological System.md",
     "Strongarm Corporations Universe/Inventions/Project Nano-Symbiosis.md",
     "Strongarm Corporations Universe/Inventions/Universe Hop Mechanism.md",
     "Strongarm Corporations Universe/Strongarm Corporations.md",
