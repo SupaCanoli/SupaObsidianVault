@@ -1,5 +1,6 @@
 ---
 aliases:
   - B 1/0 Biological System
+  - B 1/0
 ---
 The creation of this system also prompted the creation of the [[Universe Hop Mechanism]] due to a need to transport all of this information without [[Strongarm Corporations|Strongarm Corp.]] using this invention for warfare purpose. 

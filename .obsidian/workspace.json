@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Strongarm Corporations Universe/Inventions/Project Nano-Symbiosis.md",
+                "file": "Supa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project Nano-Symbiosis"
+              "title": "Supa"
+            }
+          },
+          {
+            "id": "09554b18302e6da9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
             }
           },
           {
@@ -35,7 +47,8 @@
               "title": "Universe Hop Mechanism"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a86f230e2a894127",
@@ -71,7 +84,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -124,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Strongarm Corporations Universe/Inventions/Project Nano-Symbiosis.md",
+                "file": "Supa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Project Nano-Symbiosis"
+              "title": "Backlinks for Supa"
             }
           },
           {
@@ -143,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Strongarm Corporations Universe/Inventions/Project Nano-Symbiosis.md",
+                "file": "Supa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Project Nano-Symbiosis"
+              "title": "Outgoing links from Supa"
             }
           },
           {
@@ -186,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Strongarm Corporations Universe/Inventions/Project Nano-Symbiosis.md",
+                "file": "Supa.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Project Nano-Symbiosis"
+              "title": "Outline of Supa"
             }
           },
           {
@@ -224,7 +239,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "231f30ee3defb371",
+  "active": "09554b18302e6da9",
   "lastOpenFiles": [
     "Strongarm Corporations Universe/Inventions/B10 Biological System.md",
     "Supa.md",
