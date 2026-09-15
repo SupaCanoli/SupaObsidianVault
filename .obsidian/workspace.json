@@ -6,7 +6,7 @@
       {
         "id": "f8de051855956397",
         "type": "tabs",
-        "dimension": 59.02922755741128,
+        "dimension": 47.651356993736954,
         "children": [
           {
             "id": "231f30ee3defb371",
@@ -20,6 +20,20 @@
               },
               "icon": "lucide-file",
               "title": "Arden Livius"
+            }
+          },
+          {
+            "id": "1f2506d4570beeba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Strongarm Corporations Universe/Inventions/Tenacious Quantum Thrash System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tenacious Quantum Thrash System"
             }
           },
           {
@@ -77,14 +91,28 @@
               "icon": "lucide-file",
               "title": "Strongarm Corporations"
             }
+          },
+          {
+            "id": "5f10e3a62509fc13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Supa Kosmas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Supa Kosmas"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "a86f230e2a894127",
         "type": "tabs",
-        "dimension": 40.970772442588725,
+        "dimension": 52.34864300626305,
         "children": [
           {
             "id": "e518cf8972e6632a",
@@ -273,12 +301,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81a6e61f69d6326f",
+  "active": "1f2506d4570beeba",
   "lastOpenFiles": [
-    "Strongarm Corporations Universe/Inventions/Full Quantum Frenetic System.md",
-    "Supa Kosmas.md",
-    "Strongarm Corporations Universe/Inventions/Project Nano-Symbiosis.md",
     "Strongarm Corporations Universe/B10 Biological System.md",
+    "Strongarm Corporations Universe/Inventions/Project Nano-Symbiosis.md",
+    "Strongarm Corporations Universe/Inventions/Tenacious Quantum Thrash System.md",
+    "Supa Kosmas.md",
     "Strongarm Corporations Universe/Employees/Arden Livius.md",
     "Strongarm Corporations Universe/Strongarm Corporations.md",
     "Strongarm Corporations Universe/Employees",
