@@ -1,1 +1,5 @@
+---
+aliases:
+  - Manager Livius
+---
 Head Department Manager of [[Strongarm Corporations|Strongarm Corp.]], and immediate higher-up to [[Supa|Dr. Octavio]]. He is also the person who decides whether or not certain projects or sectors are opened or closed at any point or time. He approved [[Supa|Dr. Octavio]]'s project after about 4 months of him developing a lead, and was still skeptical to allow him to do so.
