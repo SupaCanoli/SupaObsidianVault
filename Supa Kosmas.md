@@ -12,3 +12,6 @@ Supa is a scientist for [[Strongarm Corporations|Strongarm Corp.]] with a PhD in
 
 # The Creation of [[B10 Biological System|B 1/0]]
 [[Supa Kosmas|Supa]] is the sole creator of [[B10 Biological System|B 1/0]], and also the first person to be experimented on to test it's feasibility. 
+
+Relations to other employees
+[[Supa Kosmas|Supa]] 
