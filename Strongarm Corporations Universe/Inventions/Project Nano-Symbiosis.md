@@ -1,2 +1,2 @@
 
-The sector within [[Strongarm Corporations|Strongarm Corp.]] for [[Supa Kosmas|]]'s inventions regarding him being the first person to research into the theoretical use of nanotechnology. Some inventions that Supa made throughout this project include the [[B10 Biological System| B 1/0 Biological System]] and the [[Full Quantum Thrash Allocation]]
+The sector within [[Strongarm Corporations|Strongarm Corp.]] for [[Supa Kosmas|]]'s inventions regarding [[Supa Kosmas|Dr. Kosmas]] being the first person to research into the theoretical use of nanotechnology. Some inventions that Supa made throughout this project include the [[B10 Biological System| B 1/0 Biological System]] and the [[Full Quantum Thrash Allocation]]
