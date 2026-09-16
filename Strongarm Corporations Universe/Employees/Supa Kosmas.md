@@ -12,3 +12,9 @@ Supa, born February 4th, 2020, grew up to become a scientist for [[Strongarm Cor
 
 # The Creation of the [[B-10 Biological System]]
 [[Supa Kosmas|Supa]] is the sole creator of the [[B-10 Biological System]], or [[B-10 Biological System|B-10]] for short. He is also the first person he experimented [[B-10 Biological System|B-10]] on to test it's feasibility. 
+
+
+# Soul Type(s):
+Integrity, Perseverance, Justice, in that order.
+
+AFTER THE SWAP:
