@@ -1,87 +1,20 @@
 {
   "main": {
-    "id": "2928d95415ff1edc",
+    "id": "a433646ff6923539",
     "type": "split",
     "children": [
       {
-        "id": "0545675c2e9de0d9",
+        "id": "9ddc05136062ca5d",
         "type": "tabs",
-        "dimension": 46.39874739039666,
         "children": [
           {
-            "id": "abb865f0789cc33f",
+            "id": "ec1dc1c3ce83a4fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Strongarm Corporations Universe/Strongarm Corporations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Strongarm Corporations"
-            }
-          },
-          {
-            "id": "fce422c2da0d27e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Strongarm Corporations Universe/Inventions/B-10 Biological System/B-10 Cellular Structure System.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "B-10 Cellular Structure System"
-            }
-          },
-          {
-            "id": "b757400cba309ef6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Strongarm Corporations Universe/Employees/Supa Kosmas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Supa Kosmas"
-            }
-          },
-          {
-            "id": "ceed3abea525bb5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Solarpunk Magic Universe/Insert Solarpunk Bar Name Here.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Insert Solarpunk Bar Name Here"
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "a86f230e2a894127",
-        "type": "tabs",
-        "dimension": 53.60125260960334,
-        "children": [
-          {
-            "id": "e518cf8972e6632a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -90,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "37ea4f8855ae06b1",
+    "id": "1745acb964785f72",
     "type": "split",
     "children": [
       {
-        "id": "f81f48bb9839dce4",
+        "id": "a40a2fe5897d20cf",
         "type": "tabs",
         "children": [
           {
-            "id": "4fa094c7ef46f7ab",
+            "id": "4ad15f0c2c1f6d7d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -113,7 +46,7 @@
             }
           },
           {
-            "id": "2b2810c36b745182",
+            "id": "25f0659a79d567e5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -130,11 +63,14 @@
             }
           },
           {
-            "id": "2ba186865c5f0405",
+            "id": "30c91588819e9d46",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -146,20 +82,19 @@
     "width": 300
   },
   "right": {
-    "id": "c601962509b86702",
+    "id": "baf37989a7086d5f",
     "type": "split",
     "children": [
       {
-        "id": "eda323b8644769fc",
+        "id": "1e4dd8fdda524c16",
         "type": "tabs",
         "children": [
           {
-            "id": "28eb15a4b813cd4c",
+            "id": "01e181a8c5f43d55",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Supa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,25 +104,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Supa"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "0e7ee767471a0c23",
+            "id": "2a0d76f645c5bbca",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Supa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Supa"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "c08b0d4948394f7c",
+            "id": "d177b56dabb6742a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -202,7 +136,7 @@
             }
           },
           {
-            "id": "c55506b1d5382ffb",
+            "id": "2321cdea0c7e78da",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -216,36 +150,25 @@
             }
           },
           {
-            "id": "d5cd4ffe93234aa2",
+            "id": "0d776329bd102812",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Supa.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Supa"
-            }
-          },
-          {
-            "id": "ee3388cf50116af9",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,42 +182,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e518cf8972e6632a",
+  "active": "ec1dc1c3ce83a4fd",
   "lastOpenFiles": [
-    "Solarpunk Magic Universe/Insert Solarpunk Bar Name Here.md",
-    "Strongarm Corporations Universe/Employees/Supa Kosmas.md",
-    "Strongarm Corporations Universe/Inventions/B-10 Biological System/B-10 Cellular Structure System.md",
-    "Strongarm Corporations Universe/Inventions/B-10 Biological System/B-10 Operating System.md",
     "Strongarm Corporations Universe/Inventions/B-10 Biological System/B-10 Quantum Memory Thrashing.md",
-    "Strongarm Corporations Universe/Inventions/B-10 Biological System.md",
+    "Strongarm Corporations Universe/Inventions/B-10 Biological System/B-10 Operating System.md",
+    "Strongarm Corporations Universe/Inventions/B-10 Biological System/B-10 Cellular Structure System.md",
     "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md",
-    "Strongarm Corporations Universe/Strongarm Corporations.md",
-    "Strongarm Corporations Universe/Inventions/B-10 Biological System/B-10 Cell Restructure System.md",
-    "Strongarm Corporations Universe/Inventions/B-10 Biological System/B-10 File System.md",
-    "Strongarm Corporations Universe/Inventions/B-10 Biological System/B-10 Cell Restructure.md",
+    "Strongarm Corporations Universe/Inventions/B-10 Biological System.md",
     "Strongarm Corporations Universe/Inventions/B-10 Biological System",
-    "Strongarm Corporations Universe/Inventions/B10 Biological System/B-10 Cell Restructure.md",
-    "Supa Kosmas.md",
-    "Strongarm Corporations Universe/Inventions/B10 Biological System/B-10 Quantum Memory Thrashing.md",
-    "Strongarm Corporations Universe/Inventions/B10 Biological System/B-10 File System.md",
-    "Strongarm Corporations Universe/Inventions/B10 Biological System/B-10 Biological System.md",
-    "Strongarm Corporations Universe/Inventions/B10 Biological System/B 1-0 Biological System.md",
-    "Strongarm Corporations Universe/Inventions/B10 Biological System/B10 Quantum Memory Thrashing.md",
-    "Strongarm Corporations Universe/Inventions/B10 Biological System/B10 File System.md",
-    "Strongarm Corporations Universe/Inventions/B10 Biological System/B10 Biological System.md",
-    "Strongarm Corporations Universe/Inventions/B10 Biological System",
+    "Strongarm Corporations Universe/Employees/Supa Kosmas.md",
+    "Strongarm Corporations Universe/Employees/Arden Livius.md",
     "Strongarm Corporations Universe/Departments/Warfare Reverse Engineering Department.md",
     "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md",
-    "Strongarm Corporations Universe/Departments",
-    "Strongarm Corporations Universe/Inventions/Project Nano-Symbiosis.md",
-    "Strongarm Corporations Universe/Employees/Arden Livius.md",
-    "Strongarm Corporations Universe/B10 Biological System.md",
-    "Full Quantum Frenetic System.md",
+    "Strongarm Corporations Universe/Strongarm Corporations.md",
+    "Strongarm Corporations Universe/Inventions",
     "Strongarm Corporations Universe/Employees",
-    "Strongarm Corporations Universe/Strongarm Corporations",
-    "The B 1",
-    "Solarpunk Magic Universe",
+    "Strongarm Corporations Universe/Departments",
     "Strongarm Corporations Universe",
-    "Strongarm Corporations Universe/Inventions"
+    "Solarpunk Magic Universe/Insert Solarpunk Bar Name Here.md",
+    "Solarpunk Magic Universe"
   ]
 }
