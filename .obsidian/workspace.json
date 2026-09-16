@@ -4,17 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "9ddc05136062ca5d",
+        "id": "3fe70f1db80f89ab",
         "type": "tabs",
+        "dimension": 37.6536312849162,
         "children": [
           {
-            "id": "ec1dc1c3ce83a4fd",
+            "id": "5b5022cf65042aea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Solarpunk Magic Universe/Insert Solarpunk Bar Name Here.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Insert Solarpunk Bar Name Here"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e2b156047159e764",
+        "type": "tabs",
+        "dimension": 62.3463687150838,
+        "children": [
+          {
+            "id": "8ae37b0b3bb7c4b5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -162,13 +184,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "906085cc5af52b1c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,8 +214,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec1dc1c3ce83a4fd",
+  "active": "8ae37b0b3bb7c4b5",
   "lastOpenFiles": [
+    "Solarpunk Magic Universe/Insert Solarpunk Bar Name Here.md",
     "Strongarm Corporations Universe/Inventions/B-10 Biological System/B-10 Quantum Memory Thrashing.md",
     "Strongarm Corporations Universe/Inventions/B-10 Biological System/B-10 Operating System.md",
     "Strongarm Corporations Universe/Inventions/B-10 Biological System/B-10 Cellular Structure System.md",
@@ -199,7 +232,6 @@
     "Strongarm Corporations Universe/Employees",
     "Strongarm Corporations Universe/Departments",
     "Strongarm Corporations Universe",
-    "Solarpunk Magic Universe/Insert Solarpunk Bar Name Here.md",
     "Solarpunk Magic Universe"
   ]
 }
