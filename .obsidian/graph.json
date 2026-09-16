@@ -6,17 +6,53 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"SupaObsidianVault/Strongarm Corporations Universe/Inventions/B-10 Biological System/\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431459
+      }
+    },
+    {
+      "query": "file:Supa Kosmas",
+      "color": {
+        "a": 1,
+        "rgb": 11424480
+      }
+    },
+    {
+      "query": "path:\"SupaObsidianVault/Strongarm Corporations Universe/Departments\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"SupaObsidianVault/Strongarm Corporations Universe/Employees\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14908213
+      }
+    },
+    {
+      "query": "path:\"SupaObsidianVault/Strongarm Corporations Universe/Inventions\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2180564
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 0.993229166666667,
+  "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.5,
-  "repelStrength": 10,
+  "centerStrength": 0.500451597011249,
+  "repelStrength": 10.2553575827244,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0000000000000009,
+  "scale": 1.2197208115631581,
   "close": false
 }
