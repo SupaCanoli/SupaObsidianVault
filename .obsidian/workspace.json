@@ -6,7 +6,7 @@
       {
         "id": "3fe70f1db80f89ab",
         "type": "tabs",
-        "dimension": 37.6536312849162,
+        "dimension": 49.77653631284916,
         "children": [
           {
             "id": "5b5022cf65042aea",
@@ -36,13 +36,12 @@
               "title": "Strongarm Corporations"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e2b156047159e764",
         "type": "tabs",
-        "dimension": 62.3463687150838,
+        "dimension": 50.22346368715084,
         "children": [
           {
             "id": "8ae37b0b3bb7c4b5",
@@ -132,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Solarpunk Magic Universe/Insert Solarpunk Bar Name Here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,7 +230,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ae37b0b3bb7c4b5",
+  "active": "5b5022cf65042aea",
   "lastOpenFiles": [
     "Strongarm Corporations Universe/Strongarm Corporations.md",
     "Solarpunk Magic Universe/Insert Solarpunk Bar Name Here.md",
