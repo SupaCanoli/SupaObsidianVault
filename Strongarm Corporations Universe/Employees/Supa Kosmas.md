@@ -10,5 +10,5 @@ Supa, born February 4th, 2020, grew up to become a scientist for [[Strongarm Cor
 # [[Supa Kosmas|Supa's]] Work In [[Project Nano-Symbiosis]] 
 [[Supa Kosmas|Dr. Kosmas]] is the sole inventor of the [[Full Quantum Thrash Allocation]] and [[B-10 Biological System]].
 
-# The Creation of [[B-10 Biological System|B 1/0]]
+# The Creation of [[B-10 Biological System]]
 [[Supa Kosmas|Supa]] is the sole creator of the [[B-10 Biological System]], or [[B-10 Biological System|B 1/0]] for short. He is also the first person he experimented [[B-10 Biological System|B 1/0]] on to test it's feasibility. 
