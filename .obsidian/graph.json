@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"SupaObsidianVault/Strongarm Corporations Universe/Inventions/B-10 Biological System/\"",
+      "query": "path:\"Strongarm Corporations Universe/Inventions/B-10 Biological System/\"",
       "color": {
         "a": 1,
         "rgb": 5431459
@@ -22,24 +22,31 @@
       }
     },
     {
-      "query": "path:\"SupaObsidianVault/Strongarm Corporations Universe/Departments\"  ",
+      "query": "path:\"Strongarm Corporations Universe/Departments\"  ",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
     },
     {
-      "query": "path:\"SupaObsidianVault/Strongarm Corporations Universe/Employees\"  ",
+      "query": "path:\"Strongarm Corporations Universe/Employees\"  ",
       "color": {
         "a": 1,
         "rgb": 14908213
       }
     },
     {
-      "query": "path:\"SupaObsidianVault/Strongarm Corporations Universe/Inventions\"  ",
+      "query": "path:\"Strongarm Corporations Universe/Inventions\"  ",
       "color": {
         "a": 1,
         "rgb": 2180564
+      }
+    },
+    {
+      "query": "file:Strongarm Corporations",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
       }
     }
   ],
