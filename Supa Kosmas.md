@@ -11,4 +11,4 @@ Supa is a scientist for [[Strongarm Corporations|Strongarm Corp.]] with a PhD in
 [[Supa Kosmas|Dr. Kosmas]] is the sole inventor of the [[Full Quantum Thrash Allocation]] and [[B10 Biological System|B 1/0 Biological System]].
 
 # The Creation of [[B10 Biological System|B 1/0]]
-[[Supa Kosmas|Supa]]
+[[Supa Kosmas|Supa]] is the sole creator of [[B10 Biological System|B 1/0]], and also the first person to be experimented on to test it's feasibility. 
