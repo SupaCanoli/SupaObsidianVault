@@ -17,5 +17,5 @@ Supa, born February 4th, 2020, grew up to become a scientist for [[Strongarm Cor
 # Soul Type(s):
 Integrity, Perseverance, Justice, in that order.
 
-# After The Swap Soul Type(s):
+# After The UnivSwap Soul Type(s):
 Kindness, Patience, Bravery, not confirmed yet nor the order.
