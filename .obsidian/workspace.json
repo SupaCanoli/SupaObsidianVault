@@ -230,8 +230,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,7 +244,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c820f2b6b52fa66",
+  "active": "4ad15f0c2c1f6d7d",
   "lastOpenFiles": [
     "Multiverse Totality Naming Convention.md",
     "Strongarm Corporations Universe/Employees/Supa Kosmas.md",
