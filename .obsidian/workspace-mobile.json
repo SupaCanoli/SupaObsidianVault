@@ -8,17 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "73cc4f575866db21",
+            "id": "ca049281c6b3f3be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Multiverse Totality Naming Convention.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Multiverse Totality Naming Convention"
+              "title": "New tab"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3ac4283f096650d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7efb373b3add7d08",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -117,7 +129,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Multiverse Totality Naming Convention.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -136,7 +147,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Multiverse Totality Naming Convention.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -150,7 +160,6 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Multiverse Totality Naming Convention.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -184,8 +193,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73cc4f575866db21",
+  "active": "ca049281c6b3f3be",
   "lastOpenFiles": [
+    "Multiverse Totality Naming Convention.md",
     "Solarpunk Magic Universe/Insert Solarpunk Bar Name Here.md",
     "Strongarm Corporations Universe/Inventions/B-10 Biological System/B-10 Quantum Memory Thrashing.md",
     "Strongarm Corporations Universe/Inventions/B-10 Biological System/B-10 Operating System.md",
@@ -202,7 +212,6 @@
     "Strongarm Corporations Universe/Strongarm Corporations.md",
     "Strongarm Corporations Universe/Employees",
     "Strongarm Corporations Universe",
-    "Solarpunk Magic Universe",
-    "Multiverse Totality Naming Convention.md"
+    "Solarpunk Magic Universe"
   ]
 }
