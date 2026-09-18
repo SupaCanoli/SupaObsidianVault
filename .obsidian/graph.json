@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 2180564
       }
+    },
+    {
+      "query": "path:\"Strongarm Corporations Universe/Companies\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14811930
+      }
     }
   ],
   "collapse-display": true,
