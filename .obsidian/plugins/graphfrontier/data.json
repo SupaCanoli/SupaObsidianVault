@@ -243,7 +243,14 @@
     "Strongarm Corporations Universe/Employees/Supa Kosmas.md": "#ae52e0"
   },
   "node_label_sizes": {},
-  "groups": [],
+  "groups": [
+    {
+      "id": "group_mu7kmfix_ptu4y0",
+      "query": "name:Supa Kosmas",
+      "color": "#9705e6",
+      "enabled": true
+    }
+  ],
   "blacklist": [],
   "whitelist": [],
   "hotkeys": {},
@@ -279,9 +286,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 9.035213004523435,
-    "pan_y": 16.338802282993914,
-    "zoom": 2.210681407406082,
+    "pan_x": -0.5548273688964169,
+    "pan_y": 63.14301238285923,
+    "zoom": 3.895975992546981,
     "side_panel_sections": {
       "search": false,
       "selection": true,
