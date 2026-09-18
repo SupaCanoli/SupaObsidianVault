@@ -267,6 +267,12 @@
       "query": "path:Strongarm Corporations Universe/Employees",
       "color": "#e37e35",
       "enabled": true
+    },
+    {
+      "id": "group_mu7kr9n7_wqfwug",
+      "query": "path:Strongarm Corporations Universe/Companies",
+      "color": "#e2031a",
+      "enabled": true
     }
   ],
   "blacklist": [],
