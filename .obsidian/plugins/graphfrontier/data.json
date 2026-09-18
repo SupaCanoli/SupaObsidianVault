@@ -12,9 +12,9 @@
       "mode": "exact"
     },
     "Strongarm Corporations Universe/Employees/Supa Kosmas.md": {
-      "x": -30.220602060853924,
-      "y": -8.289436796369312,
-      "mode": "exact"
+      "x": -40,
+      "y": 0,
+      "mode": "grid"
     }
   },
   "orbit_pins": {},
@@ -62,8 +62,8 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": -23.176085285794496,
-    "pan_y": 14.671413281134722,
+    "pan_x": -23.36030873641167,
+    "pan_y": 14.302966379900376,
     "zoom": 5.428190584042721,
     "side_panel_sections": {
       "search": true,
