@@ -6,7 +6,7 @@
       {
         "id": "3fe70f1db80f89ab",
         "type": "tabs",
-        "dimension": 48.53862212943633,
+        "dimension": 45.598687807545105,
         "children": [
           {
             "id": "7f2f6a169c3f45fe",
@@ -56,7 +56,7 @@
       {
         "id": "e2b156047159e764",
         "type": "tabs",
-        "dimension": 51.46137787056367,
+        "dimension": 54.401312192454895,
         "children": [
           {
             "id": "8ae37b0b3bb7c4b5",
@@ -246,7 +246,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e01772874b143b77",
+  "active": "8ae37b0b3bb7c4b5",
   "lastOpenFiles": [
     "Strongarm Corporations Universe/Employees/Supa Kosmas.md",
     "Strongarm Corporations Universe/Departments/Warfare Reverse Engineering Department.md",
