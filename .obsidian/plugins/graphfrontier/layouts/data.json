@@ -255,6 +255,36 @@
       "query": "path:Strongarm Corporations Universe/Inventions/B-10 Logical System/",
       "color": "#52e0a3",
       "enabled": true
+    },
+    {
+      "id": "group_mu7koedt_hp8en8",
+      "query": "path:Strongarm Corporations Universe/Departments",
+      "color": "#69e052",
+      "enabled": true
+    },
+    {
+      "id": "group_mu7kpphe_1em8nr",
+      "query": "path:Strongarm Corporations Universe/Employees",
+      "color": "#e37e35",
+      "enabled": true
+    },
+    {
+      "id": "group_mu7kr9n7_wqfwug",
+      "query": "path:Strongarm Corporations Universe/Companies",
+      "color": "#e2031a",
+      "enabled": true
+    },
+    {
+      "id": "group_mu7ksckd_w711e1",
+      "query": "file:Multiverse Totality Naming Convention",
+      "color": "#ecd909",
+      "enabled": true
+    },
+    {
+      "id": "group_mu7kveb0_4v5awp",
+      "query": "name:Universe",
+      "color": "#ff00f7",
+      "enabled": true
     }
   ],
   "blacklist": [],
@@ -292,9 +322,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": -4.614385248388821,
-    "pan_y": 6.813406427015086,
-    "zoom": 3.478549993345518,
+    "pan_x": 22.157803594132183,
+    "pan_y": -33.2998390988634,
+    "zoom": 2.2106814074060845,
     "side_panel_sections": {}
   }
 }

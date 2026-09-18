@@ -279,6 +279,12 @@
       "query": "file:Multiverse Totality Naming Convention",
       "color": "#ecd909",
       "enabled": true
+    },
+    {
+      "id": "group_mu7kveb0_4v5awp",
+      "query": "name:Universe",
+      "color": "#ff00f7",
+      "enabled": true
     }
   ],
   "blacklist": [],
@@ -316,9 +322,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 29.141322409973053,
-    "pan_y": 79.17101518539512,
-    "zoom": 3.1058482083442125,
+    "pan_x": 23.06250202480597,
+    "pan_y": 63.502892983231646,
+    "zoom": 2.2106814074060845,
     "side_panel_sections": {
       "search": false,
       "selection": true,

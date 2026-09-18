@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Strongarm Corporations Universe/Departments/Warfare Reverse Engineering Department.md",
+                "file": "Multiverse Totality Naming Convention.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Warfare Reverse Engineering Department"
+              "title": "Multiverse Totality Naming Convention"
             }
           }
         ],
@@ -172,6 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Multiverse Totality Naming Convention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,7 +271,7 @@
       "graphfrontier:Open GraphFrontier": false
     }
   },
-  "active": "39133738a89da395",
+  "active": "ee25b5229ca249e8",
   "lastOpenFiles": [
     "Strongarm Corporations Universe/Departments/Warfare Reverse Engineering Department.md",
     "Strongarm Corporations Universe/Inventions/B-10 Logical System.md",
