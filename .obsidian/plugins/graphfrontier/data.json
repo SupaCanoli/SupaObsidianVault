@@ -13,7 +13,7 @@
     },
     "Solarpunk Magic Universe/Solarpunk Universe Name Here.md": {
       "x": 0,
-      "y": 260,
+      "y": 180,
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Cyberpunk Universe Name Here.md": {
@@ -49,6 +49,11 @@
     "Strongarm Corporations Universe/Employees/Insert CEO of Strongarm Corporations Name Here.md": {
       "x": 60,
       "y": 0,
+      "mode": "grid"
+    },
+    "Multiverse Totality Naming Convention.md": {
+      "x": -40,
+      "y": 100,
       "mode": "grid"
     }
   },
@@ -125,22 +130,22 @@
     },
     "Solarpunk Magic Universe/Solarpunk Universe Name Here.md": {
       "x": 0,
-      "y": 260
+      "y": 180
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System.md": {
       "x": -100,
       "y": 20
     },
     "Multiverse Totality Naming Convention.md": {
-      "x": 1.048951658883151,
-      "y": 0.8271229630230054
+      "x": -40,
+      "y": 100
     }
   },
   "saved_layout_settings": {
     "grid_step": 20,
     "show_grid": true,
     "hide_orphans": false,
-    "hide_attachments": false,
+    "hide_attachments": true,
     "attachments_on_orbits": true,
     "existing_files_only": true,
     "search_mode": "find",
@@ -180,7 +185,7 @@
     },
     "Solarpunk Magic Universe/Solarpunk Universe Name Here.md": {
       "x": 0,
-      "y": 260,
+      "y": 180,
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Cyberpunk Universe Name Here.md": {
@@ -216,6 +221,11 @@
     "Strongarm Corporations Universe/Employees/Insert CEO of Strongarm Corporations Name Here.md": {
       "x": 60,
       "y": 0,
+      "mode": "grid"
+    },
+    "Multiverse Totality Naming Convention.md": {
+      "x": -40,
+      "y": 100,
       "mode": "grid"
     }
   },
@@ -304,7 +314,7 @@
     "grid_step": 20,
     "show_grid": true,
     "hide_orphans": false,
-    "hide_attachments": false,
+    "hide_attachments": true,
     "attachments_on_orbits": true,
     "existing_files_only": true,
     "search_mode": "find",
@@ -332,9 +342,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": -4.321687950816639,
-    "pan_y": 59.47402507614312,
-    "zoom": 2.995992212091117,
+    "pan_x": 40.035805181634814,
+    "pan_y": 49.221171298987144,
+    "zoom": 2.388386648669576,
     "side_panel_sections": {
       "search": false,
       "selection": false,
