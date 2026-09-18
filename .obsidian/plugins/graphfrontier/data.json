@@ -1,6 +1,12 @@
 {
   "active_layout_name": "data.json",
-  "pins": {},
+  "pins": {
+    "Strongarm Corporations Universe/Inventions/B-10 Biological System.md": {
+      "x": -80,
+      "y": -20,
+      "mode": "grid"
+    }
+  },
   "orbit_pins": {},
   "saved_positions": {},
   "saved_layout_settings": {},
@@ -46,8 +52,8 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": -17.631414274213917,
-    "pan_y": 22.399021406765897,
+    "pan_x": -46.37027257049297,
+    "pan_y": 41.005589919100416,
     "zoom": 5.428190584042721,
     "side_panel_sections": {
       "search": true,
