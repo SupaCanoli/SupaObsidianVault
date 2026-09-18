@@ -5,6 +5,16 @@
       "x": -80,
       "y": -20,
       "mode": "grid"
+    },
+    "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md": {
+      "x": -33.575954704542156,
+      "y": -63.7370333524959,
+      "mode": "exact"
+    },
+    "Strongarm Corporations Universe/Employees/Supa Kosmas.md": {
+      "x": -30.220602060853924,
+      "y": -8.289436796369312,
+      "mode": "exact"
     }
   },
   "orbit_pins": {},
@@ -52,8 +62,8 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": -46.37027257049297,
-    "pan_y": 41.005589919100416,
+    "pan_x": -23.176085285794496,
+    "pan_y": 14.671413281134722,
     "zoom": 5.428190584042721,
     "side_panel_sections": {
       "search": true,
