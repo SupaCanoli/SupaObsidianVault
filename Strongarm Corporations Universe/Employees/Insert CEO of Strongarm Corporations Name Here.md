@@ -1,0 +1,1 @@
+The latest CEO of [[Strongarm Corporations|Strongarm Corp.]], and the per
