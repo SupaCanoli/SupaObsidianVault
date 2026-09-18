@@ -2,7 +2,7 @@
   "active_layout_name": "data.json",
   "pins": {
     "Strongarm Corporations Universe/Inventions/B-10 Biological System.md": {
-      "x": -80,
+      "x": -120,
       "y": -20,
       "mode": "grid"
     },
@@ -22,8 +22,12 @@
   "saved_layout_settings": {},
   "saved_layout_pins": {},
   "saved_layout_orbit_pins": {},
-  "node_force_multipliers": {},
-  "strong_pull_nodes": {},
+  "node_force_multipliers": {
+    "Strongarm Corporations Universe/Inventions/B-10 Biological System/B-10 Operating System.md": 5
+  },
+  "strong_pull_nodes": {
+    "Strongarm Corporations Universe/Inventions/B-10 Biological System/B-10 Operating System.md": true
+  },
   "painted_edge_colors": {},
   "node_label_sizes": {},
   "groups": [],
@@ -62,8 +66,8 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": -23.36030873641167,
-    "pan_y": 14.302966379900376,
+    "pan_x": -82.17931353307291,
+    "pan_y": -0.9164609266611663,
     "zoom": 5.428190584042721,
     "side_panel_sections": {
       "search": true,
