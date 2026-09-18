@@ -6,7 +6,7 @@
       {
         "id": "3fe70f1db80f89ab",
         "type": "tabs",
-        "dimension": 44.258872651356995,
+        "dimension": 45.82463465553236,
         "children": [
           {
             "id": "5b5022cf65042aea",
@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Strongarm Corporations Universe/Cyberpunk Universe Name Here.md",
+                "file": "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cyberpunk Universe Name Here"
+              "title": "Project Nano-Symbiosis"
             }
           },
           {
@@ -84,7 +84,7 @@
       {
         "id": "e2b156047159e764",
         "type": "tabs",
-        "dimension": 55.741127348643005,
+        "dimension": 54.17536534446764,
         "children": [
           {
             "id": "8ae37b0b3bb7c4b5",
@@ -274,23 +274,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "92faccc263249e00",
+  "active": "8ae37b0b3bb7c4b5",
   "lastOpenFiles": [
-    "Strongarm Corporations Universe/Cyberpunk Universe Name Here.md",
+    "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md",
+    "Strongarm Corporations Universe/Employees/Arden Livius.md",
+    "Strongarm Corporations Universe/Employees/Supa Kosmas.md",
+    "Strongarm Corporations Universe/Companies/Strongarm Corporations.md",
     "Solarpunk Magic Universe/Solarpunk Universe Name Here.md",
+    "Strongarm Corporations Universe/Departments/Warfare Reverse Engineering Department.md",
+    "Strongarm Corporations Universe/Inventions/B-10 Biological System/B-10 Cellular Structure System.md",
+    "Strongarm Corporations Universe/Inventions/B-10 Biological System/B-10 Operating System.md",
+    "Strongarm Corporations Universe/Inventions/B-10 Biological System/B-10 Quantum Memory Thrashing.md",
+    "Strongarm Corporations Universe/Inventions/B-10 Biological System.md",
+    "Strongarm Corporations Universe/Cyberpunk Universe Name Here.md",
     "Strongarm Corporations Universe/Companies",
     "Multiverse Totality Naming Convention.md",
     "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md",
-    "Strongarm Corporations Universe/Companies/Strongarm Corporations.md",
-    "Strongarm Corporations Universe/Inventions/B-10 Biological System/B-10 Cellular Structure System.md",
-    "Strongarm Corporations Universe/Inventions/B-10 Biological System/B-10 Operating System.md",
-    "Strongarm Corporations Universe/Employees/Supa Kosmas.md",
-    "Strongarm Corporations Universe/Employees/Arden Livius.md",
-    "Strongarm Corporations Universe/Inventions/B-10 Biological System/B-10 Quantum Memory Thrashing.md",
-    "Strongarm Corporations Universe/Inventions/B-10 Biological System.md",
     "Strongarm Corporations Universe/Inventions/B-10 Biological System",
-    "Strongarm Corporations Universe/Departments/Warfare Reverse Engineering Department.md",
-    "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md",
     "Strongarm Corporations Universe/Inventions",
     "Strongarm Corporations Universe/Employees",
     "Strongarm Corporations Universe/Departments",
