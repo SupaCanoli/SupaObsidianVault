@@ -36,7 +36,8 @@
               "title": "Multiverse Totality Naming Convention"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e2b156047159e764",
@@ -234,8 +235,8 @@
   },
   "active": "4ad15f0c2c1f6d7d",
   "lastOpenFiles": [
-    "Multiverse Totality Naming Convention.md",
     "Strongarm Corporations Universe/Cyberpunk Universe Name Here.md",
+    "Multiverse Totality Naming Convention.md",
     "Solarpunk Magic Universe/Solarpunk Universe Name Here.md",
     "Strongarm Corporations Universe/Employees/Insert CEO of Strongarm Corporations Name Here.md",
     "Strongarm Corporations Universe/Companies/Strongarm Corporations.md",
