@@ -249,6 +249,12 @@
       "query": "name:Supa Kosmas",
       "color": "#9705e6",
       "enabled": true
+    },
+    {
+      "id": "group_mu7kn1ho_4igvj2",
+      "query": "path:Strongarm Corporations Universe/Inventions/B-10 Logical System/",
+      "color": "#52e0a3",
+      "enabled": true
     }
   ],
   "blacklist": [],
@@ -286,9 +292,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": -0.5548273688964169,
-    "pan_y": 63.14301238285923,
-    "zoom": 3.895975992546981,
+    "pan_x": -4.614385248388821,
+    "pan_y": 6.813406427015086,
+    "zoom": 3.478549993345518,
     "side_panel_sections": {
       "search": false,
       "selection": true,
