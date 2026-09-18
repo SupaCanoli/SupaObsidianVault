@@ -66,8 +66,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -244,7 +243,7 @@
       "graphfrontier:Open GraphFrontier": false
     }
   },
-  "active": "4767ab163e7073a3",
+  "active": "39133738a89da395",
   "lastOpenFiles": [
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md",
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md",

@@ -38,8 +38,14 @@
   "groups": [
     {
       "id": "group_mu7jv02b_ukyeu1",
-      "query": "path:Strongarm Corporations Universe/Inventions/B-10 Biological System.md",
+      "query": "path:\"Strongarm Corporations Universe/Inventions/B-10 Logical System/\"",
       "color": "#00ffb3",
+      "enabled": true
+    },
+    {
+      "id": "group_mu7jy7l9_djfmv8",
+      "query": "section:(Universe)",
+      "color": "#7aa2f7",
       "enabled": true
     }
   ],
@@ -78,9 +84,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": -39.29509834461351,
-    "pan_y": -14.381439186910228,
-    "zoom": 4.846598735752429,
+    "pan_x": -40.410958207346795,
+    "pan_y": -28.321111869450018,
+    "zoom": 4.327320299778954,
     "side_panel_sections": {
       "search": false,
       "selection": true,
