@@ -8,7 +8,7 @@
     },
     "Strongarm Corporations Universe/Inventions/B-10 Biological System.md": {
       "x": -80,
-      "y": 20,
+      "y": 0,
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md": {
@@ -23,55 +23,60 @@
     },
     "Solarpunk Magic Universe/Solarpunk Universe Name Here.md": {
       "x": 0,
-      "y": 180,
+      "y": 260,
+      "mode": "grid"
+    },
+    "Strongarm Corporations Universe/Cyberpunk Universe Name Here.md": {
+      "x": 0,
+      "y": -60,
       "mode": "grid"
     }
   },
   "orbit_pins": {},
   "saved_positions": {
     "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md": {
-      "x": 13.36792563108982,
-      "y": 28.737222378739997
+      "x": 14.222225648310255,
+      "y": 31.561599456248913
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md": {
-      "x": -69.84640404526743,
-      "y": -9.1982491298698
+      "x": -60.99484060222792,
+      "y": -24.928598734841394
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md": {
-      "x": -44.404774552938406,
-      "y": 6.128834452838763
+      "x": -42.16245673430994,
+      "y": -1.372558938539555
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md": {
-      "x": -54.933365519870385,
-      "y": 36.296124741698186
+      "x": -61.121228522409375,
+      "y": 23.374338437806465
     },
     "Strongarm Corporations Universe/Inventions/B-10 Biological System.md": {
       "x": -80,
-      "y": 20
+      "y": 0
     },
     "Strongarm Corporations Universe/Employees/Supa Kosmas.md": {
       "x": 0,
       "y": 100
     },
     "Strongarm Corporations Universe/Employees/Arden Livius.md": {
-      "x": 40.76769400848328,
-      "y": 35.91077102874348
+      "x": 41.481539232386574,
+      "y": 41.40642313955736
     },
     "Strongarm Corporations Universe/Employees/Insert CEO of Strongarm Corporations Name Here.md": {
-      "x": 72.67257915943995,
-      "y": 1.7439077390932634
+      "x": 71.36659708604995,
+      "y": 2.517262077974744
     },
     "Strongarm Corporations Universe/Departments/Warfare Reverse Engineering Department.md": {
-      "x": 44.109901671142445,
-      "y": 6.9811371247885825
+      "x": 44.415774681579734,
+      "y": 12.07472990768824
     },
     "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md": {
       "x": 47.11889802750461,
       "y": -22.18139591423568
     },
     "Strongarm Corporations Universe/Cyberpunk Universe Name Here.md": {
-      "x": 40.91241918435409,
-      "y": 66.15413277006189
+      "x": 0,
+      "y": -60
     },
     "Strongarm Corporations Universe/Companies/Strongarm Corporations.md": {
       "x": 88.56489972876302,
@@ -79,7 +84,7 @@
     },
     "Solarpunk Magic Universe/Solarpunk Universe Name Here.md": {
       "x": 0,
-      "y": 180
+      "y": 260
     }
   },
   "saved_layout_settings": {
@@ -121,7 +126,7 @@
     },
     "Strongarm Corporations Universe/Inventions/B-10 Biological System.md": {
       "x": -80,
-      "y": 20,
+      "y": 0,
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md": {
@@ -136,7 +141,12 @@
     },
     "Solarpunk Magic Universe/Solarpunk Universe Name Here.md": {
       "x": 0,
-      "y": 180,
+      "y": 260,
+      "mode": "grid"
+    },
+    "Strongarm Corporations Universe/Cyberpunk Universe Name Here.md": {
+      "x": 0,
+      "y": -60,
       "mode": "grid"
     }
   },
@@ -183,9 +193,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 69.73993080289642,
-    "pan_y": 88.90370051966838,
-    "zoom": 3.8959759925469806,
+    "pan_x": 21.284942268559888,
+    "pan_y": 46.65364436130773,
+    "zoom": 2.4759631762948118,
     "side_panel_sections": {
       "search": false,
       "selection": true,
