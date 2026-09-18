@@ -1,20 +1,10 @@
 {
   "active_layout_name": "data.json",
   "pins": {
-    "Strongarm Corporations Universe/Employees/Supa Kosmas.md": {
-      "x": 0,
-      "y": 100,
-      "mode": "grid"
-    },
     "Strongarm Corporations Universe/Inventions/B-10 Biological System.md": {
       "x": -80,
       "y": 0,
       "mode": "grid"
-    },
-    "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md": {
-      "x": 47.11889802750461,
-      "y": -22.18139591423568,
-      "mode": "exact"
     },
     "Strongarm Corporations Universe/Companies/Strongarm Corporations.md": {
       "x": 88.56489972876302,
@@ -30,25 +20,51 @@
       "x": 0,
       "y": -60,
       "mode": "grid"
+    },
+    "Strongarm Corporations Universe/Employees/Supa Kosmas.md": {
+      "x": 0,
+      "y": 60,
+      "mode": "grid"
     }
   },
-  "orbit_pins": {},
-  "saved_positions": {
-    "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md": {
-      "x": 14.222225648310255,
-      "y": 31.561599456248913
-    },
-    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md": {
-      "x": -60.99484060222792,
-      "y": -24.928598734841394
-    },
-    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md": {
-      "x": -42.16245673430994,
-      "y": -1.372558938539555
+  "orbit_pins": {
+    "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md": {
+      "anchor_id": "Strongarm Corporations Universe/Inventions/B-10 Biological System.md",
+      "radius": 38.197186342054884,
+      "angle": 0
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md": {
-      "x": -61.121228522409375,
-      "y": 23.374338437806465
+      "anchor_id": "Strongarm Corporations Universe/Inventions/B-10 Biological System.md",
+      "radius": 38.197186342054884,
+      "angle": 2.5132741228718345
+    },
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md": {
+      "anchor_id": "Strongarm Corporations Universe/Inventions/B-10 Biological System.md",
+      "radius": 38.197186342054884,
+      "angle": 3.7699111843077517
+    },
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md": {
+      "anchor_id": "Strongarm Corporations Universe/Inventions/B-10 Biological System.md",
+      "radius": 38.197186342054884,
+      "angle": 5.026548245743669
+    }
+  },
+  "saved_positions": {
+    "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md": {
+      "x": -10.054282990388861,
+      "y": 18.209472152054193
+    },
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md": {
+      "x": -68.19642028299842,
+      "y": -36.32768297475154
+    },
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md": {
+      "x": -110.90217288802904,
+      "y": -22.451742810927335
+    },
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md": {
+      "x": -110.90217288802903,
+      "y": 22.451742810927342
     },
     "Strongarm Corporations Universe/Inventions/B-10 Biological System.md": {
       "x": -80,
@@ -56,23 +72,23 @@
     },
     "Strongarm Corporations Universe/Employees/Supa Kosmas.md": {
       "x": 0,
-      "y": 100
+      "y": 60
     },
     "Strongarm Corporations Universe/Employees/Arden Livius.md": {
-      "x": 41.481539232386574,
-      "y": 41.40642313955736
+      "x": 16.53176911504229,
+      "y": 28.561706805328
     },
     "Strongarm Corporations Universe/Employees/Insert CEO of Strongarm Corporations Name Here.md": {
-      "x": 71.36659708604995,
-      "y": 2.517262077974744
+      "x": 65.67013177335726,
+      "y": 10.236414648644576
     },
     "Strongarm Corporations Universe/Departments/Warfare Reverse Engineering Department.md": {
-      "x": 44.415774681579734,
-      "y": 12.07472990768824
+      "x": 36.75688355116294,
+      "y": 11.872479869343051
     },
     "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md": {
-      "x": 47.11889802750461,
-      "y": -22.18139591423568
+      "x": -41.802813657945116,
+      "y": 0
     },
     "Strongarm Corporations Universe/Cyberpunk Universe Name Here.md": {
       "x": 0,
@@ -119,20 +135,10 @@
     "export_static_html_path": ""
   },
   "saved_layout_pins": {
-    "Strongarm Corporations Universe/Employees/Supa Kosmas.md": {
-      "x": 0,
-      "y": 100,
-      "mode": "grid"
-    },
     "Strongarm Corporations Universe/Inventions/B-10 Biological System.md": {
       "x": -80,
       "y": 0,
       "mode": "grid"
-    },
-    "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md": {
-      "x": 47.11889802750461,
-      "y": -22.18139591423568,
-      "mode": "exact"
     },
     "Strongarm Corporations Universe/Companies/Strongarm Corporations.md": {
       "x": 88.56489972876302,
@@ -148,9 +154,35 @@
       "x": 0,
       "y": -60,
       "mode": "grid"
+    },
+    "Strongarm Corporations Universe/Employees/Supa Kosmas.md": {
+      "x": 0,
+      "y": 60,
+      "mode": "grid"
     }
   },
-  "saved_layout_orbit_pins": {},
+  "saved_layout_orbit_pins": {
+    "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md": {
+      "anchor_id": "Strongarm Corporations Universe/Inventions/B-10 Biological System.md",
+      "radius": 38.197186342054884,
+      "angle": 0
+    },
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md": {
+      "anchor_id": "Strongarm Corporations Universe/Inventions/B-10 Biological System.md",
+      "radius": 38.197186342054884,
+      "angle": 2.5132741228718345
+    },
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md": {
+      "anchor_id": "Strongarm Corporations Universe/Inventions/B-10 Biological System.md",
+      "radius": 38.197186342054884,
+      "angle": 3.7699111843077517
+    },
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md": {
+      "anchor_id": "Strongarm Corporations Universe/Inventions/B-10 Biological System.md",
+      "radius": 38.197186342054884,
+      "angle": 5.026548245743669
+    }
+  },
   "node_force_multipliers": {},
   "strong_pull_nodes": {},
   "painted_edge_colors": {
@@ -193,7 +225,7 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 21.284942268559888,
+    "pan_x": 21.688825496539256,
     "pan_y": 46.65364436130773,
     "zoom": 2.4759631762948118,
     "side_panel_sections": {
