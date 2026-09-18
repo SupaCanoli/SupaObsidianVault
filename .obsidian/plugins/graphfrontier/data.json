@@ -261,6 +261,12 @@
       "query": "path:Strongarm Corporations Universe/Departments",
       "color": "#69e052",
       "enabled": true
+    },
+    {
+      "id": "group_mu7kpphe_1em8nr",
+      "query": "path:Strongarm Corporations Universe/Employees",
+      "color": "#e37e35",
+      "enabled": true
     }
   ],
   "blacklist": [],
@@ -298,9 +304,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": -21.287999286121284,
-    "pan_y": 23.774496568846384,
-    "zoom": 3.478549993345518,
+    "pan_x": 16.69073100458283,
+    "pan_y": 10.232872590432228,
+    "zoom": 3.4785499933455184,
     "side_panel_sections": {
       "search": false,
       "selection": true,
