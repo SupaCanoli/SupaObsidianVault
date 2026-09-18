@@ -1,54 +1,16 @@
 {
   "active_layout_name": "data.json",
-  "pins": {
-    "Strongarm Corporations Universe/Inventions/B-10 Biological System.md": {
-      "x": -120,
-      "y": -20,
-      "mode": "grid"
-    },
-    "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md": {
-      "x": -68.39418687118793,
-      "y": -103.16085178457101,
-      "mode": "exact"
-    },
-    "Strongarm Corporations Universe/Employees/Supa Kosmas.md": {
-      "x": -40,
-      "y": 0,
-      "mode": "grid"
-    },
-    "Strongarm Corporations Universe/Departments/Warfare Reverse Engineering Department.md": {
-      "x": -44.589926958167936,
-      "y": -103.6925725358183,
-      "mode": "exact"
-    }
-  },
+  "pins": {},
   "orbit_pins": {},
   "saved_positions": {},
   "saved_layout_settings": {},
   "saved_layout_pins": {},
   "saved_layout_orbit_pins": {},
-  "node_force_multipliers": {
-    "Strongarm Corporations Universe/Inventions/B-10 Biological System/B-10 Operating System.md": 5
-  },
-  "strong_pull_nodes": {
-    "Strongarm Corporations Universe/Inventions/B-10 Biological System/B-10 Operating System.md": true
-  },
+  "node_force_multipliers": {},
+  "strong_pull_nodes": {},
   "painted_edge_colors": {},
   "node_label_sizes": {},
-  "groups": [
-    {
-      "id": "group_mu7jv02b_ukyeu1",
-      "query": "path:\"Strongarm Corporations Universe/Inventions/B-10 Logical System/\"",
-      "color": "#00ffb3",
-      "enabled": true
-    },
-    {
-      "id": "group_mu7jy7l9_djfmv8",
-      "query": "section:(Universe)",
-      "color": "#ff00f7",
-      "enabled": true
-    }
-  ],
+  "groups": [],
   "blacklist": [],
   "whitelist": [],
   "hotkeys": {},
@@ -84,9 +46,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": -42.53035689497207,
-    "pan_y": -56.19220402394195,
-    "zoom": 4.846598735752429,
+    "pan_x": 0,
+    "pan_y": 0,
+    "zoom": 1,
     "side_panel_sections": {
       "search": false,
       "selection": true,
