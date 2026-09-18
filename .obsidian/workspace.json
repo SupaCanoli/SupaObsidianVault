@@ -250,7 +250,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -269,7 +270,7 @@
       "graphfrontier:Open GraphFrontier": false
     }
   },
-  "active": "01e181a8c5f43d55",
+  "active": "39133738a89da395",
   "lastOpenFiles": [
     "Strongarm Corporations Universe/Departments/Warfare Reverse Engineering Department.md",
     "Strongarm Corporations Universe/Inventions/B-10 Logical System.md",
