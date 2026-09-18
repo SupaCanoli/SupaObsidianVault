@@ -2,13 +2,13 @@
   "active_layout_name": "data.json",
   "pins": {
     "Strongarm Corporations Universe/Employees/Supa Kosmas.md": {
-      "x": -3.286277806396227,
-      "y": 102.9986984678377,
-      "mode": "exact"
+      "x": 0,
+      "y": 100,
+      "mode": "grid"
     },
     "Strongarm Corporations Universe/Inventions/B-10 Biological System.md": {
-      "x": -57.13458719147542,
-      "y": 23.10923833028415,
+      "x": -84.40631581692297,
+      "y": 24.25510928093321,
       "mode": "exact"
     },
     "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md": {
@@ -20,61 +20,66 @@
       "x": 88.56489972876302,
       "y": 29.780130323992573,
       "mode": "exact"
+    },
+    "Solarpunk Magic Universe/Solarpunk Universe Name Here.md": {
+      "x": 0,
+      "y": 180,
+      "mode": "grid"
     }
   },
   "orbit_pins": {},
   "saved_positions": {
     "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md": {
-      "x": 14.722976760532175,
-      "y": 29.01592275096752
+      "x": 13.238162986759889,
+      "y": 28.615045731859947
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md": {
-      "x": -31.325922804251167,
-      "y": -1.8775983264868927
+      "x": -73.41051726399179,
+      "y": -5.387390965531503
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md": {
-      "x": -35.38522302168203,
-      "y": 32.96467788527373
+      "x": -48.0254816106346,
+      "y": 9.07780398743858
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md": {
-      "x": -62.666109809921494,
-      "y": -4.903142397862876
+      "x": -57.491598585338366,
+      "y": 38.98810852113843
     },
     "Strongarm Corporations Universe/Inventions/B-10 Biological System.md": {
-      "x": -57.13458719147542,
-      "y": 23.10923833028415
+      "x": -84.40631581692297,
+      "y": 24.25510928093321
     },
     "Strongarm Corporations Universe/Employees/Supa Kosmas.md": {
-      "x": -3.286277806396227,
-      "y": 102.9986984678377
+      "x": 0,
+      "y": 100
     },
     "Strongarm Corporations Universe/Employees/Arden Livius.md": {
-      "x": 41.40948075245809,
-      "y": 36.671854197339634
+      "x": 40.813746461804826,
+      "y": 35.77393596245393
     },
     "Strongarm Corporations Universe/Employees/Insert CEO of Strongarm Corporations Name Here.md": {
-      "x": 74.0034168425153,
-      "y": 0.6847819511086864
+      "x": 72.5040020646988,
+      "y": 1.7093331695518046
     },
     "Strongarm Corporations Universe/Departments/Warfare Reverse Engineering Department.md": {
-      "x": 45.7846351471473,
-      "y": 7.4705654626860465
+      "x": 43.78431514013248,
+      "y": 6.783213354779008
     },
     "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md": {
       "x": 47.11889802750461,
       "y": -22.18139591423568
     },
     "Strongarm Corporations Universe/Cyberpunk Universe Name Here.md": {
-      "x": 41.1189829828639,
-      "y": 67.75324439879873
+      "x": 41.043294430918465,
+      "y": 66.13722007123276
     },
     "Strongarm Corporations Universe/Companies/Strongarm Corporations.md": {
       "x": 88.56489972876302,
       "y": 29.780130323992573
     },
     "Solarpunk Magic Universe/Solarpunk Universe Name Here.md": {
-      "x": -11.985749547848338,
-      "y": 75.22851523102005
+      "x": 0,
+      "y": 180
     }
   },
   "saved_layout_settings": {
@@ -110,13 +115,13 @@
   },
   "saved_layout_pins": {
     "Strongarm Corporations Universe/Employees/Supa Kosmas.md": {
-      "x": -3.286277806396227,
-      "y": 102.9986984678377,
-      "mode": "exact"
+      "x": 0,
+      "y": 100,
+      "mode": "grid"
     },
     "Strongarm Corporations Universe/Inventions/B-10 Biological System.md": {
-      "x": -57.13458719147542,
-      "y": 23.10923833028415,
+      "x": -84.40631581692297,
+      "y": 24.25510928093321,
       "mode": "exact"
     },
     "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md": {
@@ -128,6 +133,11 @@
       "x": 88.56489972876302,
       "y": 29.780130323992573,
       "mode": "exact"
+    },
+    "Solarpunk Magic Universe/Solarpunk Universe Name Here.md": {
+      "x": 0,
+      "y": 180,
+      "mode": "grid"
     }
   },
   "saved_layout_orbit_pins": {},
@@ -173,8 +183,8 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 51.58203001730496,
-    "pan_y": 41.482977098007794,
+    "pan_x": 26.226197621342617,
+    "pan_y": 111.19776573549646,
     "zoom": 4.363493111652619,
     "side_panel_sections": {}
   }
