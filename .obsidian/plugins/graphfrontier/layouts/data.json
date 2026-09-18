@@ -1,14 +1,111 @@
 {
   "active_layout_name": "data.json",
-  "pins": {},
+  "pins": {
+    "Strongarm Corporations Universe/Employees/Supa Kosmas.md": {
+      "x": 2.4430769468490583,
+      "y": 96.12347276394335,
+      "mode": "exact"
+    }
+  },
   "orbit_pins": {},
-  "saved_positions": {},
-  "saved_layout_settings": {},
-  "saved_layout_pins": {},
+  "saved_positions": {
+    "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md": {
+      "x": 17.460609816213665,
+      "y": 55.7771158232248
+    },
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md": {
+      "x": -13.032144769091937,
+      "y": -3.1811797650192397
+    },
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md": {
+      "x": -58.916027648853806,
+      "y": 25.470627171731774
+    },
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md": {
+      "x": -41.55683609464716,
+      "y": -1.5479403539644216
+    },
+    "Strongarm Corporations Universe/Inventions/B-10 Biological System.md": {
+      "x": -27.220356627023172,
+      "y": 35.87221260583811
+    },
+    "Strongarm Corporations Universe/Employees/Supa Kosmas.md": {
+      "x": 2.4430769468490583,
+      "y": 96.12347276394335
+    },
+    "Strongarm Corporations Universe/Employees/Arden Livius.md": {
+      "x": 4.788365732085487,
+      "y": 40.24472993165118
+    },
+    "Strongarm Corporations Universe/Employees/Insert CEO of Strongarm Corporations Name Here.md": {
+      "x": 53.19107394796171,
+      "y": 12.614764950937221
+    },
+    "Strongarm Corporations Universe/Departments/Warfare Reverse Engineering Department.md": {
+      "x": 24.441633230969522,
+      "y": 14.486127581034975
+    },
+    "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md": {
+      "x": -8.246607558394789,
+      "y": 63.925193648543946
+    },
+    "Strongarm Corporations Universe/Cyberpunk Universe Name Here.md": {
+      "x": 32.61011735936355,
+      "y": 83.38921094588888
+    },
+    "Strongarm Corporations Universe/Companies/Strongarm Corporations.md": {
+      "x": 34.48793863455812,
+      "y": 48.98905891410223
+    },
+    "Solarpunk Magic Universe/Solarpunk Universe Name Here.md": {
+      "x": -26.32828685523386,
+      "y": 91.28132365449159
+    }
+  },
+  "saved_layout_settings": {
+    "grid_step": 20,
+    "show_grid": true,
+    "hide_orphans": true,
+    "hide_attachments": true,
+    "attachments_on_orbits": true,
+    "existing_files_only": true,
+    "search_mode": "find",
+    "show_search_connections": false,
+    "quick_pick_modifier": "alt",
+    "selection_box_modifier": "shift",
+    "selection_toggle_modifier": "none",
+    "node_size_scale": 1,
+    "edge_width_scale": 0.34,
+    "painted_edge_width": 0.2,
+    "label_zoom_steps": 10,
+    "label_font_size": 9,
+    "hover_dim_strength": 80,
+    "strong_pull_multiplier": 5,
+    "orbit_distance": 48,
+    "attachment_size_multiplier": 1,
+    "attachment_link_distance_multiplier": 20,
+    "base_link_strength": 46,
+    "link_distance": 24,
+    "repel_strength": 51,
+    "repel_radius": 265,
+    "center_strength": 52,
+    "damping": 0.18,
+    "layout_autosave": true,
+    "export_static_html_path": ""
+  },
+  "saved_layout_pins": {
+    "Strongarm Corporations Universe/Employees/Supa Kosmas.md": {
+      "x": 2.4430769468490583,
+      "y": 96.12347276394335,
+      "mode": "exact"
+    }
+  },
   "saved_layout_orbit_pins": {},
   "node_force_multipliers": {},
   "strong_pull_nodes": {},
-  "painted_edge_colors": {},
+  "painted_edge_colors": {
+    "Strongarm Corporations Universe/Employees/Supa Kosmas.md": "#ae52e0"
+  },
   "node_label_sizes": {},
   "groups": [],
   "blacklist": [],
@@ -42,13 +139,13 @@
     "repel_radius": 265,
     "center_strength": 52,
     "damping": 0.18,
-    "layout_autosave": false,
+    "layout_autosave": true,
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 0,
-    "pan_y": 0,
-    "zoom": 1,
+    "pan_x": 3.6846242801743565,
+    "pan_y": 24.065738648142123,
+    "zoom": 4.363493111652619,
     "side_panel_sections": {}
   }
 }
