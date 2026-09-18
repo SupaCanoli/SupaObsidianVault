@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 15522057
       }
+    },
+    {
+      "query": "section:(Universe)",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
     }
   ],
   "collapse-display": true,
