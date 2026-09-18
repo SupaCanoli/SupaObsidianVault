@@ -255,6 +255,12 @@
       "query": "path:Strongarm Corporations Universe/Inventions/B-10 Logical System/",
       "color": "#52e0a3",
       "enabled": true
+    },
+    {
+      "id": "group_mu7koedt_hp8en8",
+      "query": "path:Strongarm Corporations Universe/Departments",
+      "color": "#69e052",
+      "enabled": true
     }
   ],
   "blacklist": [],
@@ -292,8 +298,8 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": -4.614385248388821,
-    "pan_y": 6.813406427015086,
+    "pan_x": -21.287999286121284,
+    "pan_y": 23.774496568846384,
     "zoom": 3.478549993345518,
     "side_panel_sections": {
       "search": false,
