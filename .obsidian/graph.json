@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"Strongarm Corporations Universe/Inventions/B-10 Biological System/\"",
@@ -41,13 +41,6 @@
         "a": 1,
         "rgb": 2180564
       }
-    },
-    {
-      "query": "file:Strongarm Corporations",
-      "color": {
-        "a": 1,
-        "rgb": 13706019
-      }
     }
   ],
   "collapse-display": true,
@@ -61,5 +54,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 1.4204496232322557,
-  "close": true
+  "close": false
 }
