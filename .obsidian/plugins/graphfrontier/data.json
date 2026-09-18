@@ -7,14 +7,19 @@
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md": {
-      "x": -33.575954704542156,
-      "y": -63.7370333524959,
+      "x": -68.39418687118793,
+      "y": -103.16085178457101,
       "mode": "exact"
     },
     "Strongarm Corporations Universe/Employees/Supa Kosmas.md": {
       "x": -40,
       "y": 0,
       "mode": "grid"
+    },
+    "Strongarm Corporations Universe/Departments/Warfare Reverse Engineering Department.md": {
+      "x": -44.589926958167936,
+      "y": -103.6925725358183,
+      "mode": "exact"
     }
   },
   "orbit_pins": {},
@@ -30,7 +35,14 @@
   },
   "painted_edge_colors": {},
   "node_label_sizes": {},
-  "groups": [],
+  "groups": [
+    {
+      "id": "group_mu7jv02b_ukyeu1",
+      "query": "path:\"Strongarm Corporations Universe/Inventions/B-10 Biological System/\"",
+      "color": "#7aa2f7",
+      "enabled": true
+    }
+  ],
   "blacklist": [],
   "whitelist": [],
   "hotkeys": {},
@@ -66,17 +78,17 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": -82.17931353307291,
-    "pan_y": -0.9164609266611663,
+    "pan_x": -49.764671044265214,
+    "pan_y": -3.0277056453550113,
     "zoom": 5.428190584042721,
     "side_panel_sections": {
-      "search": true,
+      "search": false,
       "selection": true,
       "display": false,
       "physics": false,
       "groups": true,
-      "lists": true,
-      "layout": true
+      "lists": false,
+      "layout": false
     }
   }
 }
