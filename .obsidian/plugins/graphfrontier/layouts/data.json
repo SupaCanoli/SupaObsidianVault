@@ -2,64 +2,79 @@
   "active_layout_name": "data.json",
   "pins": {
     "Strongarm Corporations Universe/Employees/Supa Kosmas.md": {
-      "x": 2.4430769468490583,
-      "y": 96.12347276394335,
+      "x": -3.286277806396227,
+      "y": 102.9986984678377,
+      "mode": "exact"
+    },
+    "Strongarm Corporations Universe/Inventions/B-10 Biological System.md": {
+      "x": -57.13458719147542,
+      "y": 23.10923833028415,
+      "mode": "exact"
+    },
+    "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md": {
+      "x": -21.63335901143881,
+      "y": -31.348363519428133,
+      "mode": "exact"
+    },
+    "Strongarm Corporations Universe/Companies/Strongarm Corporations.md": {
+      "x": 88.56489972876302,
+      "y": 29.780130323992573,
       "mode": "exact"
     }
   },
   "orbit_pins": {},
   "saved_positions": {
     "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md": {
-      "x": 17.460609816213665,
-      "y": 55.7771158232248
+      "x": -2.286085785367127,
+      "y": 25.93441959343682
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md": {
-      "x": -13.032144769091937,
-      "y": -3.1811797650192397
+      "x": -33.46431181436703,
+      "y": -3.555538191596439
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md": {
-      "x": -58.916027648853806,
-      "y": 25.470627171731774
+      "x": -42.261937259269665,
+      "y": 39.21666742512078
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md": {
-      "x": -41.55683609464716,
-      "y": -1.5479403539644216
+      "x": -64.27169583844336,
+      "y": -4.363294044690561
     },
     "Strongarm Corporations Universe/Inventions/B-10 Biological System.md": {
-      "x": -27.220356627023172,
-      "y": 35.87221260583811
+      "x": -57.13458719147542,
+      "y": 23.10923833028415
     },
     "Strongarm Corporations Universe/Employees/Supa Kosmas.md": {
-      "x": 2.4430769468490583,
-      "y": 96.12347276394335
+      "x": -3.286277806396227,
+      "y": 102.9986984678377
     },
     "Strongarm Corporations Universe/Employees/Arden Livius.md": {
-      "x": 4.788365732085487,
-      "y": 40.24472993165118
+      "x": 21.168167324824093,
+      "y": 31.00601412254946
     },
     "Strongarm Corporations Universe/Employees/Insert CEO of Strongarm Corporations Name Here.md": {
-      "x": 53.19107394796171,
-      "y": 12.614764950937221
+      "x": 70.54944832181259,
+      "y": 3.539789761787348
     },
     "Strongarm Corporations Universe/Departments/Warfare Reverse Engineering Department.md": {
-      "x": 24.441633230969522,
-      "y": 14.486127581034975
+      "x": 41.9502165197915,
+      "y": 11.324811850596681
     },
     "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md": {
-      "x": -8.246607558394789,
-      "y": 63.925193648543946
+      "x": -21.63335901143881,
+      "y": -31.348363519428133
     },
     "Strongarm Corporations Universe/Cyberpunk Universe Name Here.md": {
-      "x": 32.61011735936355,
-      "y": 83.38921094588888
+      "x": 41.95207736274131,
+      "y": 64.5226881466375
     },
     "Strongarm Corporations Universe/Companies/Strongarm Corporations.md": {
-      "x": 34.48793863455812,
-      "y": 48.98905891410223
+      "x": 88.56489972876302,
+      "y": 29.780130323992573
     },
     "Solarpunk Magic Universe/Solarpunk Universe Name Here.md": {
-      "x": -26.32828685523386,
-      "y": 91.28132365449159
+      "x": -10.226767875248926,
+      "y": 76.12126228721544
     }
   },
   "saved_layout_settings": {
@@ -95,8 +110,23 @@
   },
   "saved_layout_pins": {
     "Strongarm Corporations Universe/Employees/Supa Kosmas.md": {
-      "x": 2.4430769468490583,
-      "y": 96.12347276394335,
+      "x": -3.286277806396227,
+      "y": 102.9986984678377,
+      "mode": "exact"
+    },
+    "Strongarm Corporations Universe/Inventions/B-10 Biological System.md": {
+      "x": -57.13458719147542,
+      "y": 23.10923833028415,
+      "mode": "exact"
+    },
+    "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md": {
+      "x": -21.63335901143881,
+      "y": -31.348363519428133,
+      "mode": "exact"
+    },
+    "Strongarm Corporations Universe/Companies/Strongarm Corporations.md": {
+      "x": 88.56489972876302,
+      "y": 29.780130323992573,
       "mode": "exact"
     }
   },
@@ -143,8 +173,8 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 3.6846242801743565,
-    "pan_y": 24.065738648142123,
+    "pan_x": -4.565646564498859,
+    "pan_y": 19.940603225805518,
     "zoom": 4.363493111652619,
     "side_panel_sections": {}
   }
