@@ -1,5 +1,5 @@
 {
-  "active_layout_name": "data.json",
+  "active_layout_name": "main.json",
   "pins": {
     "Strongarm Corporations Universe/Inventions/B-10 Biological System.md": {
       "x": -100,
@@ -322,8 +322,8 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 22.157803594132183,
-    "pan_y": -33.2998390988634,
+    "pan_x": 23.06250202480597,
+    "pan_y": 63.502892983231646,
     "zoom": 2.2106814074060845,
     "side_panel_sections": {}
   }
