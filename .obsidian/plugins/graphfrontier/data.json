@@ -38,8 +38,8 @@
   "groups": [
     {
       "id": "group_mu7jv02b_ukyeu1",
-      "query": "path:\"Strongarm Corporations Universe/Inventions/B-10 Biological System/\"",
-      "color": "#7aa2f7",
+      "query": "path:Strongarm Corporations Universe/Inventions/B-10 Biological System.md",
+      "color": "#00ffb3",
       "enabled": true
     }
   ],
@@ -78,9 +78,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": -49.764671044265214,
-    "pan_y": -3.0277056453550113,
-    "zoom": 5.428190584042721,
+    "pan_x": -39.29509834461351,
+    "pan_y": -14.381439186910228,
+    "zoom": 4.846598735752429,
     "side_panel_sections": {
       "search": false,
       "selection": true,
