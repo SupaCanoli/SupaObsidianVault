@@ -94,8 +94,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,7 +172,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solarpunk Magic Universe/Insert Solarpunk Bar Name Here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,8 +250,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -272,7 +269,7 @@
       "graphfrontier:Open GraphFrontier": false
     }
   },
-  "active": "4767ab163e7073a3",
+  "active": "01e181a8c5f43d55",
   "lastOpenFiles": [
     "Strongarm Corporations Universe/Departments/Warfare Reverse Engineering Department.md",
     "Strongarm Corporations Universe/Inventions/B-10 Logical System.md",

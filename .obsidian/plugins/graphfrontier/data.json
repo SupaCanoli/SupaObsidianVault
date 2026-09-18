@@ -273,6 +273,18 @@
       "query": "path:Strongarm Corporations Universe/Companies",
       "color": "#e2031a",
       "enabled": true
+    },
+    {
+      "id": "group_mu7ksckd_w711e1",
+      "query": "file:Multiverse Totality Naming Convention",
+      "color": "#ecd909",
+      "enabled": true
+    },
+    {
+      "id": "group_mu7ktczg_hghw8b",
+      "query": "section:Universe",
+      "color": "#f00ab3",
+      "enabled": true
     }
   ],
   "blacklist": [],
@@ -310,9 +322,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 16.69073100458283,
-    "pan_y": 10.232872590432228,
-    "zoom": 3.4785499933455184,
+    "pan_x": 32.837560950787065,
+    "pan_y": 59.13529658330185,
+    "zoom": 2.7730787574501896,
     "side_panel_sections": {
       "search": false,
       "selection": true,
