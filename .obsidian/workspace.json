@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Strongarm Corporations Universe/Cyberpunk Universe Name Here.md",
+                "file": "Strongarm Corporations Universe/Employees/Arden Livius.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cyberpunk Universe Name Here"
+              "title": "Arden Livius"
             }
           }
         ],
@@ -271,7 +271,7 @@
       "graphfrontier:Open GraphFrontier": false
     }
   },
-  "active": "ee25b5229ca249e8",
+  "active": "39133738a89da395",
   "lastOpenFiles": [
     "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md",
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md",
