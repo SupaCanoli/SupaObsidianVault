@@ -156,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.5
+    "width": 360.5
   },
   "right": {
     "id": "baf37989a7086d5f",
@@ -270,7 +270,7 @@
       "graphfrontier:Open GraphFrontier": false
     }
   },
-  "active": "39133738a89da395",
+  "active": "4ad15f0c2c1f6d7d",
   "lastOpenFiles": [
     "Multiverse Totality Naming Convention.md",
     "Strongarm Corporations Universe/Departments/Warfare Reverse Engineering Department.md",
