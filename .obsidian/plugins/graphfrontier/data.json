@@ -255,7 +255,9 @@
   "strong_pull_nodes": {},
   "painted_edge_colors": {
     "Strongarm Corporations Universe/Employees/Supa Kosmas.md": "#ae52e0",
-    "Strongarm Corporations Universe/Companies/Strongarm Corporations.md": "#ec6c6a"
+    "Strongarm Corporations Universe/Companies/Strongarm Corporations.md": "#ec6c6a",
+    "Strongarm Corporations Universe/Cyberpunk Universe Name Here.md": "#ff00f7",
+    "Solarpunk Magic Universe/Solarpunk Universe Name Here.md": "#ff00f7"
   },
   "node_label_sizes": {},
   "groups": [
@@ -343,8 +345,8 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 33.27919549543301,
-    "pan_y": 27.059297936286733,
+    "pan_x": -19.457924234835072,
+    "pan_y": 2.359634265148518,
     "zoom": 2.9959922120911178,
     "side_panel_sections": {
       "search": false,
