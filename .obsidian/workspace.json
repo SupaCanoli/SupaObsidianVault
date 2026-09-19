@@ -6,7 +6,7 @@
       {
         "id": "3fe70f1db80f89ab",
         "type": "tabs",
-        "dimension": 25.69710224166211,
+        "dimension": 41.37931034482759,
         "children": [
           {
             "id": "c303063315fd5a54",
@@ -70,7 +70,7 @@
       {
         "id": "e2b156047159e764",
         "type": "tabs",
-        "dimension": 74.30289775833789,
+        "dimension": 58.620689655172406,
         "children": [
           {
             "id": "39133738a89da395",
@@ -172,6 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Strongarm Corporations Universe/Cyberpunk Universe Name Here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,16 +271,16 @@
       "graphfrontier:Open GraphFrontier": false
     }
   },
-  "active": "4ad15f0c2c1f6d7d",
+  "active": "ee25b5229ca249e8",
   "lastOpenFiles": [
+    "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md",
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md",
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md",
     "Multiverse Totality Naming Convention.md",
     "Strongarm Corporations Universe/Departments/Warfare Reverse Engineering Department.md",
     "Strongarm Corporations Universe/Inventions/B-10 Logical System.md",
-    "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md",
-    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md",
     "Strongarm Corporations Universe/Employees/Supa Kosmas.md",
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md",
-    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md",
     "Strongarm Corporations Universe/Employees/Arden Livius.md",
     "Strongarm Corporations Universe/Employees/Insert CEO of Strongarm Corporations Name Here.md",
     "Strongarm Corporations Universe/Cyberpunk Universe Name Here.md",
