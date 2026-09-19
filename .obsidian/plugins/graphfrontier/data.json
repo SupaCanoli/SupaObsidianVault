@@ -55,6 +55,11 @@
       "x": -40,
       "y": 100,
       "mode": "grid"
+    },
+    "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md": {
+      "x": -60,
+      "y": 20,
+      "mode": "grid"
     }
   },
   "orbit_pins": {
@@ -72,17 +77,12 @@
       "anchor_id": "Strongarm Corporations Universe/Inventions/B-10 Logical System.md",
       "radius": 45.83662361046586,
       "angle": 4.1887902047863905
-    },
-    "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md": {
-      "anchor_id": "Strongarm Corporations Universe/Inventions/B-10 Logical System.md",
-      "radius": 45.83662361046586,
-      "angle": 5.235987755982989
     }
   },
   "saved_positions": {
     "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md": {
-      "x": -77.08168819476707,
-      "y": -19.695680470369027
+      "x": -60,
+      "y": 20
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md": {
       "x": -122.91831180523295,
@@ -227,6 +227,11 @@
       "x": -40,
       "y": 100,
       "mode": "grid"
+    },
+    "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md": {
+      "x": -60,
+      "y": 20,
+      "mode": "grid"
     }
   },
   "saved_layout_orbit_pins": {
@@ -244,11 +249,6 @@
       "anchor_id": "Strongarm Corporations Universe/Inventions/B-10 Logical System.md",
       "radius": 45.83662361046586,
       "angle": 4.1887902047863905
-    },
-    "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md": {
-      "anchor_id": "Strongarm Corporations Universe/Inventions/B-10 Logical System.md",
-      "radius": 45.83662361046586,
-      "angle": 5.235987755982989
     }
   },
   "node_force_multipliers": {},
@@ -348,8 +348,8 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 24.24594418649891,
-    "pan_y": 56.190178924295886,
+    "pan_x": 22.75061319667865,
+    "pan_y": 74.88181629704913,
     "zoom": 2.6749930465099263,
     "side_panel_sections": {
       "search": false,
