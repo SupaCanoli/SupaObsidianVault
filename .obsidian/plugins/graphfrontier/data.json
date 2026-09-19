@@ -254,7 +254,8 @@
   "node_force_multipliers": {},
   "strong_pull_nodes": {},
   "painted_edge_colors": {
-    "Strongarm Corporations Universe/Employees/Supa Kosmas.md": "#ae52e0"
+    "Strongarm Corporations Universe/Employees/Supa Kosmas.md": "#ae52e0",
+    "Strongarm Corporations Universe/Companies/Strongarm Corporations.md": "#ec6c6a"
   },
   "node_label_sizes": {},
   "groups": [
@@ -342,15 +343,15 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 40.035805181634814,
-    "pan_y": 49.221171298987144,
-    "zoom": 2.388386648669576,
+    "pan_x": 33.27919549543301,
+    "pan_y": 27.059297936286733,
+    "zoom": 2.9959922120911178,
     "side_panel_sections": {
       "search": false,
       "selection": false,
       "display": true,
       "physics": false,
-      "groups": false,
+      "groups": true,
       "lists": false,
       "layout": true
     }
