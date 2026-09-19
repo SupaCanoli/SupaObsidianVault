@@ -254,7 +254,13 @@
   "node_force_multipliers": {},
   "strong_pull_nodes": {},
   "painted_edge_colors": {
-    "Strongarm Corporations Universe/Employees/Supa Kosmas.md": "#ae52e0"
+    "Strongarm Corporations Universe/Employees/Supa Kosmas.md": "#ae52e0",
+    "Strongarm Corporations Universe/Companies/Strongarm Corporations.md": "#ec6c6a",
+    "Strongarm Corporations Universe/Cyberpunk Universe Name Here.md": "#ff00f7",
+    "Solarpunk Magic Universe/Solarpunk Universe Name Here.md": "#ff00f7",
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System.md": "#52e0a3",
+    "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md": "#69e052",
+    "Strongarm Corporations Universe/Departments/Warfare Reverse Engineering Department.md": "#069e02"
   },
   "node_label_sizes": {},
   "groups": [
@@ -342,9 +348,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 75.28353265889163,
-    "pan_y": 124.45364378454342,
-    "zoom": 1.9040072135439856,
+    "pan_x": 24.24594418649891,
+    "pan_y": 56.190178924295886,
+    "zoom": 2.6749930465099263,
     "side_panel_sections": {}
   }
 }
