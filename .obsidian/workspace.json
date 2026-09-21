@@ -6,7 +6,7 @@
       {
         "id": "3fe70f1db80f89ab",
         "type": "tabs",
-        "dimension": 49.77653631284916,
+        "dimension": 46.60846205507052,
         "children": [
           {
             "id": "2124914d4103fd70",
@@ -42,16 +42,18 @@
       {
         "id": "e2b156047159e764",
         "type": "tabs",
-        "dimension": 50.22346368715084,
+        "dimension": 53.39153794492948,
         "children": [
           {
-            "id": "8ae37b0b3bb7c4b5",
+            "id": "1216eb00f899553d",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "graph",
+              "type": "graphfrontier-view",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "pinned": true,
+              "icon": "orbit",
+              "title": "GraphFrontier"
             }
           }
         ]
@@ -227,10 +229,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "graphfrontier:Open GraphFrontier": false
     }
   },
-  "active": "8ae37b0b3bb7c4b5",
+  "active": "1216eb00f899553d",
   "lastOpenFiles": [
     "Multiverse Totality Naming Convention.md",
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md",
