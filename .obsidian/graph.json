@@ -5,10 +5,10 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"Strongarm Corporations Universe/Inventions/B-10 Logical System/\"",
+      "query": "path:\"Strongarm Corporations Universe/Inventions/B-10 Biological System/\"",
       "color": {
         "a": 1,
         "rgb": 5431459
@@ -25,7 +25,7 @@
       "query": "path:\"Strongarm Corporations Universe/Departments\"  ",
       "color": {
         "a": 1,
-        "rgb": 6938706
+        "rgb": 11657298
       }
     },
     {
@@ -43,24 +43,10 @@
       }
     },
     {
-      "query": "path:\"Strongarm Corporations Universe/Companies\" ",
+      "query": "file:Strongarm Corporations",
       "color": {
         "a": 1,
-        "rgb": 14811930
-      }
-    },
-    {
-      "query": "file:Multiverse Totality Naming Convention",
-      "color": {
-        "a": 1,
-        "rgb": 15522057
-      }
-    },
-    {
-      "query": "section:(Universe)",
-      "color": {
-        "a": 1,
-        "rgb": 16711927
+        "rgb": 13706019
       }
     }
   ],
@@ -74,6 +60,6 @@
   "repelStrength": 1,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0131718621428631,
-  "close": false
+  "scale": 1.4204496232322557,
+  "close": true
 }
