@@ -21,3 +21,11 @@ Integrity, Perseverance, Justice, in that order.
 Kindness, Patience, Bravery, not confirmed yet nor the order.
 
 # Character Development Report:
+
+### Communication Style:
+Q: "How does your character talk?  Does he/she favor certain words or phrases that make him/her distinct and interesting? What about the sound of his/her voice?"
+A: 
+
+### Communication Style:
+Q: "How does your character talk?  Does he/she favor certain words or phrases that make him/her distinct and interesting? What about the sound of his/her voice?"
+A: 
