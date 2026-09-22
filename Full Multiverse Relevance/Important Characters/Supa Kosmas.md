@@ -15,7 +15,7 @@ Supa, born February 4th, 2020, grew up to become a scientist for [[Strongarm Cor
 
 
 # Soul Type(s):
-Integrity, Perseverance, Justice, in that order.
+Integrity, Determination, Justice, in that order.
 
 # After The UnivSwap Soul Type(s):
 Kindness, Patience, Bravery, not confirmed yet nor the order.
@@ -44,7 +44,7 @@ A: The goal he is trying to accomplish in his story is to help others through hi
 
 ### Character Defect:
 Q: "Everyone has some personality trait that irritates his friends or family. Too self-centered/competitive/ lazy/compliant/demanding? Don’t go overboard on this. After all, you want your reader to like the character. But they will feel more real if they have some flaw."
-A: 
+A: One defect he tends to have is being stubborn to get the result he's looking for. Not just to get the end result, but to also make it there with the path he intended on taking.
 
 ### Thoughts:
 Q: " What kind of internal dialogue does your character have?  How do they think through his/her problems and dilemmas? Is their internal voice the same as their external voice? If not, does this create internal conflict for them?"
