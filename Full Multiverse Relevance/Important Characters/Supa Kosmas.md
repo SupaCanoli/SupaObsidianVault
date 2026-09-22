@@ -28,7 +28,7 @@ A: Supa tends to focus more on his work than actual conversation or emotional de
 
 ### History:
 Q: "Where does your character come from? What events shaped their personality? What did their mother/father do for a living? Siblings? Loving family or abusive/dysfunctional? What events led them to their current path in life?"
-A: He was raised as an only child in a dysfunctional and ignorant family that never got used to dealing with emotion from others. His mother worked in a When dealing with mental/emotional problems, this was immediately met with a silent shut down, a "Leave me alone." , or varying punishments from either parent. This raised him to be stoic
+A: He was raised as an only child in a dysfunctional and ignorant family that never got used to dealing with emotion from others. His mother worked in construction, and his father in When dealing with mental/emotional problems, this was immediately met with a silent shut down, a "Leave me alone." , or varying punishments from either parent. This raised him to be stoic
 
 ### Appearance:
 Q: "What do they look like? (This may be the least important ingredient to make your character a person to the reader, but you should still know it in your own mind. Not every character needs to be drop-dead gorgeous, by the way. Most people aren’t.)"
