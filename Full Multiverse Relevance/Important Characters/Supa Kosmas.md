@@ -40,7 +40,7 @@ A: His aforementioned history makes him have a quite reclusive nature, but if so
 
 ### Ambition:
 Q: "What is their passion in life? What goal are they trying to accomplish through your story? What is their unrecognized, internal need and how will they meet it?"
-A: The goal he is trying to accomplish in his story is to help others through his passion of cybernetics and 
+A: The goal he is trying to accomplish in his story is to help others through his passion of cybernetics and medical engineering, but he wants to do it in a way that doesn't harm the world as other alternatives used in 
 
 ### Character Defect:
 Q: "Everyone has some personality trait that irritates his friends or family. Too self-centered/competitive/ lazy/compliant/demanding? Don’t go overboard on this. After all, you want your reader to like the character. But they will feel more real if they have some flaw."
