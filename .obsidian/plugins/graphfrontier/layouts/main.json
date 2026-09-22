@@ -70,25 +70,40 @@
       "x": -80,
       "y": -40,
       "mode": "grid"
+    },
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md": {
+      "x": -100,
+      "y": -40,
+      "mode": "grid"
+    },
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md": {
+      "x": -100,
+      "y": -20,
+      "mode": "grid"
+    },
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md": {
+      "x": -100,
+      "y": -60,
+      "mode": "grid"
     }
   },
   "orbit_pins": {},
   "saved_positions": {
     "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md": {
-      "x": 4.314843537899464,
-      "y": -54.811919004724224
+      "x": -0.08180887637003172,
+      "y": -53.73486288065427
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md": {
-      "x": -69.87280844094087,
-      "y": -8.530418613947884
+      "x": -100,
+      "y": -20
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md": {
-      "x": -42.28451168089311,
-      "y": -18.497545894469397
+      "x": -100,
+      "y": -40
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md": {
-      "x": -50.02028222065586,
-      "y": -47.77563561660055
+      "x": -100,
+      "y": -60
     },
     "Strongarm Corporations Universe/Inventions/B-10 Biological System.md": {
       "x": -100,
@@ -252,6 +267,21 @@
       "x": -80,
       "y": -40,
       "mode": "grid"
+    },
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md": {
+      "x": -100,
+      "y": -40,
+      "mode": "grid"
+    },
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md": {
+      "x": -100,
+      "y": -20,
+      "mode": "grid"
+    },
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md": {
+      "x": -100,
+      "y": -60,
+      "mode": "grid"
     }
   },
   "saved_layout_orbit_pins": {},
@@ -355,9 +385,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 60.39163966771376,
-    "pan_y": -52.242017246259756,
-    "zoom": 2.2106814074060828,
+    "pan_x": 1.1447295572606393,
+    "pan_y": -41.31621659731136,
+    "zoom": 4.363493111652621,
     "side_panel_sections": {}
   }
 }
