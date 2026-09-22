@@ -32,7 +32,7 @@ A: He was raised as an only child in a dysfunctional family. His mother worked i
 
 ### Appearance:
 Q: "What do they look like? (This may be the least important ingredient to make your character a person to the reader, but you should still know it in your own mind. Not every character needs to be drop-dead gorgeous, by the way. Most people aren’t.)"
-A: As a human before his permanent experimental transformation working at Strongarm Corporations, he 
+A: As a human before his permanent experimental transformation working at Strongarm Corporations, he was an average, 5' 7" white male with obvious Slavic descent. 
 
 ### Relationships:
 Q: "What kind of friends and family do they have? Are they  very social or reclusive or somewhere in between?"
