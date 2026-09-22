@@ -291,14 +291,15 @@
   "strong_pull_nodes": {},
   "painted_edge_colors": {
     "Strongarm Corporations Universe/Employees/Supa Kosmas.md": "#ae52e0",
-    "Strongarm Corporations Universe/Companies/Strongarm Corporations.md": "#ec6c6a",
     "Strongarm Corporations Universe/Cyberpunk Universe Name Here.md": "#ff00f7",
     "Solarpunk Magic Universe/Solarpunk Universe Name Here.md": "#ff00f7",
-    "Strongarm Corporations Universe/Inventions/B-10 Logical System.md": "#52e0a3",
     "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md": "#69e052",
     "Strongarm Corporations Universe/Departments/Warfare Reverse Engineering Department.md": "#069e02",
     "Full Multiverse Relevance/Important Characters/Arden Livius.md": "#e37e35",
-    "Strongarm Corporations Universe/Employees/Insert CEO of Strongarm Corporations Name Here.md": "#e37e35"
+    "Strongarm Corporations Universe/Employees/Insert CEO of Strongarm Corporations Name Here.md": "#e37e35",
+    "Strongarm Corporations Universe/Companies/Strongarm Corporations.md": "#e2031a",
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System.md": "#2145d4",
+    "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md": "#2145d4"
   },
   "node_label_sizes": {},
   "groups": [
