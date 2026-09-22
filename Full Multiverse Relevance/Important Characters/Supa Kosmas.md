@@ -50,7 +50,7 @@ A:
 Q: " What kind of internal dialogue does your character have?  How do they think through his/her problems and dilemmas? Is their internal voice the same as their external voice? If not, does this create internal conflict for them?"
 A:
 
-### Everyman-ness:
+### Relatability:
 Q: "How relatable is your character? (Be careful not to make your character too elite or he/she may be too difficult to live vicariously through. And that, after all, is the key to the suspense.)"
 A:
 
