@@ -65,25 +65,51 @@
       "x": -80,
       "y": -80,
       "mode": "grid"
+    },
+    "Full Multiverse Relevance/Important Characters/Supa Kosmas.md": {
+      "x": 0,
+      "y": -40,
+      "mode": "grid"
     }
   },
-  "orbit_pins": {},
+  "orbit_pins": {
+    "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md": {
+      "anchor_id": "Strongarm Corporations Universe/Inventions/B-10 Logical System.md",
+      "radius": 38.197186342054884,
+      "angle": 1.2566370614359172
+    },
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md": {
+      "anchor_id": "Strongarm Corporations Universe/Inventions/B-10 Logical System.md",
+      "radius": 38.197186342054884,
+      "angle": 2.5132741228718345
+    },
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md": {
+      "anchor_id": "Strongarm Corporations Universe/Inventions/B-10 Logical System.md",
+      "radius": 38.197186342054884,
+      "angle": 3.7699111843077517
+    },
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md": {
+      "anchor_id": "Strongarm Corporations Universe/Inventions/B-10 Logical System.md",
+      "radius": 38.197186342054884,
+      "angle": 5.026548245743669
+    }
+  },
   "saved_positions": {
     "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md": {
       "x": -80,
       "y": -80
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md": {
-      "x": -45.84459059369223,
-      "y": -16.047062955983318
+      "x": -68.19642028299842,
+      "y": -76.32768297475154
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md": {
-      "x": -52.443796612674426,
-      "y": -47.611004228713334
+      "x": -110.90217288802904,
+      "y": -62.451742810927335
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md": {
-      "x": -73.66606194588041,
-      "y": -8.169437063101919
+      "x": -110.90217288802903,
+      "y": -17.548257189072658
     },
     "Strongarm Corporations Universe/Inventions/B-10 Biological System.md": {
       "x": -100,
@@ -106,8 +132,8 @@
       "y": -60
     },
     "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md": {
-      "x": -2.8824728492080136,
-      "y": -57.16351715809403
+      "x": -68.1964202829984,
+      "y": -3.6723170252484607
     },
     "Strongarm Corporations Universe/Cyberpunk Universe Name Here.md": {
       "x": 0,
@@ -138,8 +164,8 @@
       "y": -40
     },
     "Full Multiverse Relevance/Important Characters/Supa Kosmas.md": {
-      "x": -0.47173699954282755,
-      "y": -36.34946370242765
+      "x": 0,
+      "y": -40
     },
     "Full Multiverse Relevance/Important Characters/Arden Livius.md": {
       "x": 60,
@@ -242,9 +268,35 @@
       "x": -80,
       "y": -80,
       "mode": "grid"
+    },
+    "Full Multiverse Relevance/Important Characters/Supa Kosmas.md": {
+      "x": 0,
+      "y": -40,
+      "mode": "grid"
     }
   },
-  "saved_layout_orbit_pins": {},
+  "saved_layout_orbit_pins": {
+    "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md": {
+      "anchor_id": "Strongarm Corporations Universe/Inventions/B-10 Logical System.md",
+      "radius": 38.197186342054884,
+      "angle": 1.2566370614359172
+    },
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md": {
+      "anchor_id": "Strongarm Corporations Universe/Inventions/B-10 Logical System.md",
+      "radius": 38.197186342054884,
+      "angle": 2.5132741228718345
+    },
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md": {
+      "anchor_id": "Strongarm Corporations Universe/Inventions/B-10 Logical System.md",
+      "radius": 38.197186342054884,
+      "angle": 3.7699111843077517
+    },
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md": {
+      "anchor_id": "Strongarm Corporations Universe/Inventions/B-10 Logical System.md",
+      "radius": 38.197186342054884,
+      "angle": 5.026548245743669
+    }
+  },
   "node_force_multipliers": {},
   "strong_pull_nodes": {},
   "painted_edge_colors": {
@@ -345,9 +397,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": -10.976422579002687,
-    "pan_y": -50.88376960524531,
-    "zoom": 4.363493111652622,
+    "pan_x": 72.08132413862974,
+    "pan_y": -37.448068010084114,
+    "zoom": 2.210681407406084,
     "side_panel_sections": {
       "search": false,
       "selection": false,
