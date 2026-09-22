@@ -24,11 +24,11 @@ Kindness, Patience, Bravery, not confirmed yet nor the order.
 
 ### Communication Style:
 Q: "How does your character talk?  Does he/she favor certain words or phrases that make him/her distinct and interesting? What about the sound of his/her voice?"
-A: Supa tends to focus more on his work than actual conversation or emotional development with others. He favors speaking very directly, omits personal pronouns when speaking with others semi-frequently, almost as if he is writing a lab report with his voice. He tends to become almost entirely monotone and emotionless around people he doesn't trust, and holds his emotions for any others he may see as a more close friend, but even then, it still is difficult for him to express those emotions fully to those he trusts, and will 
+A: Supa tends to focus more on his work than actual conversation or emotional development with others. He favors speaking very directly, omits personal pronouns when speaking with others semi-frequently, almost as if he is writing a lab report with his voice. He tends to become almost entirely monotone and emotionless around people he doesn't trust, and holds his emotions for any others he may see as a more close friend, but even then, it still is difficult for him to express those emotions fully to those he trusts, and will stay mostly stoic in both types of interactions. 
 
 ### History:
 Q: "Where does your character come from? What events shaped their personality? What did their mother/father do for a living? Siblings? Loving family or abusive/dysfunctional? What events led them to their current path in life?"
-A: He was raised as an only child in a dysfunctional family that never got used to dealing with emotion from others. When dealing with mental/emotional problems, this was immediately met with a silent shut down or a "Leave me alone." from either parent.
+A: He was raised as an only child in a dysfunctional and ignorant family that never got used to dealing with emotion from others. When dealing with mental/emotional problems, this was immediately met with a silent shut down, a "Leave me alone." , or punishment from either parent.
 
 ### Appearance:
 Q: "What do they look like? (This may be the least important ingredient to make your character a person to the reader, but you should still know it in your own mind. Not every character needs to be drop-dead gorgeous, by the way. Most people aren’t.)"

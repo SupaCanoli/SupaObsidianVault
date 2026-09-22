@@ -146,12 +146,12 @@
       "y": 100
     },
     "Full Multiverse Relevance/Multiverse Totality Naming Convention.md": {
-      "x": -28.44764963744616,
-      "y": -24.60770738137685
+      "x": -28.608786522339184,
+      "y": -23.82510554621363
     },
     "Full Multiverse Relevance/Important Characters/Arden Livius.md": {
-      "x": 28.794826431833563,
-      "y": 21.613656661027328
+      "x": 28.905852690592493,
+      "y": 21.829715267204442
     },
     "Full Multiverse Relevance/Important Characters/Supa Kosmas.md": {
       "x": 0,
@@ -305,12 +305,6 @@
       "enabled": true
     },
     {
-      "id": "group_mu7kpphe_1em8nr",
-      "query": "path:Strongarm Corporations Universe/Employees",
-      "color": "#e37e35",
-      "enabled": true
-    },
-    {
       "id": "group_mu7kr9n7_wqfwug",
       "query": "path:Strongarm Corporations Universe/Companies",
       "color": "#e2031a",
@@ -332,6 +326,12 @@
       "id": "group_mu7kx7uz_fifh3z",
       "query": "path:Strongarm Corporations Universe/Inventions",
       "color": "#2145d4",
+      "enabled": true
+    },
+    {
+      "id": "group_mucypk3l_aqc8zy",
+      "query": "tag:StrongarmCorpEmployee",
+      "color": "#e37e35",
       "enabled": true
     }
   ],
@@ -370,9 +370,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 52.45164592433279,
-    "pan_y": 183.55062803342312,
-    "zoom": 1.7212649130746955,
+    "pan_x": 96.29163233230587,
+    "pan_y": 112.57161525771713,
+    "zoom": 1.965735564105161,
     "side_panel_sections": {}
   }
 }
