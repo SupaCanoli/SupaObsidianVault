@@ -48,7 +48,7 @@ A: One defect he tends to have is being stubborn to get the result he's looking 
 
 ### Thoughts:
 Q: " What kind of internal dialogue does your character have?  How do they think through his/her problems and dilemmas? Is their internal voice the same as their external voice? If not, does this create internal conflict for them?"
-A: His internal dialogue is a lot more animated than his external dialogue, but he's gotten used to hiding it enough to where it's a second nature now. He likes to add creative flair to his work
+A: His internal dialogue is a lot more animated than his external dialogue, but he's gotten used to hiding it enough to where it's a second nature now. He likes to add his own creative flair to his work as an outlet for 
 
 ### Relatability:
 Q: "How relatable is your character? (Be careful not to make your character too elite or he/she may be too difficult to live vicariously through. And that, after all, is the key to the suspense.)"
