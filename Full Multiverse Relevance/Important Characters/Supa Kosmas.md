@@ -24,7 +24,7 @@ Kindness, Patience, Bravery, not confirmed yet nor the order.
 
 ### Communication Style:
 Q: "How does your character talk?  Does he/she favor certain words or phrases that make him/her distinct and interesting? What about the sound of his/her voice?"
-A: Supa tends to focus more on his work than actual conversation or emotional development with others. He favors speaking very directly, almost as if he is writing a lab report with his voice. He tends to stay monotone
+A: Supa tends to focus more on his work than actual conversation or emotional development with others. He favors speaking very directly, almost as if he is writing a lab report with his voice. He tends to become more monotone around people he trusts with information on what he's working on, and masks a small amount of emotion towards any others he may see as an acquaintance or stranger.
 
 ### History:
 Q: "Where does your character come from? What events shaped their personality? What did their mother/father do for a living? Siblings? Loving family or abusive/dysfunctional? What events led them to their current path in life?"
