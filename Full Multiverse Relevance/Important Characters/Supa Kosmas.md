@@ -35,5 +35,16 @@ Q: "What do they look like? (This may be the least important ingredient to make 
 A: 
 
 ### Relationships:
-Q: "What do they look like? (This may be the least important ingredient to make your character a person to the reader, but you should still know it in your own mind. Not every character needs to be drop-dead gorgeous, by the way. Most people aren’t.)"
+Q: "What kind of friends and family do they have? Are they  very social or reclusive or somewhere in between?"
 A: 
+
+### Ambition:
+Q: "What is their passion in life? What goal are they trying to accomplish through your story? What is their unrecognized, internal need and how will they meet it?"
+A:
+
+### Character Defect:
+Q: "Everyone has some personality trait that irritates his friends or family. Too self-centered/competitive/ lazy/compliant/demanding? Don’t go overboard on this. After all, you want your reader to like the character. But they will feel more real if they have some flaw."
+A: 
+
+### Thoughts:
+Q: ""
