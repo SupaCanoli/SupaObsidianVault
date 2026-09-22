@@ -21,11 +21,6 @@
       "y": 100,
       "mode": "grid"
     },
-    "Full Multiverse Relevance/Important Characters/Supa Kosmas.md": {
-      "x": 0,
-      "y": -40,
-      "mode": "grid"
-    },
     "Strongarm Corporations Universe/Cyberpunk Universe Name Here.md": {
       "x": 0,
       "y": -140,
@@ -56,11 +51,6 @@
       "y": -60,
       "mode": "grid"
     },
-    "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md": {
-      "x": -40,
-      "y": -60,
-      "mode": "grid"
-    },
     "Full Multiverse Relevance/Multiverse Totality Naming Convention.md": {
       "x": 160,
       "y": -40,
@@ -71,39 +61,29 @@
       "y": -40,
       "mode": "grid"
     },
-    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md": {
-      "x": -100,
-      "y": -40,
-      "mode": "grid"
-    },
-    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md": {
-      "x": -100,
-      "y": -20,
-      "mode": "grid"
-    },
-    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md": {
-      "x": -100,
-      "y": -60,
+    "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md": {
+      "x": -80,
+      "y": -80,
       "mode": "grid"
     }
   },
   "orbit_pins": {},
   "saved_positions": {
     "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md": {
-      "x": -0.08180887637003172,
-      "y": -53.73486288065427
+      "x": -80,
+      "y": -80
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md": {
-      "x": -100,
-      "y": -20
+      "x": -45.84459059369223,
+      "y": -16.047062955983318
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md": {
-      "x": -100,
-      "y": -40
+      "x": -52.443796612674426,
+      "y": -47.611004228713334
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md": {
-      "x": -100,
-      "y": -60
+      "x": -73.66606194588041,
+      "y": -8.169437063101919
     },
     "Strongarm Corporations Universe/Inventions/B-10 Biological System.md": {
       "x": -100,
@@ -126,8 +106,8 @@
       "y": -60
     },
     "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md": {
-      "x": -40,
-      "y": -60
+      "x": -2.8824728492080136,
+      "y": -57.16351715809403
     },
     "Strongarm Corporations Universe/Cyberpunk Universe Name Here.md": {
       "x": 0,
@@ -158,8 +138,8 @@
       "y": -40
     },
     "Full Multiverse Relevance/Important Characters/Supa Kosmas.md": {
-      "x": 0,
-      "y": -40
+      "x": -0.47173699954282755,
+      "y": -36.34946370242765
     },
     "Full Multiverse Relevance/Important Characters/Arden Livius.md": {
       "x": 60,
@@ -218,11 +198,6 @@
       "y": 100,
       "mode": "grid"
     },
-    "Full Multiverse Relevance/Important Characters/Supa Kosmas.md": {
-      "x": 0,
-      "y": -40,
-      "mode": "grid"
-    },
     "Strongarm Corporations Universe/Cyberpunk Universe Name Here.md": {
       "x": 0,
       "y": -140,
@@ -253,11 +228,6 @@
       "y": -60,
       "mode": "grid"
     },
-    "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md": {
-      "x": -40,
-      "y": -60,
-      "mode": "grid"
-    },
     "Full Multiverse Relevance/Multiverse Totality Naming Convention.md": {
       "x": 160,
       "y": -40,
@@ -268,19 +238,9 @@
       "y": -40,
       "mode": "grid"
     },
-    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md": {
-      "x": -100,
-      "y": -40,
-      "mode": "grid"
-    },
-    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md": {
-      "x": -100,
-      "y": -20,
-      "mode": "grid"
-    },
-    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md": {
-      "x": -100,
-      "y": -60,
+    "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md": {
+      "x": -80,
+      "y": -80,
       "mode": "grid"
     }
   },
@@ -385,9 +345,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 1.1447295572606393,
-    "pan_y": -41.31621659731136,
-    "zoom": 4.363493111652621,
+    "pan_x": -10.976422579002687,
+    "pan_y": -50.88376960524531,
+    "zoom": 4.363493111652622,
     "side_panel_sections": {}
   }
 }
