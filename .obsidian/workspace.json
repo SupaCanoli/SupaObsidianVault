@@ -83,8 +83,19 @@
               "icon": "orbit",
               "title": "GraphFrontier"
             }
+          },
+          {
+            "id": "298e980ac0c6cdca",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -261,10 +272,10 @@
       "graphfrontier:Open GraphFrontier": false
     }
   },
-  "active": "866eaf40da291e17",
+  "active": "298e980ac0c6cdca",
   "lastOpenFiles": [
-    "Full Multiverse Relevance/Important Characters/Supa Kosmas.md",
     "Full Multiverse Relevance/Important Characters/Arden Livius.md",
+    "Full Multiverse Relevance/Important Characters/Supa Kosmas.md",
     "Full Multiverse Relevance/Multiverse Totality Naming Convention.md",
     "Full Multiverse Relevance/Important Characters",
     "Full Multiverse Relevance",

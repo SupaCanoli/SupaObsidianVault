@@ -380,7 +380,7 @@
       "physics": false,
       "groups": true,
       "lists": false,
-      "layout": true
+      "layout": false
     }
   }
 }
