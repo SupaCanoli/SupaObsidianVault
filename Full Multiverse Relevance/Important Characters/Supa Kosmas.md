@@ -26,6 +26,14 @@ Kindness, Patience, Bravery, not confirmed yet nor the order.
 Q: "How does your character talk?  Does he/she favor certain words or phrases that make him/her distinct and interesting? What about the sound of his/her voice?"
 A: 
 
-### Communication Style:
-Q: "How does your character talk?  Does he/she favor certain words or phrases that make him/her distinct and interesting? What about the sound of his/her voice?"
+### History:
+Q: "Where does your character come from? What events shaped their personality? What did their mother/father do for a living? Siblings? Loving family or abusive/dysfunctional? What events led them to their current path in life?"
+A: 
+
+### Appearance:
+Q: "What do they look like? (This may be the least important ingredient to make your character a person to the reader, but you should still know it in your own mind. Not every character needs to be drop-dead gorgeous, by the way. Most people aren’t.)"
+A: 
+
+### Relationships:
+Q: "What do they look like? (This may be the least important ingredient to make your character a person to the reader, but you should still know it in your own mind. Not every character needs to be drop-dead gorgeous, by the way. Most people aren’t.)"
 A: 
