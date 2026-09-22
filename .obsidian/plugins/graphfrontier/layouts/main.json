@@ -60,6 +60,16 @@
       "x": -60,
       "y": 20,
       "mode": "grid"
+    },
+    "Full Multiverse Relevance/Important Characters/Supa Kosmas.md": {
+      "x": 0,
+      "y": 40,
+      "mode": "grid"
+    },
+    "Full Multiverse Relevance/Important Characters/Arden Livius.md": {
+      "x": 40,
+      "y": 40,
+      "mode": "grid"
     }
   },
   "orbit_pins": {
@@ -145,16 +155,16 @@
       "y": -53.69094228360932
     },
     "Full Multiverse Relevance/Multiverse Totality Naming Convention.md": {
-      "x": -21.896893381022704,
-      "y": -50.56719332976852
+      "x": -0.8006320872887847,
+      "y": -0.9044965725234368
     },
     "Full Multiverse Relevance/Important Characters/Supa Kosmas.md": {
-      "x": -6.178820674015238,
-      "y": 32.5949185218963
+      "x": 0,
+      "y": 40
     },
     "Full Multiverse Relevance/Important Characters/Arden Livius.md": {
-      "x": 32.219933126415455,
-      "y": 14.600813461328226
+      "x": 40,
+      "y": 40
     }
   },
   "saved_layout_settings": {
@@ -247,6 +257,16 @@
     "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md": {
       "x": -60,
       "y": 20,
+      "mode": "grid"
+    },
+    "Full Multiverse Relevance/Important Characters/Supa Kosmas.md": {
+      "x": 0,
+      "y": 40,
+      "mode": "grid"
+    },
+    "Full Multiverse Relevance/Important Characters/Arden Livius.md": {
+      "x": 40,
+      "y": 40,
       "mode": "grid"
     }
   },
