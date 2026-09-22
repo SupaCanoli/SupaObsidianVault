@@ -300,7 +300,7 @@
     },
     {
       "id": "group_mu7kpphe_1em8nr",
-      "query": "path:Strongarm Corporations Universe/Employees",
+      "query": "tag:StrongarmCorpEmployee",
       "color": "#e37e35",
       "enabled": true
     },
