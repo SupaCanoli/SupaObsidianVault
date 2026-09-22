@@ -36,7 +36,7 @@ A: As a human before his permanent experimental transformation working at Strong
 
 ### Relationships:
 Q: "What kind of friends and family do they have? Are they very social or reclusive or somewhere in between?"
-A: His family is 
+A: His aformentioned h
 
 ### Ambition:
 Q: "What is their passion in life? What goal are they trying to accomplish through your story? What is their unrecognized, internal need and how will they meet it?"
