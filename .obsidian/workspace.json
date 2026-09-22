@@ -63,9 +63,23 @@
               "icon": "lucide-file",
               "title": "Project Nano-Symbiosis"
             }
+          },
+          {
+            "id": "dde8dc2de757e568",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Full Multiverse Relevance/Important Characters/Arden Livius.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arden Livius"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "e2b156047159e764",
@@ -271,11 +285,12 @@
       "graphfrontier:Open GraphFrontier": false
     }
   },
-  "active": "93c166d8856d3af2",
+  "active": "d83d1f6f4bb5ae11",
   "lastOpenFiles": [
+    "Full Multiverse Relevance/Important Characters/Arden Livius.md",
+    "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md",
     "Full Multiverse Relevance/Multiverse Totality Naming Convention.md",
     "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md",
-    "Full Multiverse Relevance/Important Characters/Arden Livius.md",
     "Full Multiverse Relevance/Important Characters/Supa Kosmas.md",
     "conflict-files-obsidian-git.md",
     "Strongarm Corporations Universe/Employees/Arden Livius.md",
@@ -290,7 +305,6 @@
     "Strongarm Corporations Universe/Employees/Supa Kosmas.md",
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md",
     "Strongarm Corporations Universe/Employees/Insert CEO of Strongarm Corporations Name Here.md",
-    "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md",
     "Strongarm Corporations Universe/Companies/Strongarm Corporations.md",
     "Solarpunk Magic Universe/Solarpunk Universe Name Here.md",
     "Strongarm Corporations Universe/Companies",
