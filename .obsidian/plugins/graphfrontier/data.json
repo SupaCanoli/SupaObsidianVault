@@ -23,7 +23,7 @@
     },
     "Full Multiverse Relevance/Important Characters/Supa Kosmas.md": {
       "x": 0,
-      "y": -20,
+      "y": -40,
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Cyberpunk Universe Name Here.md": {
@@ -50,25 +50,45 @@
       "x": 60,
       "y": -40,
       "mode": "grid"
+    },
+    "Strongarm Corporations Universe/Departments/Warfare Reverse Engineering Department.md": {
+      "x": 40,
+      "y": -60,
+      "mode": "grid"
+    },
+    "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md": {
+      "x": -40,
+      "y": -80,
+      "mode": "grid"
+    },
+    "Full Multiverse Relevance/Multiverse Totality Naming Convention.md": {
+      "x": 160,
+      "y": -40,
+      "mode": "grid"
+    },
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System.md": {
+      "x": -80,
+      "y": -40,
+      "mode": "grid"
     }
   },
   "orbit_pins": {},
   "saved_positions": {
     "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md": {
-      "x": 20.557458893619028,
-      "y": -41.43826170777334
+      "x": 2.3144119650516957,
+      "y": -59.96824082440367
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md": {
-      "x": -38.57986966063921,
-      "y": 0.47183007884348366
+      "x": -69.87280844094087,
+      "y": -8.530418613947884
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md": {
-      "x": -20.09420890818896,
-      "y": 39.027109517540204
+      "x": -42.28451168089311,
+      "y": -18.497545894469397
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md": {
-      "x": 19.92790148769249,
-      "y": 27.312257457876424
+      "x": -50.02028222065586,
+      "y": -47.77563561660055
     },
     "Strongarm Corporations Universe/Inventions/B-10 Biological System.md": {
       "x": -100,
@@ -87,12 +107,12 @@
       "y": -80
     },
     "Strongarm Corporations Universe/Departments/Warfare Reverse Engineering Department.md": {
-      "x": 48.61805421111751,
-      "y": -58.84500874345944
+      "x": 40,
+      "y": -60
     },
     "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md": {
-      "x": 44.58443046505993,
-      "y": -23.598524334708852
+      "x": -40,
+      "y": -80
     },
     "Strongarm Corporations Universe/Cyberpunk Universe Name Here.md": {
       "x": 0,
@@ -107,8 +127,8 @@
       "y": 80
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System.md": {
-      "x": -7.34418465704861,
-      "y": 9.634604643760182
+      "x": -80,
+      "y": -40
     },
     "Multiverse Totality Naming Convention.md": {
       "x": -40,
@@ -119,12 +139,12 @@
       "y": -53.69094228360932
     },
     "Full Multiverse Relevance/Multiverse Totality Naming Convention.md": {
-      "x": -6.733393492978986,
-      "y": -30.51308328363392
+      "x": 160,
+      "y": -40
     },
     "Full Multiverse Relevance/Important Characters/Supa Kosmas.md": {
       "x": 0,
-      "y": -20
+      "y": -40
     },
     "Full Multiverse Relevance/Important Characters/Arden Livius.md": {
       "x": 60,
@@ -185,7 +205,7 @@
     },
     "Full Multiverse Relevance/Important Characters/Supa Kosmas.md": {
       "x": 0,
-      "y": -20,
+      "y": -40,
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Cyberpunk Universe Name Here.md": {
@@ -210,6 +230,26 @@
     },
     "Full Multiverse Relevance/Important Characters/Arden Livius.md": {
       "x": 60,
+      "y": -40,
+      "mode": "grid"
+    },
+    "Strongarm Corporations Universe/Departments/Warfare Reverse Engineering Department.md": {
+      "x": 40,
+      "y": -60,
+      "mode": "grid"
+    },
+    "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md": {
+      "x": -40,
+      "y": -80,
+      "mode": "grid"
+    },
+    "Full Multiverse Relevance/Multiverse Totality Naming Convention.md": {
+      "x": 160,
+      "y": -40,
+      "mode": "grid"
+    },
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System.md": {
+      "x": -80,
       "y": -40,
       "mode": "grid"
     }
