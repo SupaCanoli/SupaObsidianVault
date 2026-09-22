@@ -20,7 +20,7 @@ Integrity, Perseverance, Justice, in that order.
 # After The UnivSwap Soul Type(s):
 Kindness, Patience, Bravery, not confirmed yet nor the order.
 
-# Character Development Report:
+# Character Development Report (Before UnivSwap):
 
 ### Communication Style:
 Q: "How does your character talk?  Does he/she favor certain words or phrases that make him/her distinct and interesting? What about the sound of his/her voice?"
