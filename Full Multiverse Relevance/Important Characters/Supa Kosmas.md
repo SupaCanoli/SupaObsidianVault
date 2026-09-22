@@ -28,7 +28,7 @@ A: Supa tends to focus more on his work than actual conversation or emotional de
 
 ### History:
 Q: "Where does your character come from? What events shaped their personality? What did their mother/father do for a living? Siblings? Loving family or abusive/dysfunctional? What events led them to their current path in life?"
-A: He was raised as an only child in a dysfunctional family. His mother worked in construction, and his father as an engineer for film equipment. When dealing with mental/emotional problems, his mother tended to take them out on him, meanwhile his father was unable to understand how to help, and was too ignorant to learn how to. This raised him to be overly stoic and as emotionless as possible around others. He wanted to do a form of engineering similarly to his father, as his father was the closest thing he could get to a trust
+A: He was raised as an only child in a dysfunctional family. His mother worked in construction, and his father as an engineer for film equipment. When dealing with mental/emotional problems, his mother tended to take them out on him, meanwhile his father was unable to understand how to help, and was too ignorant to learn how to. This raised him to be overly stoic and as emotionless as possible around others. He wanted to do a form of engineering similarly to his father, as his father was the closest thing he could get to a trustworthy 
 
 ### Appearance:
 Q: "What do they look like? (This may be the least important ingredient to make your character a person to the reader, but you should still know it in your own mind. Not every character needs to be drop-dead gorgeous, by the way. Most people aren’t.)"
