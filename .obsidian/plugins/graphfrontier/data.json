@@ -20,25 +20,55 @@
       "x": -40,
       "y": 100,
       "mode": "grid"
+    },
+    "Full Multiverse Relevance/Important Characters/Supa Kosmas.md": {
+      "x": 0,
+      "y": -20,
+      "mode": "grid"
+    },
+    "Strongarm Corporations Universe/Cyberpunk Universe Name Here.md": {
+      "x": 0,
+      "y": -140,
+      "mode": "grid"
+    },
+    "Solarpunk Magic Universe/Solarpunk Universe Name Here.md": {
+      "x": 0,
+      "y": 80,
+      "mode": "grid"
+    },
+    "Strongarm Corporations Universe/Companies/Strongarm Corporations.md": {
+      "x": 80,
+      "y": -60,
+      "mode": "grid"
+    },
+    "Strongarm Corporations Universe/Employees/Insert CEO of Strongarm Corporations Name Here.md": {
+      "x": 60,
+      "y": -80,
+      "mode": "grid"
+    },
+    "Full Multiverse Relevance/Important Characters/Arden Livius.md": {
+      "x": 60,
+      "y": -40,
+      "mode": "grid"
     }
   },
   "orbit_pins": {},
   "saved_positions": {
     "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md": {
-      "x": -52.62702351096274,
-      "y": 22.972364312888544
+      "x": 20.557458893619028,
+      "y": -41.43826170777334
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md": {
-      "x": 9.747421040272567,
-      "y": -49.33346291345847
+      "x": -38.57986966063921,
+      "y": 0.47183007884348366
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md": {
-      "x": 54.8211554247988,
-      "y": -7.468292279311975
+      "x": -20.09420890818896,
+      "y": 39.027109517540204
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md": {
-      "x": 44.30195282986412,
-      "y": -42.2034372906505
+      "x": 19.92790148769249,
+      "y": 27.312257457876424
     },
     "Strongarm Corporations Universe/Inventions/B-10 Biological System.md": {
       "x": -100,
@@ -53,32 +83,32 @@
       "y": 40
     },
     "Strongarm Corporations Universe/Employees/Insert CEO of Strongarm Corporations Name Here.md": {
-      "x": -33.71834841105597,
-      "y": -37.843017254743714
+      "x": 60,
+      "y": -80
     },
     "Strongarm Corporations Universe/Departments/Warfare Reverse Engineering Department.md": {
-      "x": -54.2297548997802,
-      "y": -13.976301518126803
+      "x": 48.61805421111751,
+      "y": -58.84500874345944
     },
     "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md": {
-      "x": -28.6456558335791,
-      "y": 39.43110969802377
+      "x": 44.58443046505993,
+      "y": -23.598524334708852
     },
     "Strongarm Corporations Universe/Cyberpunk Universe Name Here.md": {
-      "x": 20.606900187379466,
-      "y": 15.78488059073897
+      "x": 0,
+      "y": -140
     },
     "Strongarm Corporations Universe/Companies/Strongarm Corporations.md": {
-      "x": -16.37960347354585,
-      "y": -6.329166139962811
+      "x": 80,
+      "y": -60
     },
     "Solarpunk Magic Universe/Solarpunk Universe Name Here.md": {
-      "x": 10.811648451088839,
-      "y": 54.301849782280506
+      "x": 0,
+      "y": 80
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System.md": {
-      "x": 21.70419835484544,
-      "y": -17.113540405070975
+      "x": -7.34418465704861,
+      "y": 9.634604643760182
     },
     "Multiverse Totality Naming Convention.md": {
       "x": -40,
@@ -89,16 +119,16 @@
       "y": -53.69094228360932
     },
     "Full Multiverse Relevance/Multiverse Totality Naming Convention.md": {
-      "x": 40.628431280729565,
-      "y": 43.14635873559979
+      "x": -6.733393492978986,
+      "y": -30.51308328363392
     },
     "Full Multiverse Relevance/Important Characters/Supa Kosmas.md": {
-      "x": -6.64031603975092,
-      "y": 21.340229431964225
+      "x": 0,
+      "y": -20
     },
     "Full Multiverse Relevance/Important Characters/Arden Livius.md": {
-      "x": -37.97420956696976,
-      "y": 10.703774833172863
+      "x": 60,
+      "y": -40
     }
   },
   "saved_layout_settings": {
@@ -151,6 +181,36 @@
     "Multiverse Totality Naming Convention.md": {
       "x": -40,
       "y": 100,
+      "mode": "grid"
+    },
+    "Full Multiverse Relevance/Important Characters/Supa Kosmas.md": {
+      "x": 0,
+      "y": -20,
+      "mode": "grid"
+    },
+    "Strongarm Corporations Universe/Cyberpunk Universe Name Here.md": {
+      "x": 0,
+      "y": -140,
+      "mode": "grid"
+    },
+    "Solarpunk Magic Universe/Solarpunk Universe Name Here.md": {
+      "x": 0,
+      "y": 80,
+      "mode": "grid"
+    },
+    "Strongarm Corporations Universe/Companies/Strongarm Corporations.md": {
+      "x": 80,
+      "y": -60,
+      "mode": "grid"
+    },
+    "Strongarm Corporations Universe/Employees/Insert CEO of Strongarm Corporations Name Here.md": {
+      "x": 60,
+      "y": -80,
+      "mode": "grid"
+    },
+    "Full Multiverse Relevance/Important Characters/Arden Livius.md": {
+      "x": 60,
+      "y": -40,
       "mode": "grid"
     }
   },
@@ -255,9 +315,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 69.39541369447483,
-    "pan_y": 34.29521909407115,
-    "zoom": 1.7623416832000007,
+    "pan_x": 60.39163966771376,
+    "pan_y": -52.242017246259756,
+    "zoom": 2.2106814074060828,
     "side_panel_sections": {
       "search": false,
       "selection": false,
