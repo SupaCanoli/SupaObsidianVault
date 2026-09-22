@@ -176,7 +176,7 @@
     "grid_step": 20,
     "show_grid": true,
     "hide_orphans": false,
-    "hide_attachments": true,
+    "hide_attachments": false,
     "attachments_on_orbits": true,
     "existing_files_only": true,
     "search_mode": "find",
@@ -369,7 +369,7 @@
     "grid_step": 20,
     "show_grid": true,
     "hide_orphans": false,
-    "hide_attachments": true,
+    "hide_attachments": false,
     "attachments_on_orbits": true,
     "existing_files_only": true,
     "search_mode": "find",
@@ -397,9 +397,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 103.52476780161288,
-    "pan_y": 75.68486211507785,
-    "zoom": 1.973822685184001,
+    "pan_x": 70.58139579150837,
+    "pan_y": 86.40517663918993,
+    "zoom": 1.7623416832000007,
     "side_panel_sections": {}
   }
 }
