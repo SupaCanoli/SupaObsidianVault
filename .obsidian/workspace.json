@@ -88,14 +88,13 @@
             "id": "298e980ac0c6cdca",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -272,7 +271,7 @@
       "graphfrontier:Open GraphFrontier": false
     }
   },
-  "active": "298e980ac0c6cdca",
+  "active": "1216eb00f899553d",
   "lastOpenFiles": [
     "Full Multiverse Relevance/Important Characters/Arden Livius.md",
     "Full Multiverse Relevance/Important Characters/Supa Kosmas.md",
