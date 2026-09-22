@@ -36,11 +36,11 @@ A: As a human before his permanent experimental transformation working at Strong
 
 ### Relationships:
 Q: "What kind of friends and family do they have? Are they very social or reclusive or somewhere in between?"
-A: His aforementioned history makes him have a quite reclusive nature, even if someone is to gain his trust, the changes 
+A: His aforementioned history makes him have a quite reclusive nature, but if someone is able to gain his trust, he will begin to show emotion more and more over time. 
 
 ### Ambition:
 Q: "What is their passion in life? What goal are they trying to accomplish through your story? What is their unrecognized, internal need and how will they meet it?"
-A:
+A: The goal he is trying to accomplish in his story is to help others through his passion of cybernetics and 
 
 ### Character Defect:
 Q: "Everyone has some personality trait that irritates his friends or family. Too self-centered/competitive/ lazy/compliant/demanding? Don’t go overboard on this. After all, you want your reader to like the character. But they will feel more real if they have some flaw."
