@@ -35,7 +35,7 @@ Q: "What do they look like? (This may be the least important ingredient to make 
 A: As a human before his permanent experimental transformation working at Strongarm Corporations, he was an average, 5' 7" slightly tanned white male with Southern Slavic descent. Brown curly hair and brown eyes, and a more oblong face shape that is longer than it is wide. 
 
 ### Relationships:
-Q: "What kind of friends and family do they have? Are they  very social or reclusive or somewhere in between?"
+Q: "What kind of friends and family do they have? Are they very social or reclusive or somewhere in between?"
 A: 
 
 ### Ambition:
