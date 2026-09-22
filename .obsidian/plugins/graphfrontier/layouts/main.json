@@ -60,6 +60,11 @@
       "x": -60,
       "y": 20,
       "mode": "grid"
+    },
+    "Full Multiverse Relevance/Important Characters/Supa Kosmas.md": {
+      "x": 0,
+      "y": 60,
+      "mode": "grid"
     }
   },
   "orbit_pins": {
@@ -141,8 +146,16 @@
       "y": 100
     },
     "Full Multiverse Relevance/Multiverse Totality Naming Convention.md": {
-      "x": 5.838748029831752,
-      "y": 13.3417243586439
+      "x": -28.44764963744616,
+      "y": -24.60770738137685
+    },
+    "Full Multiverse Relevance/Important Characters/Arden Livius.md": {
+      "x": 28.794826431833563,
+      "y": 21.613656661027328
+    },
+    "Full Multiverse Relevance/Important Characters/Supa Kosmas.md": {
+      "x": 0,
+      "y": 60
     }
   },
   "saved_layout_settings": {
@@ -235,6 +248,11 @@
     "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md": {
       "x": -60,
       "y": 20,
+      "mode": "grid"
+    },
+    "Full Multiverse Relevance/Important Characters/Supa Kosmas.md": {
+      "x": 0,
+      "y": 60,
       "mode": "grid"
     }
   },
@@ -352,9 +370,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 30.22726814577995,
-    "pan_y": 101.42394136635873,
-    "zoom": 2.6749930465099263,
+    "pan_x": 52.45164592433279,
+    "pan_y": 183.55062803342312,
+    "zoom": 1.7212649130746955,
     "side_panel_sections": {}
   }
 }
