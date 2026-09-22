@@ -19,3 +19,5 @@ Integrity, Perseverance, Justice, in that order.
 
 # After The UnivSwap Soul Type(s):
 Kindness, Patience, Bravery, not confirmed yet nor the order.
+
+# Character Development Report:
