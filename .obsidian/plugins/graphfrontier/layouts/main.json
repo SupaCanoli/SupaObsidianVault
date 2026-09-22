@@ -65,6 +65,11 @@
       "x": 0,
       "y": 60,
       "mode": "grid"
+    },
+    "Full Multiverse Relevance/Important Characters/Arden Livius.md": {
+      "x": 40,
+      "y": 40,
+      "mode": "grid"
     }
   },
   "orbit_pins": {
@@ -146,12 +151,12 @@
       "y": 100
     },
     "Full Multiverse Relevance/Multiverse Totality Naming Convention.md": {
-      "x": 27.681503502678634,
-      "y": 73.14897499499116
+      "x": -0.5434739043781655,
+      "y": -0.3041091826277895
     },
     "Full Multiverse Relevance/Important Characters/Arden Livius.md": {
-      "x": 28.316817446982228,
-      "y": 21.32487926041599
+      "x": 40,
+      "y": 40
     },
     "Full Multiverse Relevance/Important Characters/Supa Kosmas.md": {
       "x": 0,
@@ -253,6 +258,11 @@
     "Full Multiverse Relevance/Important Characters/Supa Kosmas.md": {
       "x": 0,
       "y": 60,
+      "mode": "grid"
+    },
+    "Full Multiverse Relevance/Important Characters/Arden Livius.md": {
+      "x": 40,
+      "y": 40,
       "mode": "grid"
     }
   },
@@ -370,8 +380,8 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 35.75449693476271,
-    "pan_y": 104.94088390508564,
+    "pan_x": 81.53888505055164,
+    "pan_y": 98.83629882298045,
     "zoom": 1.965735564105161,
     "side_panel_sections": {}
   }
