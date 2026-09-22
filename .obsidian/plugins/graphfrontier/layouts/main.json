@@ -62,7 +62,7 @@
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md": {
-      "x": -80,
+      "x": -60,
       "y": -80,
       "mode": "grid"
     },
@@ -95,7 +95,7 @@
   "orbit_pins": {},
   "saved_positions": {
     "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md": {
-      "x": -80,
+      "x": -60,
       "y": -80
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md": {
@@ -264,7 +264,7 @@
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md": {
-      "x": -80,
+      "x": -60,
       "y": -80,
       "mode": "grid"
     },
@@ -399,7 +399,7 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 70.27192727728217,
+    "pan_x": 70.72427649261907,
     "pan_y": -32.92457585671519,
     "zoom": 2.210681407406084,
     "side_panel_sections": {}
