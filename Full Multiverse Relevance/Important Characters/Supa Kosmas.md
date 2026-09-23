@@ -11,7 +11,7 @@ Supa, born February 4th, 2020, grew up to become a scientist for [[Strongarm Cor
 [[Supa Kosmas|Dr. Kosmas]] is the sole inventor of the [[Full Quantum Thrash Allocation]] and [[B-10 Biological System]].
 
 ## The Creation of the [[B-10 Biological System]]
-[[Supa Kosmas|Supa]] is the sole creator of the [[B-10 Biological System]], or [[B-10 Biological System|B-10]] for short. He is also the first person he experimented [[B-10 Biological System|B-10]] on to test What do they look like? (This may be the least important ingredient to make your character a person to the reader, but you should still know it in your own mind. Not every character needs to be drop-dead gorgeous, by the way. Most people aren’t.)it's feasibility. 
+[[Supa Kosmas|Supa]] is the sole creator of the [[B-10 Logical System]], or [[B-10 Biological System|B-10]] for short. He is also the first person he experimented [[B-10 Logical System|B-10]] on to test What do they look like? (This may be the least important ingredient to make your character a person to the reader, but you should still know it in your own mind. Not every character needs to be drop-dead gorgeous, by the way. Most people aren’t.)it's feasibility. 
 
 
 # Soul Type(s):

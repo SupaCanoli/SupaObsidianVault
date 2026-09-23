@@ -166,6 +166,10 @@
     "Full Multiverse Relevance/Important Characters/Supa Kosmas.md": {
       "x": 0,
       "y": 60
+    },
+    "B-10 Biological System.md": {
+      "x": 0.8585456401310033,
+      "y": 30.311709595677392
     }
   },
   "saved_layout_settings": {
@@ -390,9 +394,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 93.94365765970024,
-    "pan_y": 34.835496351283176,
-    "zoom": 1.9426155196323036,
+    "pan_x": 92.61189246320953,
+    "pan_y": 46.243785729518805,
+    "zoom": 1.4600929531551334,
     "side_panel_sections": {}
   }
 }
