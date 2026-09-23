@@ -107,7 +107,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +142,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#StrongarmCorpEmployee",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,7 +166,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -284,10 +286,10 @@
       "graphfrontier:Open GraphFrontier": false
     }
   },
-  "active": "5af57ba4f7bc9d4d",
+  "active": "25f0659a79d567e5",
   "lastOpenFiles": [
-    "Strongarm Corporations Universe/Inventions/B-10 Logical System.md",
     "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md",
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System.md",
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md",
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md",
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md",
