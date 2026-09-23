@@ -77,9 +77,23 @@
               "icon": "lucide-file",
               "title": "Arden Livius"
             }
+          },
+          {
+            "id": "71be2e19de54d9b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Strongarm Corporations Universe/Employees/Insert CEO of Strongarm Corporations Name Here.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Insert CEO of Strongarm Corporations Name Here"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "e2b156047159e764",
@@ -285,7 +299,7 @@
       "graphfrontier:Open GraphFrontier": false
     }
   },
-  "active": "39133738a89da395",
+  "active": "71be2e19de54d9b2",
   "lastOpenFiles": [
     "Full Multiverse Relevance/Important Characters/Supa Kosmas.md",
     "Full Multiverse Relevance/Important Characters/Arden Livius.md",
