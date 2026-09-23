@@ -70,6 +70,11 @@
       "x": 40,
       "y": 40,
       "mode": "grid"
+    },
+    "Full Multiverse Relevance/Multiverse Totality Naming Convention.md": {
+      "x": 160,
+      "y": 60,
+      "mode": "grid"
     }
   },
   "orbit_pins": {
@@ -151,8 +156,8 @@
       "y": 100
     },
     "Full Multiverse Relevance/Multiverse Totality Naming Convention.md": {
-      "x": -0.0034137584479628693,
-      "y": 53.6333155518107
+      "x": 160,
+      "y": 60
     },
     "Full Multiverse Relevance/Important Characters/Arden Livius.md": {
       "x": 40,
@@ -263,6 +268,11 @@
     "Full Multiverse Relevance/Important Characters/Arden Livius.md": {
       "x": 40,
       "y": 40,
+      "mode": "grid"
+    },
+    "Full Multiverse Relevance/Multiverse Totality Naming Convention.md": {
+      "x": 160,
+      "y": 60,
       "mode": "grid"
     }
   },
@@ -380,9 +390,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": -9.733165946262707,
-    "pan_y": 50.94634101952156,
-    "zoom": 3.7737549619484017,
+    "pan_x": 93.94365765970024,
+    "pan_y": 34.835496351283176,
+    "zoom": 1.9426155196323036,
     "side_panel_sections": {}
   }
 }
