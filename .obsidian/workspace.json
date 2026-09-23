@@ -108,7 +108,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -285,13 +286,13 @@
       "graphfrontier:Open GraphFrontier": false
     }
   },
-  "active": "39133738a89da395",
+  "active": "4767ab163e7073a3",
   "lastOpenFiles": [
+    "Full Multiverse Relevance/Important Characters/Supa Kosmas.md",
     "Full Multiverse Relevance/Important Characters/Arden Livius.md",
     "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md",
     "Full Multiverse Relevance/Multiverse Totality Naming Convention.md",
     "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md",
-    "Full Multiverse Relevance/Important Characters/Supa Kosmas.md",
     "conflict-files-obsidian-git.md",
     "Strongarm Corporations Universe/Employees/Arden Livius.md",
     "Full Multiverse Relevance/Important Characters",
