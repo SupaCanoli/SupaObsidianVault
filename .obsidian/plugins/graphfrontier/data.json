@@ -258,12 +258,9 @@
     "Strongarm Corporations Universe/Companies/Strongarm Corporations.md": "#ec6c6a",
     "Strongarm Corporations Universe/Cyberpunk Universe Name Here.md": "#ff00f7",
     "Solarpunk Magic Universe/Solarpunk Universe Name Here.md": "#ff00f7",
-    "Strongarm Corporations Universe/Employees/Arden Livius.md": "#e37e35",
-    "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md": "#2145d4",
-    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md": "#52e0a3",
-    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md": "#52e0a3",
-    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md": "#52e0a3",
-    "Strongarm Corporations Universe/Inventions/B-10 Logical System.md": "#2145d4"
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System.md": "#52e0a3",
+    "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md": "#69e052",
+    "Strongarm Corporations Universe/Departments/Warfare Reverse Engineering Department.md": "#069e02"
   },
   "node_label_sizes": {},
   "groups": [
@@ -351,9 +348,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 16.71351166801017,
-    "pan_y": 97.8842101159466,
-    "zoom": 2.6749930465099254,
+    "pan_x": 30.22726814577995,
+    "pan_y": 101.42394136635873,
+    "zoom": 2.6749930465099263,
     "side_panel_sections": {
       "search": false,
       "selection": false,
