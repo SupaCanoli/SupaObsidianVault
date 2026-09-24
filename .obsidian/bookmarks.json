@@ -1,9 +1,21 @@
 {
   "items": [
     {
-      "type": "file",
-      "ctime": 1790234319116,
-      "path": "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md"
+      "type": "group",
+      "ctime": 1790234339527,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1790234319116,
+          "path": "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1790234353807,
+          "path": "Solarpunk Magic Universe/Companies/The Supatonic.md"
+        }
+      ],
+      "title": "Unfinished Notes"
     }
   ]
 }
