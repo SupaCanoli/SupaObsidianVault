@@ -117,7 +117,7 @@
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Departments/Project Hegemony.md": {
-      "x": 40.013158987451725,
+      "x": 40.09649232078505,
       "y": -19.91378638828524,
       "mode": "exact"
     }
@@ -241,7 +241,7 @@
       "y": -60
     },
     "Strongarm Corporations Universe/Departments/Project Hegemony.md": {
-      "x": 40.013158987451725,
+      "x": 40.09649232078505,
       "y": -19.91378638828524
     }
   },
@@ -393,7 +393,7 @@
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Departments/Project Hegemony.md": {
-      "x": 40.013158987451725,
+      "x": 40.09649232078505,
       "y": -19.91378638828524,
       "mode": "exact"
     }
@@ -516,9 +516,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 81.62873853953835,
-    "pan_y": -62.367911812056846,
-    "zoom": 3.105848208344217,
+    "pan_x": 49.329896989345656,
+    "pan_y": 37.613213013630165,
+    "zoom": 4.846598735752429,
     "side_panel_sections": {
       "search": false,
       "selection": false,
