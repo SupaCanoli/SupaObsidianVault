@@ -44,9 +44,19 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "0564840f7d313cfc",
+            "type": "leaf",
+            "state": {
+              "type": "graphfrontier-view",
+              "state": {},
+              "icon": "orbit",
+              "title": "GraphFrontier"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -208,7 +218,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f34b694886ce889f",
+  "active": "0564840f7d313cfc",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Strongarm Corporations Universe/Employees/Insert CEO of Strongarm Corporations Name Here.md",

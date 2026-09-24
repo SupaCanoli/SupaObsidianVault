@@ -331,7 +331,7 @@
     "node_size_scale": 1,
     "edge_width_scale": 0.34,
     "painted_edge_width": 0.2,
-    "label_zoom_steps": 10,
+    "label_zoom_steps": 20,
     "label_font_size": 9,
     "hover_dim_strength": 80,
     "strong_pull_multiplier": 5,
@@ -348,9 +348,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 30.22726814577995,
-    "pan_y": 101.42394136635873,
-    "zoom": 2.6749930465099263,
+    "pan_x": 6.713597110535317,
+    "pan_y": 91.4298614137886,
+    "zoom": 1.3016156406485988,
     "side_panel_sections": {
       "search": false,
       "selection": false,
