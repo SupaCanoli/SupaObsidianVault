@@ -72,7 +72,7 @@
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md": {
-      "x": -40,
+      "x": -20,
       "y": -20,
       "mode": "grid"
     },
@@ -107,8 +107,8 @@
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Departments/Project Economize.md": {
-      "x": 40,
-      "y": 0,
+      "x": 20,
+      "y": -20,
       "mode": "grid"
     }
   },
@@ -151,7 +151,7 @@
       "y": -20
     },
     "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md": {
-      "x": -40,
+      "x": -20,
       "y": -20
     },
     "Strongarm Corporations Universe/Cyberpunk Universe Name Here.md": {
@@ -215,8 +215,8 @@
       "y": -100
     },
     "Strongarm Corporations Universe/Departments/Project Economize.md": {
-      "x": 40,
-      "y": 0
+      "x": 20,
+      "y": -20
     }
   },
   "saved_layout_settings": {
@@ -322,7 +322,7 @@
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md": {
-      "x": -40,
+      "x": -20,
       "y": -20,
       "mode": "grid"
     },
@@ -357,8 +357,8 @@
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Departments/Project Economize.md": {
-      "x": 40,
-      "y": 0,
+      "x": 20,
+      "y": -20,
       "mode": "grid"
     }
   },
@@ -478,9 +478,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 67.85704218921825,
-    "pan_y": 5.928738564277838,
-    "zoom": 3.8959759925469855,
+    "pan_x": 28.424388331239072,
+    "pan_y": -12.815056429681084,
+    "zoom": 5.473565759257053,
     "side_panel_sections": {}
   }
 }
