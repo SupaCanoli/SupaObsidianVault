@@ -219,8 +219,8 @@
       "y": -20
     },
     "Solarpunk Magic Universe/The SupaTonic.md": {
-      "x": 1.3638946735784474,
-      "y": 0.3333092261231342
+      "x": -0.004451690219744386,
+      "y": -148.09733239981387
     }
   },
   "saved_layout_settings": {
@@ -442,7 +442,7 @@
     },
     {
       "id": "group_muf45dyg_nkntoj",
-      "query": "path:Solarpunk Magic Universe/Insert Solarpunk Governmental System Here.md",
+      "query": "path:Solarpunk Magic Universe/",
       "color": "#e2031a",
       "enabled": true
     }

@@ -1,1 +1,1 @@
-An upscale bar  that Supa had been taken in to work at
+An upscale bar that Supa currently in [[Solarpunk Universe Common Name Here]] owns and takes care of himself. 
