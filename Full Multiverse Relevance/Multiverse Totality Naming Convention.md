@@ -6,25 +6,25 @@ Made to be able to show differences between the [[Strongarm Supa's Universe]] an
 
 1st level: of 4 hexadecimals:
 
-<Unfinished>
+Not Finished!!
 2nd level of 4 hexadecimals:
 
-<Unfinished>
+Not Finished!!
 3rd level of 4 hexadecimals:
 
-<Unfinished>
+Not Finished!!
 4th level of 4 hexadecimals:
 
-<Unfinished>
+Not Finished!!
 5th level of hexadecimals:
 
-<Unfinished>
+Not Finished!!
 6th level of hexadecimals:
 
-<Unfinished>
+Not Finished!!
 7th level of hexadecimals:
 
-<Unfinished>
+Not Finished!!
 8th level of hexadecimals:
 
-Describes whether the Supa in question is responsible for his own [[B-10 Logical System|B-10 Symbiosis]], as it seems to be a universal signature across each universe for Supa to either be born with, or eventually attain a symbiosis with some form of nanotechnology in a way that can allow at the very least, the shapeshifting functionality. This defines whether the Supa is aware of the existence of other Supa's and their universes due to the nature of [[]]
+Describes whether the Supa in question is responsible for his own [[B-10 Logical System|B-10 Symbiosis]], as it seems to be a universal signature across each universe for Supa to either be born with, or eventually attain a symbiosis with some form of nanotechnology in a way that can allow at the very least, the shapeshifting functionality. This defines whether the Supa is aware of the existence of other Supa's and their universes due to the nature of [[B-10 Quantum Memory Thrashing|B-10 QMT Processing]]. 
