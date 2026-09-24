@@ -112,7 +112,7 @@
       "mode": "grid"
     },
     "Solarpunk Magic Universe/Companies/The Supatonic.md": {
-      "x": 0,
+      "x": -20,
       "y": -140,
       "mode": "grid"
     }
@@ -232,7 +232,7 @@
       "y": -148.1218071148723
     },
     "Solarpunk Magic Universe/Companies/The Supatonic.md": {
-      "x": 0,
+      "x": -20,
       "y": -140
     }
   },
@@ -379,7 +379,7 @@
       "mode": "grid"
     },
     "Solarpunk Magic Universe/Companies/The Supatonic.md": {
-      "x": 0,
+      "x": -20,
       "y": -140,
       "mode": "grid"
     }
@@ -461,7 +461,7 @@
     {
       "id": "group_muf45dyg_nkntoj",
       "query": "path:Solarpunk Magic Universe/Companies",
-      "color": "#e2031a",
+      "color": "#e20385",
       "enabled": true
     }
   ],
@@ -500,9 +500,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 24.53459162959706,
-    "pan_y": -57.59686894832734,
-    "zoom": 2.7730787574501927,
+    "pan_x": 47.50051732605037,
+    "pan_y": -124.08834660002793,
+    "zoom": 3.8959759925469855,
     "side_panel_sections": {
       "search": false,
       "selection": false,
