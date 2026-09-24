@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Full Multiverse Relevance/Important Characters/Supa Kosmas.md",
+                "file": "Strongarm Corporations Universe/Departments/Project Hegemony.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Supa Kosmas"
+              "title": "Project Hegemony"
             }
           },
           {
@@ -120,7 +120,8 @@
               "title": "B-10 Operating System"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "e2b156047159e764",
@@ -316,21 +317,22 @@
       "graphfrontier:Open GraphFrontier": false
     }
   },
-  "active": "06aa9c3daf2d4b09",
+  "active": "cc97e0305b1b77cb",
   "lastOpenFiles": [
+    "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md",
+    "Strongarm Corporations Universe/Departments/Project Hegemony.md",
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md",
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md",
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md",
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System.md",
+    "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md",
+    "Full Multiverse Relevance/Multiverse Totality Naming Convention.md",
     "Full Multiverse Relevance/Important Characters/Arden Livius.md",
     "Full Multiverse Relevance/Important Characters/Supa Kosmas.md",
-    "Full Multiverse Relevance/Multiverse Totality Naming Convention.md",
     "Strongarm Corporations Universe/Employees/Insert CEO of Strongarm Corporations Name Here.md",
     "Full Multiverse Relevance/Strongarm Supa's Universe.md",
     "Full Multiverse Relevance/Solarpunk Universe Common Name Here.md",
-    "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md",
     "Solarpunk Magic Universe/Companies/The Supatonic.md",
-    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md",
-    "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md",
-    "Strongarm Corporations Universe/Inventions/B-10 Logical System.md",
-    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md",
-    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md",
     "SupaObsidianVault/Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md",
     "SupaObsidianVault/Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md",
     "SupaObsidianVault/Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md",
@@ -349,7 +351,6 @@
     "SupaObsidianVault/Strongarm Corporations Universe/Cyberpunk Universe Name Here.md",
     "SupaObsidianVault/Strongarm Corporations Universe/Companies",
     "SupaObsidianVault/Strongarm Corporations Universe",
-    "SupaObsidianVault/Solarpunk Magic Universe/Solarpunk Universe Name Here.md",
     "SupaObsidianVault/Solarpunk Magic Universe",
     "SupaObsidianVault",
     "Solarpunk Magic Universe/Companies",
