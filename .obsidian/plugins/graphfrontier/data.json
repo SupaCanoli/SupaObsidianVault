@@ -93,7 +93,7 @@
     },
     "Full Multiverse Relevance/Cyberpunk Universe Common Name Here.md": {
       "x": 0,
-      "y": 140,
+      "y": 120,
       "mode": "grid"
     },
     "Full Multiverse Relevance/Solarpunk Universe Common Name Here.md": {
@@ -199,7 +199,7 @@
     },
     "Full Multiverse Relevance/Cyberpunk Universe Common Name Here.md": {
       "x": 0,
-      "y": 140
+      "y": 120
     },
     "Solarpunk Magic Universe/Untitled.md": {
       "x": 1.3373605413669691,
@@ -334,7 +334,7 @@
     },
     "Full Multiverse Relevance/Cyberpunk Universe Common Name Here.md": {
       "x": 0,
-      "y": 140,
+      "y": 120,
       "mode": "grid"
     },
     "Full Multiverse Relevance/Solarpunk Universe Common Name Here.md": {
@@ -464,8 +464,8 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 92.07772480854109,
-    "pan_y": -4.811409540160646,
+    "pan_x": 103.22360947444213,
+    "pan_y": -56.48778390024727,
     "zoom": 1.973822685184004,
     "side_panel_sections": {
       "search": false,
