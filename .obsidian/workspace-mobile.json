@@ -49,10 +49,14 @@
             "id": "0564840f7d313cfc",
             "type": "leaf",
             "state": {
-              "type": "graphfrontier-view",
-              "state": {},
-              "icon": "orbit",
-              "title": "GraphFrontier"
+              "type": "markdown",
+              "state": {
+                "file": "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Full Quantum Thrash Allocation"
             }
           }
         ],
