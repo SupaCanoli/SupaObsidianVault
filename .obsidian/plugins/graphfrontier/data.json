@@ -72,7 +72,7 @@
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md": {
-      "x": -20,
+      "x": -40,
       "y": -20,
       "mode": "grid"
     },
@@ -117,9 +117,9 @@
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Departments/Project Hegemony.md": {
-      "x": 0,
-      "y": -20,
-      "mode": "grid"
+      "x": 40.013158987451725,
+      "y": -19.91378638828524,
+      "mode": "exact"
     }
   },
   "orbit_pins": {},
@@ -161,7 +161,7 @@
       "y": -20
     },
     "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md": {
-      "x": -20,
+      "x": -40,
       "y": -20
     },
     "Strongarm Corporations Universe/Cyberpunk Universe Name Here.md": {
@@ -241,8 +241,8 @@
       "y": -60
     },
     "Strongarm Corporations Universe/Departments/Project Hegemony.md": {
-      "x": 0,
-      "y": -20
+      "x": 40.013158987451725,
+      "y": -19.91378638828524
     }
   },
   "saved_layout_settings": {
@@ -348,7 +348,7 @@
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md": {
-      "x": -20,
+      "x": -40,
       "y": -20,
       "mode": "grid"
     },
@@ -393,17 +393,19 @@
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Departments/Project Hegemony.md": {
-      "x": 0,
-      "y": -20,
-      "mode": "grid"
+      "x": 40.013158987451725,
+      "y": -19.91378638828524,
+      "mode": "exact"
     }
   },
   "saved_layout_orbit_pins": {},
   "node_force_multipliers": {
-    "Strongarm Corporations Universe/Inventions/B-10 Logical System.md": 5
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System.md": 5,
+    "Strongarm Corporations Universe/Departments/Project Hegemony.md": 5
   },
   "strong_pull_nodes": {
-    "Strongarm Corporations Universe/Inventions/B-10 Logical System.md": true
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System.md": true,
+    "Strongarm Corporations Universe/Departments/Project Hegemony.md": true
   },
   "painted_edge_colors": {
     "Strongarm Corporations Universe/Employees/Supa Kosmas.md": "#ae52e0",
@@ -514,9 +516,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 52.76853704514818,
-    "pan_y": -35.965054650433004,
-    "zoom": 2.7730787574501927,
+    "pan_x": 81.62873853953835,
+    "pan_y": -62.367911812056846,
+    "zoom": 3.105848208344217,
     "side_panel_sections": {
       "search": false,
       "selection": false,
