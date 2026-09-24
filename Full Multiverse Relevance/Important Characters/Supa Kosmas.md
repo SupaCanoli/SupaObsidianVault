@@ -52,11 +52,11 @@ A: His internal dialogue is a lot more animated than his external dialogue, but 
 
 ### Relatability:
 Q: "How relatable is your character? (Be careful not to make your character too elite or he/she may be too difficult to live vicariously through. And that, after all, is the key to the suspense.)"
-A:
+A: 
 
 ### Restrictions:
 Q: "More than a personality flaw, what physical or mental weakness must your character overcome through their arch?"
-A:
+A: 
 
 
 
