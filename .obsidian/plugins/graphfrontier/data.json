@@ -313,7 +313,10 @@
     "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md": "#2145d4",
     "Full Multiverse Relevance/Important Characters/Supa Kosmas.md": "#9705e6"
   },
-  "node_label_sizes": {},
+  "node_label_sizes": {
+    "Solarpunk Magic Universe/Solarpunk Universe Name Here.md": 9,
+    "Full Multiverse Relevance/Important Characters/Supa Kosmas.md": 9
+  },
   "groups": [
     {
       "id": "group_mu7kmfix_ptu4y0",
@@ -399,9 +402,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 81.29190553176349,
-    "pan_y": -38.49961040696746,
-    "zoom": 1.973822685184004,
+    "pan_x": -2.791765948254863,
+    "pan_y": -15.794739415601178,
+    "zoom": 4.363493111652624,
     "side_panel_sections": {
       "search": false,
       "selection": false,
