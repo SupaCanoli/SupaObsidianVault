@@ -82,8 +82,8 @@
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md": {
-      "x": -80,
-      "y": 60,
+      "x": -100,
+      "y": 40,
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md": {
@@ -120,6 +120,11 @@
       "x": 40.09649232078505,
       "y": -19.91378638828524,
       "mode": "exact"
+    },
+    "Full Multiverse Relevance/Strongarm Supa's Universe.md": {
+      "x": 0,
+      "y": 140,
+      "mode": "grid"
     }
   },
   "orbit_pins": {},
@@ -137,8 +142,8 @@
       "y": 0
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md": {
-      "x": -80,
-      "y": 60
+      "x": -100,
+      "y": 40
     },
     "Strongarm Corporations Universe/Inventions/B-10 Biological System.md": {
       "x": -100,
@@ -243,6 +248,10 @@
     "Strongarm Corporations Universe/Departments/Project Hegemony.md": {
       "x": 40.09649232078505,
       "y": -19.91378638828524
+    },
+    "Full Multiverse Relevance/Strongarm Supa's Universe.md": {
+      "x": 0,
+      "y": 140
     }
   },
   "saved_layout_settings": {
@@ -358,8 +367,8 @@
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md": {
-      "x": -80,
-      "y": 60,
+      "x": -100,
+      "y": 40,
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md": {
@@ -396,6 +405,11 @@
       "x": 40.09649232078505,
       "y": -19.91378638828524,
       "mode": "exact"
+    },
+    "Full Multiverse Relevance/Strongarm Supa's Universe.md": {
+      "x": 0,
+      "y": 140,
+      "mode": "grid"
     }
   },
   "saved_layout_orbit_pins": {},
@@ -516,8 +530,8 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 15.658963694645195,
-    "pan_y": -6.213670503986739,
+    "pan_x": 64.38463677476602,
+    "pan_y": -9.12266591175514,
     "zoom": 2.750090281557742,
     "side_panel_sections": {}
   }
