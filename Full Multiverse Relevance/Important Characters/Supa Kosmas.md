@@ -56,7 +56,7 @@ A: If you get close enough to Supa, he likes the chances he gets to show his emo
 
 ### Restrictions:
 Q: "More than a personality flaw, what physical or mental weakness must your character overcome through their arch?"
-A: Despite his intense amount of knowledge in his field, he likes to rush into doing something his way, even if it isn't something that he knows will work all the way through to the end. Knowing after beginning work on [[Project Nano-Symbiosis]] that his work would be turned into a war-weapon the moment he publicized any new inventions
+A: Despite his intense amount of knowledge in his field, he likes to rush into doing something his way, even if it isn't something that he knows will work all the way through to the end. Knowing after beginning work on [[Project Nano-Symbiosis]] that his work would be turned into a war-weapon the moment he publicized any new inventions or discoveries would become his downfall here.
 
 
 

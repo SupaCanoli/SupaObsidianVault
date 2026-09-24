@@ -186,7 +186,7 @@
     "node_size_scale": 1,
     "edge_width_scale": 0.34,
     "painted_edge_width": 0.2,
-    "label_zoom_steps": 10,
+    "label_zoom_steps": 20,
     "label_font_size": 9,
     "hover_dim_strength": 80,
     "strong_pull_multiplier": 5,
@@ -385,7 +385,7 @@
     "node_size_scale": 1,
     "edge_width_scale": 0.34,
     "painted_edge_width": 0.2,
-    "label_zoom_steps": 10,
+    "label_zoom_steps": 20,
     "label_font_size": 9,
     "hover_dim_strength": 80,
     "strong_pull_multiplier": 5,
@@ -402,9 +402,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 21.994790425850923,
-    "pan_y": -8.316605919100382,
-    "zoom": 4.363493111652624,
+    "pan_x": 71.78365465661992,
+    "pan_y": -11.637299448762942,
+    "zoom": 2.2106814074060845,
     "side_panel_sections": {
       "search": false,
       "selection": false,
