@@ -6,22 +6,22 @@ Made to be able to show differences between the [[Strongarm Supa's Universe]] an
 
 1st level: of 4 hexadecimals:
 
-Not Finished!!
+==\<Unfinished!\>==
 2nd level of 4 hexadecimals:
 
-Not Finished!!
+==\<Unfinished!\>==
 3rd level of 4 hexadecimals:
 
-Not Finished!!
+==\<Unfinished!\>==
 4th level of 4 hexadecimals:
 
-Not Finished!!
+==\<Unfinished!\>==
 5th level of hexadecimals:
 
-Not Finished!!
+==\<Unfinished!\>==
 6th level of hexadecimals:
 
-\<Unfinished!\>
+==\<Unfinished!\>==
 7th level of hexadecimals:
 
 Not Finished!!
