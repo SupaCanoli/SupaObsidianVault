@@ -1,0 +1,1 @@
+The new universe in which [[Supa Kosmas]] currently resides.
