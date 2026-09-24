@@ -4,7 +4,7 @@ aliases:
 tags:
   - StrongarmCorpEmployee
 ---
-Head Department Chair of [[Strongarm Corporations|Strongarm Corp.]], and an immediate higher-up to [[Supa Kosmas|Dr. Kosmas]]. He is also the person who decides whether or not certain projects or sectors are opened or closed at any point or time. He approved [[Supa Kosmas|Dr. Kosmas]]'s project after about 4 months of him developing a lead, and was still skeptical to allow him to do so.
+Head Department Chair of [[Strongarm Corporations|Strongarm Corp.]], and an immediate higher-up to [[Supa Kosmas|Dr. Kosmas]]. He is also the person who decides whether or not certain projects or sectors are opened or closed at any point or time. He approved [[Supa Kosmas|Dr. Kosmas]]'s project after about 4 months of him developing a lead, and was still skeptical to allow him to do so. 
 
 # Character Development Report:
 
