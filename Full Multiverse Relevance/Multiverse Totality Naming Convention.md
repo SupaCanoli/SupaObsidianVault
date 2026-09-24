@@ -26,5 +26,5 @@ The first 64 out of 128 bits of the address represent a specific "cluster" of un
 7th level's 2 last hexadecimals represent:
 
 ==\<Unfinished!\>==
-8th level's 2 last hexadecimals represent:
+8th level hexadecimals represent:
 
