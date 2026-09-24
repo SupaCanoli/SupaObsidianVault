@@ -115,6 +115,11 @@
       "x": 20,
       "y": -60,
       "mode": "grid"
+    },
+    "Strongarm Corporations Universe/Departments/Project Hegemony.md": {
+      "x": 0,
+      "y": -20,
+      "mode": "grid"
     }
   },
   "orbit_pins": {},
@@ -234,6 +239,10 @@
     "Solarpunk Magic Universe/Companies/The Supatonic.md": {
       "x": 20,
       "y": -60
+    },
+    "Strongarm Corporations Universe/Departments/Project Hegemony.md": {
+      "x": 0,
+      "y": -20
     }
   },
   "saved_layout_settings": {
@@ -382,6 +391,11 @@
       "x": 20,
       "y": -60,
       "mode": "grid"
+    },
+    "Strongarm Corporations Universe/Departments/Project Hegemony.md": {
+      "x": 0,
+      "y": -20,
+      "mode": "grid"
     }
   },
   "saved_layout_orbit_pins": {},
@@ -500,8 +514,8 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 30.657367026817475,
-    "pan_y": -48.946122809826925,
+    "pan_x": 52.76853704514818,
+    "pan_y": -35.965054650433004,
     "zoom": 2.7730787574501927,
     "side_panel_sections": {}
   }
