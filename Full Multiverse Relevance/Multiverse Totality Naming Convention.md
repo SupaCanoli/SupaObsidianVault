@@ -17,10 +17,13 @@ Made to be able to show differences between the [[Strongarm Supa's Universe]] an
 
 <Unfinished>
 5th level of hexadecimals:
+
 <Unfinished>
 6th level of hexadecimals:
+
 <Unfinished>
 7th level of hexadecimals:
+
 <Unfinished>
 8th level of hexadecimals:
 
