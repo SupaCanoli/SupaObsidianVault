@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Full Multiverse Relevance/Solarpunk Universe Common Name Here.md",
+                "file": "Full Multiverse Relevance/Important Characters/Arden Livius.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Solarpunk Universe Common Name Here"
+              "title": "Arden Livius"
             }
           },
           {
@@ -151,6 +151,19 @@
               },
               "icon": "lucide-search",
               "title": "Search"
+            }
+          },
+          {
+            "id": "dc3a7abbdbff6f24",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -272,46 +285,11 @@
       "graphfrontier:Open GraphFrontier": false
     }
   },
-  "floating": {
-    "id": "594e2da764ab4190",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e3d4f446d54ebc6d",
-        "type": "window",
-        "children": [
-          {
-            "id": "d6a70d90c775537e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "30c91588819e9d46",
-                "type": "leaf",
-                "state": {
-                  "type": "bookmarks",
-                  "state": {
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-bookmark",
-                  "title": "Bookmarks"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1903,
-        "y": 424,
-        "width": 600,
-        "height": 600,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "45004d553b710601",
+  "active": "4ad15f0c2c1f6d7d",
   "lastOpenFiles": [
+    "Full Multiverse Relevance/Multiverse Totality Naming Convention.md",
+    "Full Multiverse Relevance/Strongarm Supa's Universe.md",
+    "Full Multiverse Relevance/Solarpunk Universe Common Name Here.md",
     "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md",
     "Strongarm Corporations Universe/Inventions/B-10 Logical System.md",
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md",
@@ -323,9 +301,6 @@
     "Strongarm Corporations Universe/Companies/Strongarm Corporations.md",
     "Solarpunk Magic Universe/Insert Solarpunk Governmental System Here.md",
     "Solarpunk Magic Universe/Companies/The Supatonic.md",
-    "Full Multiverse Relevance/Multiverse Totality Naming Convention.md",
-    "Full Multiverse Relevance/Strongarm Supa's Universe.md",
-    "Full Multiverse Relevance/Solarpunk Universe Common Name Here.md",
     "Full Multiverse Relevance/Important Characters/Supa Kosmas.md",
     "Full Multiverse Relevance/Important Characters/Arden Livius.md",
     "Solarpunk Magic Universe/Companies",
