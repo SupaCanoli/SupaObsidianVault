@@ -217,6 +217,10 @@
     "Strongarm Corporations Universe/Departments/Project Economize.md": {
       "x": 20,
       "y": -20
+    },
+    "Solarpunk Magic Universe/The SupaTonic.md": {
+      "x": 1.3638946735784474,
+      "y": 0.3333092261231342
     }
   },
   "saved_layout_settings": {
@@ -478,9 +482,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 28.424388331239072,
-    "pan_y": -12.815056429681084,
-    "zoom": 5.473565759257053,
+    "pan_x": 50.008194632330714,
+    "pan_y": 3.153028100278437,
+    "zoom": 2.7730787574501927,
     "side_panel_sections": {}
   }
 }
