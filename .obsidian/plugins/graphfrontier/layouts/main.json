@@ -82,8 +82,8 @@
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md": {
-      "x": -100,
-      "y": 40,
+      "x": -80,
+      "y": 60,
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md": {
@@ -137,8 +137,8 @@
       "y": 0
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md": {
-      "x": -100,
-      "y": 40
+      "x": -80,
+      "y": 60
     },
     "Strongarm Corporations Universe/Inventions/B-10 Biological System.md": {
       "x": -100,
@@ -358,8 +358,8 @@
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md": {
-      "x": -100,
-      "y": 40,
+      "x": -80,
+      "y": 60,
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md": {
@@ -516,9 +516,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 51.04779325477273,
-    "pan_y": -31.179342884852552,
-    "zoom": 12,
+    "pan_x": 15.658963694645195,
+    "pan_y": -6.213670503986739,
+    "zoom": 2.750090281557742,
     "side_panel_sections": {}
   }
 }

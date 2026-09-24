@@ -77,13 +77,13 @@
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md": {
-      "x": -120,
-      "y": 20,
+      "x": -100,
+      "y": 40,
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md": {
-      "x": -100,
-      "y": 40,
+      "x": -80,
+      "y": 60,
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md": {
@@ -129,16 +129,16 @@
       "y": -40
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md": {
-      "x": -120,
-      "y": 20
+      "x": -100,
+      "y": 40
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md": {
       "x": -140,
       "y": 0
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md": {
-      "x": -100,
-      "y": 40
+      "x": -80,
+      "y": 60
     },
     "Strongarm Corporations Universe/Inventions/B-10 Biological System.md": {
       "x": -100,
@@ -353,13 +353,13 @@
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md": {
-      "x": -120,
-      "y": 20,
+      "x": -100,
+      "y": 40,
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md": {
-      "x": -100,
-      "y": 40,
+      "x": -80,
+      "y": 60,
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md": {
@@ -516,8 +516,8 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 14.204465990760992,
-    "pan_y": -12.39528574549459,
+    "pan_x": 20.74970565823991,
+    "pan_y": -5.850046078015686,
     "zoom": 2.750090281557742,
     "side_panel_sections": {
       "search": false,
