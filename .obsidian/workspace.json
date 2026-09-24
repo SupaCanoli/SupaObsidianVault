@@ -6,7 +6,7 @@
       {
         "id": "3fe70f1db80f89ab",
         "type": "tabs",
-        "dimension": 41.86422413793103,
+        "dimension": 44.127155172413794,
         "children": [
           {
             "id": "5af57ba4f7bc9d4d",
@@ -56,7 +56,7 @@
       {
         "id": "e2b156047159e764",
         "type": "tabs",
-        "dimension": 58.13577586206896,
+        "dimension": 55.872844827586206,
         "children": [
           {
             "id": "39133738a89da395",
@@ -80,8 +80,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -258,7 +257,7 @@
       "graphfrontier:Open GraphFrontier": false
     }
   },
-  "active": "40cc3fb32151138e",
+  "active": "56c39ef14d299c74",
   "lastOpenFiles": [
     "Solarpunk Magic Universe/Insert Solarpunk Governmental System Here.md",
     "Solarpunk Magic Universe/Companies/The Supatonic.md",
