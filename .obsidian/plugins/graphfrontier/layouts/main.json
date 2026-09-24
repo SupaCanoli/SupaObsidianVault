@@ -90,6 +90,16 @@
       "x": -100,
       "y": -60,
       "mode": "grid"
+    },
+    "Full Multiverse Relevance/Cyberpunk Universe Common Name Here.md": {
+      "x": 0,
+      "y": 60,
+      "mode": "grid"
+    },
+    "Full Multiverse Relevance/Solarpunk Universe Common Name Here.md": {
+      "x": 80,
+      "y": -40,
+      "mode": "grid"
     }
   },
   "orbit_pins": {},
@@ -169,6 +179,22 @@
     "Full Multiverse Relevance/Important Characters/Arden Livius.md": {
       "x": 60,
       "y": -40
+    },
+    "Solarpunk Magic Universe/Solarpunk Universe Common Name Here.md": {
+      "x": 74.55528653340541,
+      "y": -28.350037047374805
+    },
+    "Full Multiverse Relevance/Cyberpunk Universe Name Here.md": {
+      "x": 67.02996673752835,
+      "y": -40.41500663302696
+    },
+    "Full Multiverse Relevance/Solarpunk Universe Common Name Here.md": {
+      "x": 80,
+      "y": -40
+    },
+    "Full Multiverse Relevance/Cyberpunk Universe Common Name Here.md": {
+      "x": 0,
+      "y": 60
     }
   },
   "saved_layout_settings": {
@@ -292,6 +318,16 @@
       "x": -100,
       "y": -60,
       "mode": "grid"
+    },
+    "Full Multiverse Relevance/Cyberpunk Universe Common Name Here.md": {
+      "x": 0,
+      "y": 60,
+      "mode": "grid"
+    },
+    "Full Multiverse Relevance/Solarpunk Universe Common Name Here.md": {
+      "x": 80,
+      "y": -40,
+      "mode": "grid"
     }
   },
   "saved_layout_orbit_pins": {},
@@ -402,9 +438,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 68.77350271316988,
-    "pan_y": -20.010755511533233,
-    "zoom": 2.2106814074060845,
+    "pan_x": 66.56639527507967,
+    "pan_y": -11.805028589333723,
+    "zoom": 2.7730787574501927,
     "side_panel_sections": {}
   }
 }
