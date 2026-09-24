@@ -122,9 +122,9 @@
       "mode": "exact"
     },
     "Full Multiverse Relevance/Strongarm Supa's Universe.md": {
-      "x": 0,
-      "y": 140,
-      "mode": "grid"
+      "x": 0.08171661769166327,
+      "y": 120.2277967902418,
+      "mode": "exact"
     }
   },
   "orbit_pins": {},
@@ -250,8 +250,8 @@
       "y": -19.91378638828524
     },
     "Full Multiverse Relevance/Strongarm Supa's Universe.md": {
-      "x": 0,
-      "y": 140
+      "x": 0.08171661769166327,
+      "y": 120.2277967902418
     }
   },
   "saved_layout_settings": {
@@ -407,9 +407,9 @@
       "mode": "exact"
     },
     "Full Multiverse Relevance/Strongarm Supa's Universe.md": {
-      "x": 0,
-      "y": 140,
-      "mode": "grid"
+      "x": 0.08171661769166327,
+      "y": 120.2277967902418,
+      "mode": "exact"
     }
   },
   "saved_layout_orbit_pins": {},
@@ -530,9 +530,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 64.38463677476602,
-    "pan_y": -9.12266591175514,
-    "zoom": 2.750090281557742,
+    "pan_x": 17.92979728024834,
+    "pan_y": 87.15036206012665,
+    "zoom": 12,
     "side_panel_sections": {}
   }
 }
