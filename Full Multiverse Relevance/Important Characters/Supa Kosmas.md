@@ -52,7 +52,7 @@ A: His internal dialogue is a lot more animated than his external dialogue, but 
 
 ### Relatability:
 Q: "How relatable is your character? (Be careful not to make your character too elite or he/she may be too difficult to live vicariously through. And that, after all, is the key to the suspense.)"
-A: If you get to be a 
+A: If you get close enough to Supa, he likes the chances he gets to show his emotions to the people he trusts, and will show a lot more color to his life as you get to know him as a
 
 ### Restrictions:
 Q: "More than a personality flaw, what physical or mental weakness must your character overcome through their arch?"
