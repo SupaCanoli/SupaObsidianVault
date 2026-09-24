@@ -1,1 +1,1 @@
-A department authorized by the CEO of [[Strongarm Corporations|Strongarm Corp.]] with the help of [[Arden Livius|Chairman Livius]]. 
+A department authorized by the CEO of [[Strongarm Corporations|Strongarm Corp.]] with the help of [[Arden Livius|Chairman Livius]]. This department takes inventions that have been made in any other departments, and repurposes them into war weapons without the knowledge of the engineers and/or scientists who helped create the original invention/discovery at hand.
