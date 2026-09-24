@@ -201,8 +201,8 @@
       "y": 0.4460079347414464
     },
     "Solarpunk Magic Universe/Insert Solarpunk Governmental System Here.md": {
-      "x": 0.616610478639331,
-      "y": 0.8164656764240628
+      "x": -0.003984980537019697,
+      "y": -131.2680536305269
     }
   },
   "saved_layout_settings": {
@@ -411,6 +411,12 @@
       "query": "path:Strongarm Corporations Universe/Inventions",
       "color": "#2145d4",
       "enabled": true
+    },
+    {
+      "id": "group_muf45dyg_nkntoj",
+      "query": "path:Solarpunk Magic Universe/Insert Solarpunk Governmental System Here.md",
+      "color": "#e2031a",
+      "enabled": true
     }
   ],
   "blacklist": [],
@@ -448,9 +454,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 59.912966808819675,
-    "pan_y": 20.733130692289482,
-    "zoom": 1.973822685184004,
+    "pan_x": 30.076052072482767,
+    "pan_y": 10.81691362171001,
+    "zoom": 4.887112285050939,
     "side_panel_sections": {}
   }
 }

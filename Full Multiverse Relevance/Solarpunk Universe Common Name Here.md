@@ -1,1 +1,1 @@
-The new universe in which [[Supa Kosmas]] currently resides.
+The new universe in which [[Supa Kosmas]] currently resides, and is based around the [[Insert Solarpunk Governmental System Here]].

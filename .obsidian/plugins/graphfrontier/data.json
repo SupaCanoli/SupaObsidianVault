@@ -201,8 +201,8 @@
       "y": 0.4460079347414464
     },
     "Solarpunk Magic Universe/Insert Solarpunk Governmental System Here.md": {
-      "x": 0.616610478639331,
-      "y": 0.8164656764240628
+      "x": -0.003984980537019697,
+      "y": -131.2680536305269
     }
   },
   "saved_layout_settings": {
@@ -415,7 +415,7 @@
     {
       "id": "group_muf45dyg_nkntoj",
       "query": "path:Solarpunk Magic Universe/Insert Solarpunk Governmental System Here.md",
-      "color": "#7aa2f7",
+      "color": "#e2031a",
       "enabled": true
     }
   ],
@@ -454,9 +454,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 59.912966808819675,
-    "pan_y": 20.733130692289482,
-    "zoom": 1.973822685184004,
+    "pan_x": 93.34387961592508,
+    "pan_y": -100.7308143841024,
+    "zoom": 2.7730787574501927,
     "side_panel_sections": {
       "search": false,
       "selection": false,
