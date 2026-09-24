@@ -9,23 +9,23 @@ The first 2 out of 4 hexadecimal digits in each section represent a prefix that 
 1st level's 2 last hexadecimals represent:
 
 ==\<Unfinished!\>==
-2nd level of 4 hexadecimals:
+2nd level's 2 last hexadecimals represent:
 
 ==\<Unfinished!\>==
-3rd level of 4 hexadecimals:
+3rd level's 2 last hexadecimals represent:
 
 ==\<Unfinished!\>==
-4th level of 4 hexadecimals:
+4th level's 2 last hexadecimals represent:
 
 ==\<Unfinished!\>==
-5th level of hexadecimals:
+5th level's 2 last hexadecimals represent:
 
 ==\<Unfinished!\>==
-6th level of hexadecimals:
+6th level's 2 last hexadecimals represent:
 
 ==\<Unfinished!\>==
-7th level of hexadecimals:
+7th level's 2 last hexadecimals represent:
 
 ==\<Unfinished!\>==
-8th level of hexadecimals:
+8th level's 2 last hexadecimals represent:
 
