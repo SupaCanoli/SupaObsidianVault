@@ -112,12 +112,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solarpunk Magic Universe/The SupaTonic.md",
+                "file": "Solarpunk Magic Universe/Companies/The Supatonic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The SupaTonic"
+              "title": "The Supatonic"
             }
           }
         ],
@@ -329,8 +329,9 @@
   },
   "active": "ee2df0cd7fc32e4a",
   "lastOpenFiles": [
+    "Solarpunk Magic Universe/Companies",
     "Strongarm Corporations Universe/Departments/Project Economize.md",
-    "Solarpunk Magic Universe/The SupaTonic.md",
+    "Solarpunk Magic Universe/Companies/The Supatonic.md",
     "Full Multiverse Relevance/Solarpunk Universe Common Name Here.md",
     "Solarpunk Magic Universe/Insert Solarpunk Governmental System Here.md",
     "Full Multiverse Relevance/Cyberpunk Universe Common Name Here.md",

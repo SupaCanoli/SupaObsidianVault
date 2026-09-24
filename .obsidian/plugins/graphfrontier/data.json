@@ -103,12 +103,17 @@
     },
     "Solarpunk Magic Universe/Insert Solarpunk Governmental System Here.md": {
       "x": 80,
-      "y": -100,
+      "y": -60,
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Departments/Project Economize.md": {
       "x": 20,
       "y": -20,
+      "mode": "grid"
+    },
+    "Solarpunk Magic Universe/Companies/The Supatonic.md": {
+      "x": 0,
+      "y": -140,
       "mode": "grid"
     }
   },
@@ -212,7 +217,7 @@
     },
     "Solarpunk Magic Universe/Insert Solarpunk Governmental System Here.md": {
       "x": 80,
-      "y": -100
+      "y": -60
     },
     "Strongarm Corporations Universe/Departments/Project Economize.md": {
       "x": 20,
@@ -221,6 +226,14 @@
     "Solarpunk Magic Universe/The SupaTonic.md": {
       "x": -0.004451690219744386,
       "y": -148.09733239981387
+    },
+    "Solarpunk Magic Universe/Companies/The SupaTonic.md": {
+      "x": 0.009911801826115285,
+      "y": -148.1218071148723
+    },
+    "Solarpunk Magic Universe/Companies/The Supatonic.md": {
+      "x": 0,
+      "y": -140
     }
   },
   "saved_layout_settings": {
@@ -357,12 +370,17 @@
     },
     "Solarpunk Magic Universe/Insert Solarpunk Governmental System Here.md": {
       "x": 80,
-      "y": -100,
+      "y": -60,
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Departments/Project Economize.md": {
       "x": 20,
       "y": -20,
+      "mode": "grid"
+    },
+    "Solarpunk Magic Universe/Companies/The Supatonic.md": {
+      "x": 0,
+      "y": -140,
       "mode": "grid"
     }
   },
@@ -442,7 +460,7 @@
     },
     {
       "id": "group_muf45dyg_nkntoj",
-      "query": "path:Solarpunk Magic Universe/",
+      "query": "path:Solarpunk Magic Universe/Companies",
       "color": "#e2031a",
       "enabled": true
     }
@@ -482,8 +500,8 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 50.008194632330714,
-    "pan_y": 3.153028100278437,
+    "pan_x": 151.33961165215442,
+    "pan_y": 25.87145967411791,
     "zoom": 2.7730787574501927,
     "side_panel_sections": {
       "search": false,
