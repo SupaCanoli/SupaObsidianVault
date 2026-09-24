@@ -195,6 +195,14 @@
     "Full Multiverse Relevance/Cyberpunk Universe Common Name Here.md": {
       "x": 0,
       "y": 120
+    },
+    "Solarpunk Magic Universe/Untitled.md": {
+      "x": 1.3373605413669691,
+      "y": 0.4460079347414464
+    },
+    "Solarpunk Magic Universe/Insert Solarpunk Governmental System Here.md": {
+      "x": 0.616610478639331,
+      "y": 0.8164656764240628
     }
   },
   "saved_layout_settings": {
@@ -402,6 +410,12 @@
       "id": "group_mu7kx7uz_fifh3z",
       "query": "path:Strongarm Corporations Universe/Inventions",
       "color": "#2145d4",
+      "enabled": true
+    },
+    {
+      "id": "group_muf45dyg_nkntoj",
+      "query": "path:Solarpunk Magic Universe/Insert Solarpunk Governmental System Here.md",
+      "color": "#7aa2f7",
       "enabled": true
     }
   ],
