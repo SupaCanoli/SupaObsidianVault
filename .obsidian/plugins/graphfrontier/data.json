@@ -105,6 +105,11 @@
       "x": 80,
       "y": -100,
       "mode": "grid"
+    },
+    "Strongarm Corporations Universe/Departments/Project Economize.md": {
+      "x": 40,
+      "y": 0,
+      "mode": "grid"
     }
   },
   "orbit_pins": {},
@@ -208,6 +213,10 @@
     "Solarpunk Magic Universe/Insert Solarpunk Governmental System Here.md": {
       "x": 80,
       "y": -100
+    },
+    "Strongarm Corporations Universe/Departments/Project Economize.md": {
+      "x": 40,
+      "y": 0
     }
   },
   "saved_layout_settings": {
@@ -346,6 +355,11 @@
       "x": 80,
       "y": -100,
       "mode": "grid"
+    },
+    "Strongarm Corporations Universe/Departments/Project Economize.md": {
+      "x": 40,
+      "y": 0,
+      "mode": "grid"
     }
   },
   "saved_layout_orbit_pins": {},
@@ -464,9 +478,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 61.494363700220944,
-    "pan_y": 6.428977821622123,
-    "zoom": 4.363493111652624,
+    "pan_x": 67.85704218921825,
+    "pan_y": 5.928738564277838,
+    "zoom": 3.8959759925469855,
     "side_panel_sections": {
       "search": false,
       "selection": false,
