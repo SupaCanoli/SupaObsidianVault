@@ -93,12 +93,12 @@
     },
     "Full Multiverse Relevance/Cyberpunk Universe Common Name Here.md": {
       "x": 0,
-      "y": 60,
+      "y": 120,
       "mode": "grid"
     },
     "Full Multiverse Relevance/Solarpunk Universe Common Name Here.md": {
-      "x": 80,
-      "y": -40,
+      "x": 0,
+      "y": -180,
       "mode": "grid"
     }
   },
@@ -189,12 +189,12 @@
       "y": -40.41500663302696
     },
     "Full Multiverse Relevance/Solarpunk Universe Common Name Here.md": {
-      "x": 80,
-      "y": -40
+      "x": 0,
+      "y": -180
     },
     "Full Multiverse Relevance/Cyberpunk Universe Common Name Here.md": {
       "x": 0,
-      "y": 60
+      "y": 120
     }
   },
   "saved_layout_settings": {
@@ -321,12 +321,12 @@
     },
     "Full Multiverse Relevance/Cyberpunk Universe Common Name Here.md": {
       "x": 0,
-      "y": 60,
+      "y": 120,
       "mode": "grid"
     },
     "Full Multiverse Relevance/Solarpunk Universe Common Name Here.md": {
-      "x": 80,
-      "y": -40,
+      "x": 0,
+      "y": -180,
       "mode": "grid"
     }
   },
