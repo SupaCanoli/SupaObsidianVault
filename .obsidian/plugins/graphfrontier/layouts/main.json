@@ -78,17 +78,17 @@
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md": {
       "x": -120,
-      "y": 0,
+      "y": 20,
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md": {
       "x": -100,
-      "y": 20,
+      "y": 40,
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md": {
-      "x": -100,
-      "y": -20,
+      "x": -140,
+      "y": 0,
       "mode": "grid"
     },
     "Full Multiverse Relevance/Cyberpunk Universe Common Name Here.md": {
@@ -115,15 +115,15 @@
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md": {
       "x": -120,
-      "y": 0
+      "y": 20
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md": {
-      "x": -100,
-      "y": -20
+      "x": -140,
+      "y": 0
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md": {
       "x": -100,
-      "y": 20
+      "y": 40
     },
     "Strongarm Corporations Universe/Inventions/B-10 Biological System.md": {
       "x": -100,
@@ -319,17 +319,17 @@
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md": {
       "x": -120,
-      "y": 0,
+      "y": 20,
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md": {
       "x": -100,
-      "y": 20,
+      "y": 40,
       "mode": "grid"
     },
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md": {
-      "x": -100,
-      "y": -20,
+      "x": -140,
+      "y": 0,
       "mode": "grid"
     },
     "Full Multiverse Relevance/Cyberpunk Universe Common Name Here.md": {
@@ -464,8 +464,8 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 103.22360947444213,
-    "pan_y": -56.48778390024727,
+    "pan_x": 79.50532458141693,
+    "pan_y": 12.819755052133882,
     "zoom": 1.973822685184004,
     "side_panel_sections": {}
   }
