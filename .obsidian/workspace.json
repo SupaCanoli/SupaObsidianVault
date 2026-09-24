@@ -69,8 +69,19 @@
               "icon": "orbit",
               "title": "GraphFrontier"
             }
+          },
+          {
+            "id": "40cc3fb32151138e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -247,10 +258,10 @@
       "graphfrontier:Open GraphFrontier": false
     }
   },
-  "active": "56c39ef14d299c74",
+  "active": "40cc3fb32151138e",
   "lastOpenFiles": [
-    "Solarpunk Magic Universe/Companies/The Supatonic.md",
     "Solarpunk Magic Universe/Insert Solarpunk Governmental System Here.md",
+    "Solarpunk Magic Universe/Companies/The Supatonic.md",
     "Strongarm Corporations Universe/Companies/Strongarm Corporations.md",
     "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md",
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md",
