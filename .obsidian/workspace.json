@@ -9,34 +9,6 @@
         "dimension": 44.127155172413794,
         "children": [
           {
-            "id": "5af57ba4f7bc9d4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Full Quantum Thrash Allocation"
-            }
-          },
-          {
-            "id": "6b6b7ee5812a2b89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Strongarm Corporations Universe/Inventions/B-10 Logical System.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "B-10 Logical System"
-            }
-          },
-          {
             "id": "06aa9c3daf2d4b09",
             "type": "leaf",
             "state": {
@@ -63,8 +35,23 @@
               "icon": "lucide-file",
               "title": "B-10 Quantum Memory Thrashing"
             }
+          },
+          {
+            "id": "8e0e812755a8490b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "B-10 Cellular Structure System"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "e2b156047159e764",
@@ -270,14 +257,14 @@
       "graphfrontier:Open GraphFrontier": false
     }
   },
-  "active": "5af57ba4f7bc9d4d",
+  "active": "8e0e812755a8490b",
   "lastOpenFiles": [
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md",
+    "Full Multiverse Relevance/Multiverse Totality Naming Convention.md",
     "Strongarm Corporations Universe/Inventions/B-10 Logical System.md",
     "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md",
-    "Full Multiverse Relevance/Multiverse Totality Naming Convention.md",
     "Full Multiverse Relevance/Strongarm Supa's Universe.md",
     "Strongarm Corporations Universe/Departments/Project Hegemony.md",
-    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md",
     "Solarpunk Magic Universe/Companies/The Supatonic.md",
     "Solarpunk Magic Universe/Insert Solarpunk Governmental System Here.md",
     "Strongarm Corporations Universe/Companies/Strongarm Corporations.md",
