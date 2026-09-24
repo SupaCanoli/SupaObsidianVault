@@ -52,7 +52,7 @@ A: His internal dialogue is a lot more animated than his external dialogue, but 
 
 ### Relatability:
 Q: "How relatable is your character? (Be careful not to make your character too elite or he/she may be too difficult to live vicariously through. And that, after all, is the key to the suspense.)"
-A: 
+A: Supa finds the small things in his work to be important, like being able to take breaks
 
 ### Restrictions:
 Q: "More than a personality flaw, what physical or mental weakness must your character overcome through their arch?"
