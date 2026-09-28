@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "3fe70f1db80f89ab",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md",
+                "file": "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -247,8 +247,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "02a10b6ec3dfa029",
+  "active": "0b6fc241ac9dad6d",
   "lastOpenFiles": [
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md",
     "Solarpunk Magic Universe/Companies/The Supatonic.md",
     "Strongarm Corporations Universe/Employees/Insert CEO of Strongarm Corporations Name Here.md",
     "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md",
@@ -259,7 +260,6 @@
     "Strongarm Corporations Universe/Departments/Project Hegemony.md",
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md",
     "Strongarm Corporations Universe/Companies/Strongarm Corporations.md",
-    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md",
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md",
     "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md",
     "Strongarm Corporations Universe/Inventions/B-10 Logical System.md",
