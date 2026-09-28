@@ -6,7 +6,7 @@
       {
         "id": "3fe70f1db80f89ab",
         "type": "tabs",
-        "dimension": 44.127155172413794,
+        "dimension": 43.45696291112666,
         "children": [
           {
             "id": "4228acec9ee8ac72",
@@ -23,7 +23,7 @@
       {
         "id": "e2b156047159e764",
         "type": "tabs",
-        "dimension": 55.872844827586206,
+        "dimension": 56.54303708887334,
         "children": [
           {
             "id": "39133738a89da395",
@@ -214,7 +214,7 @@
       "graphfrontier:Open GraphFrontier": false
     }
   },
-  "active": "4228acec9ee8ac72",
+  "active": "39133738a89da395",
   "lastOpenFiles": [
     "Full Multiverse Relevance/Multiverse Totality Naming Convention.md",
     "Full Multiverse Relevance/Important Characters/Arden Livius.md",
