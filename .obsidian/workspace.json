@@ -112,7 +112,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -232,7 +233,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b6fc241ac9dad6d",
+  "active": "dc3a7abbdbff6f24",
   "lastOpenFiles": [
     "Strongarm Corporations Universe/Departments/Project Hegemony.md",
     "Strongarm Corporations Universe/Employees/Insert CEO of Strongarm Corporations Name Here.md",
