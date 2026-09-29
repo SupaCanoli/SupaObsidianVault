@@ -107,8 +107,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -227,7 +226,7 @@
       "graphfrontier:Open GraphFrontier": false
     }
   },
-  "active": "dc3a7abbdbff6f24",
+  "active": "4ad15f0c2c1f6d7d",
   "lastOpenFiles": [
     "Full Multiverse Relevance/Important Characters/Arden Livius.md",
     "Full Multiverse Relevance/Solarpunk Universe Common Name Here.md",
