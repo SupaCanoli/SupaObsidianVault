@@ -1,2 +1,1 @@
-
 The sector within Strongarm Corp. authorized by [[Arden Livius|Chairman Livius]] for [[Supa Kosmas|Dr. Kosmas]]'s inventions regarding being the first attempt to research into the theoretical use of nanotechnology. Some inventions that [[Supa Kosmas|Dr. Kosmas]] made throughout this project include the full [[B-10 Logical System]] and the [[Full Quantum Thrash Allocation]]. 
