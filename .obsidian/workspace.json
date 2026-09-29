@@ -62,23 +62,9 @@
               "icon": "lucide-file",
               "title": "Multiverse Totality Naming Convention"
             }
-          },
-          {
-            "id": "dee86a962684eebd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "3fe70f1db80f89ab",
@@ -274,10 +260,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dee86a962684eebd",
+  "active": "7a37decda38172ff",
   "lastOpenFiles": [
-    "Full Multiverse Relevance/Multiverse Totality Naming Convention.md",
     "conflict-files-obsidian-git.md",
+    "Full Multiverse Relevance/Multiverse Totality Naming Convention.md",
     "Full Multiverse Relevance/Strongarm Supa's Universe.md",
     "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md",
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md",
