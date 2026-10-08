@@ -1,1 +1,0 @@
-The original universe in which [[Supa Kosmas]] comes from, and has it's timeline set around the existence of [[Strongarm Corporations]] after they first began. 
