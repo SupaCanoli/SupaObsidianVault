@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "1fc6dec84ee4c42e",
+        "id": "3fe70f1db80f89ab",
         "type": "tabs",
-        "dimension": 43.42672413793103,
+        "dimension": 49.77653631284916,
         "children": [
           {
-            "id": "d14eb1ec39263bc9",
+            "id": "2124914d4103fd70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Full Multiverse Relevance/Multiverse Totality Naming Convention.md",
+                "file": "Strongarm Corporations Universe/Employees/Supa Kosmas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Supa Kosmas"
+            }
+          },
+          {
+            "id": "35a8a4c43a21e586",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Multiverse Totality Naming Convention.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,23 +36,22 @@
               "title": "Multiverse Totality Naming Convention"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e2b156047159e764",
         "type": "tabs",
-        "dimension": 56.57327586206896,
+        "dimension": 50.22346368715084,
         "children": [
           {
-            "id": "39133738a89da395",
+            "id": "8ae37b0b3bb7c4b5",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "graphfrontier-view",
+              "type": "graph",
               "state": {},
-              "pinned": true,
-              "icon": "orbit",
-              "title": "GraphFrontier"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -87,7 +100,7 @@
             }
           },
           {
-            "id": "dc3a7abbdbff6f24",
+            "id": "30c91588819e9d46",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -98,22 +111,12 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "f4bce428d3d4dd84",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 300
   },
   "right": {
     "id": "baf37989a7086d5f",
@@ -129,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Strongarm Corporations Universe/Employees/Arden Livius.md",
+                "file": "Solarpunk Magic Universe/Insert Solarpunk Bar Name Here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,47 +227,37 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "graphfrontier:Open GraphFrontier": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39133738a89da395",
+  "active": "906085cc5af52b1c",
   "lastOpenFiles": [
-    "Full Multiverse Relevance/Important Characters/Arden Livius.md",
-    "Full Multiverse Relevance/Solarpunk Universe Common Name Here.md",
-    "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md",
-    "Strongarm Corporations Universe/Inventions/B-10 Logical System.md",
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md",
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md",
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md",
-    "Full Multiverse Relevance/Strongarm Supa's Universe.md",
-    "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md",
-    "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md",
-    "Strongarm Corporations Universe/Departments/Project Hegemony.md",
-    "conflict-files-obsidian-git.md",
-    "Full Multiverse Relevance/Multiverse Totality Naming Convention.md",
-    "Full Multiverse Relevance/Important Characters/Supa Kosmas.md",
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System",
+    "Strongarm Corporations Universe/Inventions/B-10 Logical System.md",
     "Strongarm Corporations Universe/Employees/Insert CEO of Strongarm Corporations Name Here.md",
-    "Solarpunk Magic Universe/Companies/The Supatonic.md",
-    "SupaObsidianVault/Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md",
-    "SupaObsidianVault/Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md",
-    "SupaObsidianVault/Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md",
-    "SupaObsidianVault/Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md",
-    "SupaObsidianVault/Strongarm Corporations Universe/Inventions/B-10 Logical System.md",
-    "SupaObsidianVault/Strongarm Corporations Universe/Inventions/B-10 Logical System",
-    "SupaObsidianVault/Strongarm Corporations Universe/Employees/Supa Kosmas.md",
-    "SupaObsidianVault/Strongarm Corporations Universe/Employees/Insert CEO of Strongarm Corporations Name Here.md",
-    "SupaObsidianVault/Strongarm Corporations Universe/Employees/Arden Livius.md",
-    "SupaObsidianVault/Strongarm Corporations Universe/Departments/Warfare Reverse Engineering Department.md",
-    "SupaObsidianVault/Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md",
-    "SupaObsidianVault/Strongarm Corporations Universe/Companies/Strongarm Corporations.md",
-    "SupaObsidianVault/Strongarm Corporations Universe/Inventions",
-    "SupaObsidianVault/Strongarm Corporations Universe/Employees",
-    "SupaObsidianVault/Strongarm Corporations Universe/Departments",
-    "SupaObsidianVault/Strongarm Corporations Universe/Companies",
-    "SupaObsidianVault/Strongarm Corporations Universe",
-    "SupaObsidianVault/Solarpunk Magic Universe",
-    "SupaObsidianVault",
-    "Solarpunk Magic Universe/Companies",
-    "Full Multiverse Relevance/Important Characters"
+    "Strongarm Corporations Universe/Cyberpunk Universe Name Here.md",
+    "Strongarm Corporations Universe/Companies/Strongarm Corporations.md",
+    "Strongarm Corporations Universe/Companies",
+    "Strongarm Corporations Universe/Strongarm Corporations.md",
+    "Multiverse Totality Naming Convention.md",
+    "Strongarm Corporations Universe/Employees/Supa Kosmas.md",
+    "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md",
+    "Solarpunk Magic Universe/Insert Solarpunk Bar Name Here.md",
+    "Strongarm Corporations Universe/Inventions/B-10 Biological System/B-10 Quantum Memory Thrashing.md",
+    "Strongarm Corporations Universe/Inventions/B-10 Biological System/B-10 Operating System.md",
+    "Strongarm Corporations Universe/Inventions/B-10 Biological System/B-10 Cellular Structure System.md",
+    "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md",
+    "Strongarm Corporations Universe/Inventions/B-10 Biological System.md",
+    "Strongarm Corporations Universe/Inventions/B-10 Biological System",
+    "Strongarm Corporations Universe/Employees/Arden Livius.md",
+    "Strongarm Corporations Universe/Departments/Warfare Reverse Engineering Department.md",
+    "Strongarm Corporations Universe/Inventions",
+    "Strongarm Corporations Universe/Employees",
+    "Strongarm Corporations Universe/Departments",
+    "Strongarm Corporations Universe",
+    "Solarpunk Magic Universe"
   ]
 }

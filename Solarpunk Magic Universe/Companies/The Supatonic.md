@@ -1,1 +1,0 @@
-An upscale bar that [[Supa Kosmas|Supa]] currently in [[Solarpunk Universe Common Name Here]] owns and takes care of himself. 
