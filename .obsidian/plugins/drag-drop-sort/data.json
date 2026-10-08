@@ -1,9 +1,24 @@
 {
   "orders": {
     "/": [
-      "Multiverse Totality Naming Convention.md",
       "Solarpunk Magic Universe",
       "Strongarm Corporations Universe"
+    ],
+    "Full Multiverse Relevance": [
+      "Solarpunk Universe Common Name Here.md",
+      "Strongarm Supa's Universe.md",
+      "Multiverse Totality Naming Convention.md",
+      "Important Characters"
+    ],
+    "Strongarm Corporations Universe": [
+      "Companies",
+      "Departments",
+      "Employees",
+      "Inventions"
+    ],
+    "Solarpunk Magic Universe": [
+      "Companies",
+      "Insert Solarpunk Governmental System Here.md"
     ]
   }
 }

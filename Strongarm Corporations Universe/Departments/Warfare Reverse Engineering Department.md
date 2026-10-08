@@ -1,1 +1,0 @@
-A department authorized by the CEO of [[Strongarm Corporations|Strongarm Corp.]] with the help of [[Arden Livius|Chairman Livius]]. 
