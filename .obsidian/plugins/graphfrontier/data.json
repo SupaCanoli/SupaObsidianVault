@@ -568,12 +568,6 @@
       "query": "path:Solarpunk Magic Universe/Companies",
       "color": "#e20385",
       "enabled": true
-    },
-    {
-      "id": "group_mv0mnnyi_n756jq",
-      "query": "file:Multiversal Knowledge Point",
-      "color": "#ecd909",
-      "enabled": true
     }
   ],
   "blacklist": [],
@@ -611,9 +605,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 30.22233783582412,
-    "pan_y": -2.699565563572751,
-    "zoom": 2.2106814074060823,
+    "pan_x": -61.09439971821002,
+    "pan_y": 46.76265731028984,
+    "zoom": 3.895975992546981,
     "side_panel_sections": {
       "search": false,
       "selection": false,
