@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "Multiverse Totality Naming Convention"
             }
+          },
+          {
+            "id": "16205903cd7bd2f5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e2b156047159e764",
@@ -228,7 +241,7 @@
       "graphfrontier:Open GraphFrontier": false
     }
   },
-  "active": "39133738a89da395",
+  "active": "16205903cd7bd2f5",
   "lastOpenFiles": [
     "Full Multiverse Relevance/Important Characters/Arden Livius.md",
     "Full Multiverse Relevance/Solarpunk Universe Common Name Here.md",
