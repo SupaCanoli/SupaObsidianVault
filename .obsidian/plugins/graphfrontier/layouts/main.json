@@ -125,6 +125,11 @@
       "x": 0.08171661769166327,
       "y": 120.2277967902418,
       "mode": "exact"
+    },
+    "Full Multiverse Relevance/Multiversal Knowledge Point.md": {
+      "x": -160,
+      "y": 60,
+      "mode": "grid"
     }
   },
   "orbit_pins": {},
@@ -314,8 +319,8 @@
       "y": -0.05103357864733998
     },
     "Full Multiverse Relevance/Multiversal Knowledge Point.md": {
-      "x": -81.02316012484151,
-      "y": 13.503009585791586
+      "x": -160,
+      "y": 60
     }
   },
   "saved_layout_settings": {
@@ -474,6 +479,11 @@
       "x": 0.08171661769166327,
       "y": 120.2277967902418,
       "mode": "exact"
+    },
+    "Full Multiverse Relevance/Multiversal Knowledge Point.md": {
+      "x": -160,
+      "y": 60,
+      "mode": "grid"
     }
   },
   "saved_layout_orbit_pins": {},
@@ -595,9 +605,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 142.84911722312947,
-    "pan_y": -52.07040112661056,
-    "zoom": 1.1047347825460958,
+    "pan_x": -61.09439971821002,
+    "pan_y": 46.76265731028984,
+    "zoom": 3.895975992546981,
     "side_panel_sections": {}
   }
 }
