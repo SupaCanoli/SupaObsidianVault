@@ -54,6 +54,16 @@
               "icon": "orbit",
               "title": "GraphFrontier"
             }
+          },
+          {
+            "id": "59c6f7d4bbd8968d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ]
       }
@@ -242,10 +252,10 @@
       "graphfrontier:Open GraphFrontier": false
     }
   },
-  "active": "d14eb1ec39263bc9",
+  "active": "39133738a89da395",
   "lastOpenFiles": [
-    "Full Multiverse Relevance/Multiversal Knowledge Point.md",
     "Full Multiverse Relevance/Multiverse Totality Naming Convention.md",
+    "Full Multiverse Relevance/Multiversal Knowledge Point.md",
     "Full Multiverse Relevance/Important Characters/Arden Livius.md",
     "Full Multiverse Relevance/Solarpunk Universe Common Name Here.md",
     "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md",
