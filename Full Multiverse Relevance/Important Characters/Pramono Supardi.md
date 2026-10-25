@@ -1,7 +1,9 @@
 ---
 aliases:
-  - Dr. Kosmas
   - Supa
+  - Dr. Supardi
+  - Dr. Supa
+  - Pramono
 ---
 # History in the Strongarm Corporations Universe
 
