@@ -6,7 +6,7 @@
       {
         "id": "1fc6dec84ee4c42e",
         "type": "tabs",
-        "dimension": 43.42672413793103,
+        "dimension": 35.294117647058826,
         "children": [
           {
             "id": "d14eb1ec39263bc9",
@@ -56,7 +56,7 @@
       {
         "id": "e2b156047159e764",
         "type": "tabs",
-        "dimension": 56.57327586206896,
+        "dimension": 64.70588235294117,
         "children": [
           {
             "id": "39133738a89da395",
@@ -267,7 +267,7 @@
       "graphfrontier:Open GraphFrontier": false
     }
   },
-  "active": "87ae86f0e4eb5df3",
+  "active": "39133738a89da395",
   "lastOpenFiles": [
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md",
     "Strongarm Corporations Universe/Departments/Project Hegemony.md",
