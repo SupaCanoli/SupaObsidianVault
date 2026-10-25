@@ -125,6 +125,11 @@
       "x": 0.08171661769166327,
       "y": 120.2277967902418,
       "mode": "exact"
+    },
+    "Full Multiverse Relevance/Important Characters/Pramono Supardi.md": {
+      "x": 0,
+      "y": -20,
+      "mode": "grid"
     }
   },
   "orbit_pins": {},
@@ -310,8 +315,8 @@
       "y": 3.739186515384973
     },
     "Full Multiverse Relevance/Multiversal Knowledge Point.md": {
-      "x": -81.83339825006547,
-      "y": 14.41911442506123
+      "x": -80.9758596989358,
+      "y": 13.676722469624519
     },
     "Full Multiverse Relevance/Important Characters/Something Supardi.md": {
       "x": -9.014096255811154,
@@ -326,8 +331,8 @@
       "y": -19.96567134383777
     },
     "Full Multiverse Relevance/Important Characters/Pramono Supardi.md": {
-      "x": -9.006279315053918,
-      "y": -19.957989930966264
+      "x": 0,
+      "y": -20
     }
   },
   "saved_layout_settings": {
@@ -486,6 +491,11 @@
       "x": 0.08171661769166327,
       "y": 120.2277967902418,
       "mode": "exact"
+    },
+    "Full Multiverse Relevance/Important Characters/Pramono Supardi.md": {
+      "x": 0,
+      "y": -20,
+      "mode": "grid"
     }
   },
   "saved_layout_orbit_pins": {},
@@ -607,9 +617,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": -26.23340955472876,
-    "pan_y": -60.09618482044749,
-    "zoom": 3.011079069866778,
+    "pan_x": 18.63382426030656,
+    "pan_y": 14.685306085960814,
+    "zoom": 2.2182887871708794,
     "side_panel_sections": {
       "search": false,
       "selection": false,
