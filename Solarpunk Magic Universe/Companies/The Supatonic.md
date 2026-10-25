@@ -1,1 +1,1 @@
-An upscale bar that [[FirstName Supardi|Supa]] currently in [[Solarpunk Universe Common Name Here]] owns and takes care of himself. 
+An upscale bar that [[Pramono Supardi|Supa]] currently in [[Solarpunk Universe Common Name Here]] owns and takes care of himself. 
