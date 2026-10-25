@@ -519,7 +519,7 @@
   "groups": [
     {
       "id": "group_mu7kmfix_ptu4y0",
-      "query": "name:FirstName Supardi",
+      "query": "name:Pramono Supardi",
       "color": "#9705e6",
       "enabled": true
     },
@@ -607,9 +607,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 18.03934081266134,
-    "pan_y": 20.70040839861454,
-    "zoom": 2.533620602141539,
+    "pan_x": 25.575259822692146,
+    "pan_y": 16.28839182575001,
+    "zoom": 3.011079069866778,
     "side_panel_sections": {
       "search": false,
       "selection": false,
