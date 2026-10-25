@@ -1,1 +1,1 @@
-The original universe in which [[Supardi]] comes from, and has it's timeline set around the existence of [[Strongarm Corporations]] after they first began. 
+The original universe in which [[FirstName Supardi]] comes from, and has it's timeline set around the existence of [[Strongarm Corporations]] after they first began. 
