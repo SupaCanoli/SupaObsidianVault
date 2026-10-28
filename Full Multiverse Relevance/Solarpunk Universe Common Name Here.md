@@ -1,1 +1,1 @@
-The new universe in which [[Pramono Supardi]] currently resides, and is based around the [[Insert Solarpunk Governmental System Here]].
+The new universe in which [[Pramono Supardi]] currently resides, and is based around the [[Insert Solarpunk Governmental System Here]]. 
