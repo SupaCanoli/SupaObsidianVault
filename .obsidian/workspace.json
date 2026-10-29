@@ -6,7 +6,7 @@
       {
         "id": "1fc6dec84ee4c42e",
         "type": "tabs",
-        "dimension": 35.294117647058826,
+        "dimension": 51.85444366689993,
         "children": [
           {
             "id": "d14eb1ec39263bc9",
@@ -91,14 +91,28 @@
               "icon": "lucide-file",
               "title": "B-10 Operating System"
             }
+          },
+          {
+            "id": "7d71fdcc02fdda0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Full Multiverse Relevance/Strongarm Supa's Universe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Strongarm Supa's Universe"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "e2b156047159e764",
         "type": "tabs",
-        "dimension": 64.70588235294117,
+        "dimension": 48.14555633310007,
         "children": [
           {
             "id": "39133738a89da395",
@@ -295,7 +309,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -310,20 +324,20 @@
       "graphfrontier:Open GraphFrontier": false
     }
   },
-  "active": "24510ae771c3256e",
+  "active": "7d71fdcc02fdda0c",
   "lastOpenFiles": [
+    "Full Multiverse Relevance/Solarpunk Universe Common Name Here.md",
+    "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md",
     "Solarpunk Magic Universe/Companies/The Supatonic.md",
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Quantum Memory Thrashing.md",
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Operating System.md",
     "Strongarm Corporations Universe/Inventions/B-10 Logical System/B-10 Cellular Structure System.md",
-    "Full Multiverse Relevance/Solarpunk Universe Common Name Here.md",
     "Full Multiverse Relevance/Strongarm Supa's Universe.md",
     "Full Multiverse Relevance/Multiverse Totality Naming Convention.md",
     "Full Multiverse Relevance/Important Characters/Arden Livius.md",
     "Full Multiverse Relevance/Multiversal Knowledge Point.md",
     "Full Multiverse Relevance/Important Characters/Pramono Supardi.md",
     "Strongarm Corporations Universe/Inventions/B-10 Logical System.md",
-    "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md",
     "Strongarm Corporations Universe/Departments/Project Hegemony.md",
     "Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md",
     "conflict-files-obsidian-git.md",
