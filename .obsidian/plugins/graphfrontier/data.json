@@ -126,9 +126,9 @@
       "y": 120.2277967902418,
       "mode": "exact"
     },
-    "Full Multiverse Relevance/Important Characters/Pramono Supardi.md": {
-      "x": 0,
-      "y": -20,
+    "Full Multiverse Relevance/Multiversal Knowledge Point.md": {
+      "x": -160,
+      "y": 60,
       "mode": "grid"
     }
   },
@@ -314,25 +314,17 @@
       "x": 76.67058140061854,
       "y": 3.739186515384973
     },
+    "Full Multiverse Relevance/Untitled.md": {
+      "x": 1.5416922179081027,
+      "y": -0.05103357864733998
+    },
     "Full Multiverse Relevance/Multiversal Knowledge Point.md": {
-      "x": -80.9758596989358,
-      "y": 13.676722469624519
-    },
-    "Full Multiverse Relevance/Important Characters/Something Supardi.md": {
-      "x": -9.014096255811154,
-      "y": -19.96228735786023
-    },
-    "Full Multiverse Relevance/Important Characters/Supardi.md": {
-      "x": -9.001035797224544,
-      "y": -19.963564752160654
-    },
-    "Full Multiverse Relevance/Important Characters/FirstName Supardi.md": {
-      "x": -9.00184159681322,
-      "y": -19.96567134383777
+      "x": -160,
+      "y": 60
     },
     "Full Multiverse Relevance/Important Characters/Pramono Supardi.md": {
-      "x": 0,
-      "y": -20
+      "x": -9.243872442534288,
+      "y": -19.867894312678086
     }
   },
   "saved_layout_settings": {
@@ -492,9 +484,9 @@
       "y": 120.2277967902418,
       "mode": "exact"
     },
-    "Full Multiverse Relevance/Important Characters/Pramono Supardi.md": {
-      "x": 0,
-      "y": -20,
+    "Full Multiverse Relevance/Multiversal Knowledge Point.md": {
+      "x": -160,
+      "y": 60,
       "mode": "grid"
     }
   },
@@ -529,7 +521,7 @@
   "groups": [
     {
       "id": "group_mu7kmfix_ptu4y0",
-      "query": "name:Pramono Supardi",
+      "query": "name:Supa Kosmas",
       "color": "#9705e6",
       "enabled": true
     },
@@ -617,9 +609,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 104.39156758672914,
-    "pan_y": -25.523844604567408,
-    "zoom": 1.6019995290701818,
+    "pan_x": -61.09439971821002,
+    "pan_y": 46.76265731028984,
+    "zoom": 3.895975992546981,
     "side_panel_sections": {
       "search": false,
       "selection": false,
