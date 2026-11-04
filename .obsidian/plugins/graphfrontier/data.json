@@ -130,6 +130,11 @@
       "x": -160,
       "y": 60,
       "mode": "grid"
+    },
+    "Full Multiverse Relevance/Important Characters/Supardi Pramono.md": {
+      "x": 0,
+      "y": -20,
+      "mode": "grid"
     }
   },
   "orbit_pins": {},
@@ -327,8 +332,8 @@
       "y": -19.86362197844781
     },
     "Full Multiverse Relevance/Important Characters/Supardi Pramono.md": {
-      "x": -9.152631767410641,
-      "y": -19.980867752618902
+      "x": 0,
+      "y": -20
     }
   },
   "saved_layout_settings": {
@@ -492,6 +497,11 @@
       "x": -160,
       "y": 60,
       "mode": "grid"
+    },
+    "Full Multiverse Relevance/Important Characters/Supardi Pramono.md": {
+      "x": 0,
+      "y": -20,
+      "mode": "grid"
     }
   },
   "saved_layout_orbit_pins": {},
@@ -525,7 +535,7 @@
   "groups": [
     {
       "id": "group_mu7kmfix_ptu4y0",
-      "query": "name:Supa Kosmas",
+      "query": "name:Supardi Pramono",
       "color": "#9705e6",
       "enabled": true
     },
