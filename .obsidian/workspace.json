@@ -49,9 +49,21 @@
               "icon": "lucide-file",
               "title": "Pramono Supardi"
             }
+          },
+          {
+            "id": "291881c51a04920e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.5"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "e2b156047159e764",
@@ -257,7 +269,7 @@
       "graphfrontier:Open GraphFrontier": false
     }
   },
-  "active": "e19eab13f403db12",
+  "active": "291881c51a04920e",
   "lastOpenFiles": [
     "Full Multiverse Relevance/Multiversal Knowledge Point.md",
     "Full Multiverse Relevance/Important Characters/Pramono Supardi.md",
