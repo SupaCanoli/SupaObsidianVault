@@ -51,18 +51,6 @@
             }
           },
           {
-            "id": "aef047744cb4d7a6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.15.0"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.15.0"
-            }
-          },
-          {
             "id": "33f005de865d3f7e",
             "type": "leaf",
             "state": {
@@ -77,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "e2b156047159e764",
@@ -283,10 +271,10 @@
       "graphfrontier:Open GraphFrontier": false
     }
   },
-  "active": "aef047744cb4d7a6",
+  "active": "e19eab13f403db12",
   "lastOpenFiles": [
-    "Full Multiverse Relevance/Multiverse Totality Naming Convention.md",
     "Full Multiverse Relevance/Important Characters/Arden Livius.md",
+    "Full Multiverse Relevance/Multiverse Totality Naming Convention.md",
     "Full Multiverse Relevance/Strongarm Supa's Universe.md",
     "Full Multiverse Relevance/Solarpunk Universe Common Name Here.md",
     "Strongarm Corporations Universe/Employees/Insert CEO of Strongarm Corporations Name Here.md",
