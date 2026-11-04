@@ -130,11 +130,6 @@
       "x": -160,
       "y": 60,
       "mode": "grid"
-    },
-    "Full Multiverse Relevance/Important Characters/Pramono Supardi.md": {
-      "x": 0,
-      "y": -20,
-      "mode": "grid"
     }
   },
   "orbit_pins": {},
@@ -328,8 +323,12 @@
       "y": 60
     },
     "Full Multiverse Relevance/Important Characters/Pramono Supardi.md": {
-      "x": 0,
-      "y": -20
+      "x": -9.233782802928351,
+      "y": -19.86362197844781
+    },
+    "Full Multiverse Relevance/Important Characters/Supardi Pramono.md": {
+      "x": -9.152631767410641,
+      "y": -19.980867752618902
     }
   },
   "saved_layout_settings": {
@@ -493,11 +492,6 @@
       "x": -160,
       "y": 60,
       "mode": "grid"
-    },
-    "Full Multiverse Relevance/Important Characters/Pramono Supardi.md": {
-      "x": 0,
-      "y": -20,
-      "mode": "grid"
     }
   },
   "saved_layout_orbit_pins": {},
@@ -531,7 +525,7 @@
   "groups": [
     {
       "id": "group_mu7kmfix_ptu4y0",
-      "query": "name:Pramono Supardi",
+      "query": "name:Supa Kosmas",
       "color": "#9705e6",
       "enabled": true
     },
@@ -619,17 +613,17 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 13.834648568230323,
-    "pan_y": -21.897360150589723,
-    "zoom": 1.6565214535492812,
+    "pan_x": 35.419710160806424,
+    "pan_y": -6.8907980215081786,
+    "zoom": 4.36349311165262,
     "side_panel_sections": {
       "search": false,
       "selection": false,
-      "display": false,
+      "display": true,
       "physics": false,
-      "groups": false,
+      "groups": true,
       "lists": false,
-      "layout": false
+      "layout": true
     }
   }
 }
