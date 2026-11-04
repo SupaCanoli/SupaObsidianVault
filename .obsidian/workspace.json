@@ -152,7 +152,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -271,7 +272,7 @@
       "graphfrontier:Open GraphFrontier": false
     }
   },
-  "active": "e19eab13f403db12",
+  "active": "dc3a7abbdbff6f24",
   "lastOpenFiles": [
     "Full Multiverse Relevance/Multiverse Totality Naming Convention.md",
     "Full Multiverse Relevance/Important Characters/Arden Livius.md",
