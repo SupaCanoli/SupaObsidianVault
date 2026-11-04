@@ -1,1 +1,1 @@
-The original universe in which [[Pramono Supardi]] comes from, and has it's timeline set around the existence of [[Strongarm Corporations]] after they first began. 
+The original universe in which [[Pramono Supardi|Supa]] comes from, and has it's timeline set around the existence of [[Strongarm Corporations|Strongarm Corp.]] after they first began. 
