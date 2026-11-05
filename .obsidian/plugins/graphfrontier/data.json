@@ -131,7 +131,7 @@
       "y": 60,
       "mode": "grid"
     },
-    "Full Multiverse Relevance/Important Characters/Supardi Pramono.md": {
+    "Full Multiverse Relevance/Important Characters/Pramono Supardi.md": {
       "x": 0,
       "y": -20,
       "mode": "grid"
@@ -328,12 +328,12 @@
       "y": 60
     },
     "Full Multiverse Relevance/Important Characters/Pramono Supardi.md": {
-      "x": -9.233782802928351,
-      "y": -19.86362197844781
-    },
-    "Full Multiverse Relevance/Important Characters/Supardi Pramono.md": {
       "x": 0,
       "y": -20
+    },
+    "Full Multiverse Relevance/Important Characters/Supardi Pramono.md": {
+      "x": -9.200354848058291,
+      "y": -19.808263590911984
     }
   },
   "saved_layout_settings": {
@@ -498,7 +498,7 @@
       "y": 60,
       "mode": "grid"
     },
-    "Full Multiverse Relevance/Important Characters/Supardi Pramono.md": {
+    "Full Multiverse Relevance/Important Characters/Pramono Supardi.md": {
       "x": 0,
       "y": -20,
       "mode": "grid"
@@ -535,7 +535,7 @@
   "groups": [
     {
       "id": "group_mu7kmfix_ptu4y0",
-      "query": "name:Supardi Pramono",
+      "query": "name:Pramono Supardi",
       "color": "#9705e6",
       "enabled": true
     },
@@ -623,17 +623,17 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 35.419710160806424,
-    "pan_y": -6.8907980215081786,
-    "zoom": 4.36349311165262,
+    "pan_x": 19.241690207143584,
+    "pan_y": -30.371250479984035,
+    "zoom": 3.484344762252129,
     "side_panel_sections": {
       "search": false,
       "selection": false,
-      "display": true,
+      "display": false,
       "physics": false,
-      "groups": true,
+      "groups": false,
       "lists": false,
-      "layout": true
+      "layout": false
     }
   }
 }
