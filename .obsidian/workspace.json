@@ -164,7 +164,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -351,10 +352,10 @@
       "graphfrontier:Open GraphFrontier": false
     }
   },
-  "active": "39133738a89da395",
+  "active": "59c6f7d4bbd8968d",
   "lastOpenFiles": [
-    "Full Multiverse Relevance/Strongarm Supa's Universe.md",
     "Full Multiverse Relevance/Important Characters/Supardi Pramono.md",
+    "Full Multiverse Relevance/Strongarm Supa's Universe.md",
     "Strongarm Corporations Universe/Employees/Insert CEO of Strongarm Corporations Name Here.md",
     "Solarpunk Magic Universe/Companies/The Supatonic.md",
     "Strongarm Corporations Universe/Departments/Project Nano-Symbiosis.md",
