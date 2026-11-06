@@ -153,19 +153,8 @@
               "icon": "orbit",
               "title": "GraphFrontier"
             }
-          },
-          {
-            "id": "59c6f7d4bbd8968d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -352,7 +341,7 @@
       "graphfrontier:Open GraphFrontier": false
     }
   },
-  "active": "59c6f7d4bbd8968d",
+  "active": "39133738a89da395",
   "lastOpenFiles": [
     "Full Multiverse Relevance/Important Characters/Supardi Pramono.md",
     "Full Multiverse Relevance/Strongarm Supa's Universe.md",
