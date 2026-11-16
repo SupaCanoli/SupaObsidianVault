@@ -535,7 +535,7 @@
   "groups": [
     {
       "id": "group_mu7kmfix_ptu4y0",
-      "query": "name:Pramono Supardi",
+      "query": "name:Supardi Pramono",
       "color": "#9705e6",
       "enabled": true
     },
@@ -628,7 +628,7 @@
     "zoom": 2.235279981203769,
     "side_panel_sections": {
       "search": false,
-      "selection": true,
+      "selection": false,
       "display": false,
       "physics": false,
       "groups": false,
