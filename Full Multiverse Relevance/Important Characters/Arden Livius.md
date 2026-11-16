@@ -4,7 +4,7 @@ aliases:
 tags:
   - StrongarmCorpEmployee
 ---
-Head Department Chair of [[Strongarm Corporations|Strongarm Corp.]], and an immediate higher-up to [[Supardi Pramono|Dr. Pramono]]. He is also the person who decides whether or not certain projects or sectors are opened or closed at any point or time. She helped in approving [[Supardi Pramono|Dr. Pramono]]'s project after about 4 months of him developing a lead, and was still skeptical to allow him to do so. 
+Head Department Director of [[Strongarm Corporations|Strongarm Corp.]]'s Development Department, and an immediate higher-up to [[Supardi Pramono|Dr. Pramono]]. She is also the person who can get into meetings which decide whether or not certain projects or sectors are opened or closed at any point or time budget-wise. She helped in approving [[Supardi Pramono|Dr. Pramono]]'s project after about 4 months of him developing a lead, and was still skeptical to allow him to do so. 
 
 # Character Development Report:
 
