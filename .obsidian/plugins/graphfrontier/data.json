@@ -122,8 +122,8 @@
       "mode": "exact"
     },
     "Full Multiverse Relevance/Strongarm Supa's Universe.md": {
-      "x": 0.08171661769166327,
-      "y": 120.2277967902418,
+      "x": -22.132545172314824,
+      "y": 119.32109222738438,
       "mode": "exact"
     },
     "Full Multiverse Relevance/Multiversal Knowledge Point.md": {
@@ -133,6 +133,11 @@
     },
     "Full Multiverse Relevance/Important Characters/Pramono Supardi.md": {
       "x": 0,
+      "y": -20,
+      "mode": "grid"
+    },
+    "Full Multiverse Relevance/Important Characters/Supardi Pramono.md": {
+      "x": -20,
       "y": -20,
       "mode": "grid"
     }
@@ -260,8 +265,8 @@
       "y": -19.91378638828524
     },
     "Full Multiverse Relevance/Strongarm Supa's Universe.md": {
-      "x": 0.08171661769166327,
-      "y": 120.2277967902418
+      "x": -22.132545172314824,
+      "y": 119.32109222738438
     },
     "SupaObsidianVault/Strongarm Corporations Universe/Inventions/Full Quantum Thrash Allocation.md": {
       "x": 49.5022595019159,
@@ -332,8 +337,8 @@
       "y": -20
     },
     "Full Multiverse Relevance/Important Characters/Supardi Pramono.md": {
-      "x": -9.257544945837239,
-      "y": -19.89783404412648
+      "x": -20,
+      "y": -20
     }
   },
   "saved_layout_settings": {
@@ -489,8 +494,8 @@
       "mode": "exact"
     },
     "Full Multiverse Relevance/Strongarm Supa's Universe.md": {
-      "x": 0.08171661769166327,
-      "y": 120.2277967902418,
+      "x": -22.132545172314824,
+      "y": 119.32109222738438,
       "mode": "exact"
     },
     "Full Multiverse Relevance/Multiversal Knowledge Point.md": {
@@ -500,6 +505,11 @@
     },
     "Full Multiverse Relevance/Important Characters/Pramono Supardi.md": {
       "x": 0,
+      "y": -20,
+      "mode": "grid"
+    },
+    "Full Multiverse Relevance/Important Characters/Supardi Pramono.md": {
+      "x": -20,
       "y": -20,
       "mode": "grid"
     }
@@ -623,9 +633,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 22.911083589307268,
-    "pan_y": -86.1254070578926,
-    "zoom": 2.235279981203769,
+    "pan_x": -0.24313425954749945,
+    "pan_y": -41.813397824055706,
+    "zoom": 2.20579015693619,
     "side_panel_sections": {
       "search": false,
       "selection": false,
